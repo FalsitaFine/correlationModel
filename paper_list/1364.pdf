@@ -1,0 +1,612 @@
+﻿<!DOCTYPE html>
+<html>
+
+<!-- #BeginTemplate "../mobile-template/site.dwt" -->
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<!-- viewport -->
+<meta name="viewport" content="width=device-width">
+<meta name="HandheldFriendly" content="True">
+<!-- for mobile browsers that don't understand the viewport tag -->
+<meta name="MobileOptimized" content="320"/>
+<!-- for IE mobile font smoothing -->
+<meta http-equiv="cleartype" content="on">
+<!-- Needed for iOS devices to ensure correct scaling when switching between portrait and landscape -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+<!-- #BeginEditable "doctitle" -->
+<title>Biochemistry Online: An Approach Based on Chemical Logic</title>
+<meta name="description" content="Biochemistry Online: An Approach Based on Chemical Logic"/>
+
+<!-- #EndEditable -->
+
+
+<link href="../mobile-template/style/sticky.css" rel="stylesheet" type="text/css">
+<link href="../mobile-template/style/layout.css" rel="stylesheet" type="text/css">
+<link href="../mobile-template/style/normal.css" rel="stylesheet" type="text/css">
+
+<!-- Old browsers, including some found on mobile devices, don't support @media queries -->
+<script type="text/javascript" src="../mobile-template/javascript/respond.min.js"></script>
+
+
+<!-- Allows IE to style the HTML5 layout elements -->
+<!--[if lt IE 9]>
+	<script src="../lipidstruct/html5.js"></script>
+<![endif]-->
+
+<!--[if !IE 7]>
+	<style type="text/css">
+		#wrap {display:table;height:100%}
+	</style>
+<![endif]-->
+
+<!-- #BeginEditable "style" -->
+<style>
+
+/*=====================================*/
+/* comment this out for production use */
+footer {
+margin-top:0;
+}
+/*=====================================*/
+
+
+.auto-style1 {
+	text-align: center;
+}
+
+
+.auto-style2 {
+	margin-left: 50px;
+}
+
+
+.auto-style3 {
+	font-weight: normal;
+}
+
+
+.auto-style4 {
+	text-decoration: underline;
+}
+
+
+.auto-style5 {
+	text-align: left;
+}
+
+
+</style>
+<!-- #EndEditable -->
+</head>
+
+<body>
+
+<div id="wrap">
+
+
+<header>
+<h1 class="Title">Biochemistry Online: An Approach Based on Chemical Logic</h1>   
+<img class="CoverArt" alt="Biochemistry Online" src="../mobile-template/CoverArt3.jpg" width="690" height="193">
+</header>
+<nav>
+<!-- #BeginEditable "nav" --> <!-- #EndEditable -->
+</nav>
+
+<!-- #BeginEditable "body" -->
+
+<section>
+<h1 class="Title" style="text-align: center">Biochemistry Online: An Approach Based on Chemical Logic</h1>
+	<p class="auto-style1" style="height: 74px">
+	<img alt="NSF logo" src="NSFlogo.jpg" width="74" height="71">Updates from 
+	October 2015 are supported in part by NSF DUE 1525021 - Last update:&nbsp; 
+	11/19/2017</p>
+	<p class="auto-style1" style="height: 74px">
+	<img alt="2017 VideoShowCase" src="2017VideoShowCase.jpg">
+	<a href="http://stemforall2017.videohall.com/p/932">A 3 minute video 
+	describing my book</a><br><br>
+	Also available at
+	<a href="http://bio.libretexts.org/Core/Biochemistry_Online">Biology 
+	LibreText</a>, part of the UC Davis LibreTexts libraries <br></p>
+	
+<br>
+<font size="1">
+<img src="../../../_vti_bin/fpcount.exe/hjakubowski/?Page=classes/ch331/bcintro/default.html|Image=1|Digits=6" alt="Hit Counter"></font>
+
+<font size="3" color="#000000">visitors to this Table of Content page since 8/6/06</font>
+
+	
+&nbsp;<h3>Preface</h3>
+	<ol type="A">
+		<li>
+		<a href="chemlogic.html">
+		Why Chemical Logic?</a> </li>
+		<li>
+		<a href="updates.html">
+		Updates</a></li>
+		<li>
+		<a HREF="olintro1.html">
+		Introduction to Biochemistry</a> &nbsp; </li>
+		<li>
+		<a href="dictionaries.html">
+		Biochemistry and Molecular Biology Dictionaries </a></li>
+		<li><a href="permissionpg.htm">Permissions</a></li>
+	</ol>
+	<h3><strong>Interactivity</strong></h3>
+	
+		<img alt="MathematicaLogo" src="images/MathematicaLogo_Qualit33Pcent.png" style="height: 33px" width="33"><span class="auto-style4">Interactive Mathematica graphs</span>:&nbsp; requires free plugin,
+		<a href="http://demonstrations.wolfram.com/download-cdf-player.html">CDF player</a>&nbsp;(Wolfram) 
+	to play downloadable files. The web-imbedded inteactive Mathematica graph 
+	are longer supported by most browsers which no longer allow plugins.<br>
+		<img alt="SageMathLogo" src="images/SageMathLogo33Pcent.png" style="height: 33px" width="35">I<span class="auto-style4">nteractive SageMath graph</span>s: no plug in required.&nbsp; Works on 
+		Firefox, Chrome and Edge, IE11.
+
+	<br>
+		<img alt="JsmolLogo" src="images/JsmolLogo33pcent.png" style="height: 33px" width="94"><span class="auto-style4">Interactive Jsmol molecular models</span>: no plugins required.&nbsp; Based 
+		on Javascript; works on all browsers
+	<br>
+	<h3 class="auto-style5">
+	<img alt="homework - literature learning module" src="icon_Homework.png" style="height: 75px" width="75">Homework 
+	Problems</h3>
+	
+		Literature Learning Modules:&nbsp; Questions (with answers) based on the 
+	research literature (added from 2/8/17 on) 
+	<h3>&nbsp;</h3>
+	<h3>Review: The Cell</h3>
+	<ol type="A">
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch250/ROBI_CellTutorial.html">MPO -
+	The Cell:&nbsp; An Overview from a Chemistry Perspective</a>
+		</li>
+		<li><a href="../../ch250/ROBI_CellTutorial_Lipids.html">MP0 - L. The Cell:&nbsp;Lipids</a>
+		</li>
+		<li><a href="../../ch250/ROBI_CellTutorial_Proteins.html">MP0 - P. The Cell:&nbsp; Proteins</a>
+		</li>
+		<li><a href="../../ch250/ROBI_CellTutorial_NucleicAcids.html">MP0 - N. The Cell:&nbsp; Nucleic Acids</a>
+		</li>
+		<li><a href="../../ch250/ROBI_CellTutorial_CHO.html">MP0 - C. The Cell:&nbsp; Carbohydrates</a>
+		</li>
+		<li>
+		<a href="../Cells/cells.htm">
+		Review:&nbsp; The Cell</a></li>
+	</ol>
+	<hr>
+	<h3>Chapter 1:&nbsp; LIPID STRUCTURE</h3>
+	<ol type="A">
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/lipidstruct/LS_1A0_Sections.html">Lipid Structure</a>&nbsp;</li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/lipidstruct/LS_1B0_Lipids_Water_Sections.html">Lipids in Water</a><span> </span></li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/lipidstruct/LS_1C0_Dynamics_Memb_Lipids_Sections.html">Dynamics of Membrane Lipids</a> </li>
+	</ol>
+	<ul class="auto-style2">
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/protstructure/MD0_MM_MD_Sections.html">
+		Molecular Mechanics and Dynamics</a> </li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/lipidstruct/TD0_Thermo_Rev_Sections.htm">Thermodynamics 
+		Review</a></li>
+	</ul>
+	<ol start="4" type="A">
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/lipidstruct/LS_1D0_Lipid_Water_Thermo_Sections.html">Lipids in Water: Thermodynamics
+		</a> </li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/lipidstruct/LS_1E1_Lip_Agg_Sing_Double_Amph.html">
+		Lipid Aggregates from Single and Double Chain Amphiphiles</a> </li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/lipidstruct/LS_1F1_Lip_Signaling.html">Lipids and Signaling 
+		</a><span>&nbsp;</span></li>
+	</ol>
+	<p>
+	<o:p>
+	<img alt="homework" src="icon_Homework.png" style="height: 75px" width="75">Homework 
+	Problems - Literature Learning Module:
+	</o:p>
+	</p>
+	<ul class="auto-style2">
+		<li>
+		<o:p>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/Lit_Learn_Module/LLM_Lipids_1_Questions.html">&nbsp;Sphingomyelinase 
+		Activity Causes Transbilayer Lipid Translocation </a></o:p>
+		</li>
+	</ul>
+	<hr>
+	<h3>Chapter 2:&nbsp; PROTEIN STRUCTURE</h3>
+	<ol type="A">
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/protstructure/PS_2A0_AA_Sections.html">Amino Acids</a> </li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/protstructure/PS_2B0_CompSeqConf_Sections.html">Composition, Sequence and Conformational Analysis of Proteins</a> </li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/protstructure/PS_2C0_Understand_Prot_Conf_Sections.html">Understanding Protein Conformation</a> </li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/protstructure/PS_2D0_Prot_Fold_Stab_Sections.html">Proteins Folding - In Vivo and In Vitro</a></li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/protstructure/PS_2E1_Lab_Det_Del_G.html">Laboratory Determination of&nbsp; 
+		ΔG<sup>o</sup> of Protein Unfolding 
+		</a></li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/protstructure/PS_2F0_Thermo_IMFs_Prot_Stab_Sections.html">Thermodynamics and IMF's in Protein Stability</a> <span>&nbsp;</span></li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/protstructure/PS_2G0_Pred_Prot_Prop_Seq_Sections.html">Predicting Protein Properties 
+		From Sequences &nbsp;</a></li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/protstructure/PS_2H0_Prot_Agg_Disease_Sections.html">Protein Aggregates 
+		and Disease</a></li>
+	</ol>
+	<p>
+	<o:p>
+	<img alt="homework" src="icon_Homework.png" style="height: 75px" width="75">Homework 
+	Problems - Literature Learning Module:
+	</o:p>
+	</p>
+	<ul class="auto-style2">
+		<li>
+		<o:p>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/Lit_Learn_Module/LLM_Protein_1_Questions.html">
+		Steroidogenic Acute Regulatory Protein 
+		</a></o:p>
+		</li>
+	</ul>
+	<hr>
+	<h3>Chapter 3:&nbsp; CARBOHYDRATES/GLYCANS</h3>
+	<ol type="A">
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/cho/PS_3A0_Mono_Disacch_Sections.htm">Monosaccharaides and Disaccharides</a></li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/cho/PS_3B0_More_Complex_CHO_Sections.htm">
+		More Complex Carbohydrates</a></li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/cho/PS_3C1_CHO_Jeopardy.htm">Jeopardy</a></li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/cho/PS_3D0_Glycoprot_Biosyn_Fn_Sections.htm">Glycoproteins Biosynthesis and Function</a></li>
+	</ol>
+	<p>
+	<o:p>
+	<img alt="homework" src="icon_Homework.png" style="height: 75px" width="75">Homework 
+	Problems - Literature Learning Module:
+	</o:p>
+	</p>
+	<ul class="auto-style2">
+		<li>
+		<o:p>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/Lit_Learn_Module/LLM_CHO_1_Questions.html">
+		Trypanosoma brucei Glycoproteins </a></o:p>
+		</li>
+	</ul>
+	<hr>
+	<h3>Chapter 4:&nbsp; DNA AND THE CENTRAL DOGMA OF BIOLOGY</h3>
+	<ol type="A">
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/dna/NA_4A1_DNA_Struct.html">
+		DNA Structure</a> </li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/dna/NA_4B1_Cent_Dogma.html">The Central Dogma of Biology</a></li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/dna/NA_4C1_Lang_DNA.html">The Language of DNA</a> </li>
+	</ol>
+	<hr>
+	<h3>Chapter 5:&nbsp; BINDING</h3>
+	<ol type="A">
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/bind/BD_5A0_Intro_Rev_Bind_Sections.html">Introduction to Reversible Binding
+		</a>&nbsp;</li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/bind/BD_5B0_Math_Analy_Bind_Graphs_Sections.html">Mathematical Analyses of Binding Graphs</a>&nbsp; </li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/bind/BD_5C0_Model_Bind_Sections.html">Model Binding Systems</a> 
+		<img alt="new" src="iconnew.gif" style="height: 18px" width="28"> update on intracellular droplets</li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/bind/BD_5D0_Bind_Cont_Gene_Txn_Sections.html">Binding and the Control of Gene Transcription</a> &nbsp;<img alt="new" src="iconnew.gif" style="height: 18px" width="28">update on chromatin structure and phase transitions </li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/bind/BD_5E0_Mod_Meth_Drug_Devel_Sections.html">New Methods in Drug Development</a></li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/bind/BD_5F0_Imm_Sys_Recog_Sections.htm">Immune System Recognition</a> 
+		<img alt="new" src="iconnew.gif" style="height: 18px" width="28"> 
+		- new section on Inflammasomes</li>
+	</ol>
+	<p>
+	<o:p>
+	<img alt="homework" src="icon_Homework.png" style="height: 75px" width="75">Homework 
+	Problems - Literature Learning Module:</o:p></p>
+	<ul class="auto-style2">
+		<li>
+		<o:p>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/Lit_Learn_Module/LLM_Binding_1_Questions.html">Binding 
+		1:&nbsp; Severe Acute Respiratory Syndrome Coronavirus 3C-like 
+		Proteinase&nbsp; </a></o:p>
+		</li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/Lit_Learn_Module/LLM_Bind2_SelC_Questions.html">
+		Binding 2:&nbsp; Conformational Switches in SelB</a></li>
+	</ul>
+	<hr>
+	<h3>Chapter 6:&nbsp; TRANSPORT AND KINETICS</h3>
+	<ol type="A">
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/transkinetics/TK_6A0_Pass_Fac_Diff_Sections.html">Passive and Facilitated Diffusion</a></li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/transkinetics/TK_6B0_Kin_Simple_Enz_Cat_Rx_Sections.html">
+		Kinetics of Simple and Enzyme-Catalyzed Reactions</a> &nbsp;&nbsp; </li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/transkinetics/TK_6C0_Enz_Inh_Sect.html">Enzyme Inhibition
+		</a> </li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/transkinetics/TK_6D0_More_Complicated_Enz_Sections.html">More Complicated Enzymes</a></li>
+	</ol>
+	<p>
+	<o:p>
+	<img alt="homework" src="icon_Homework.png" style="height: 75px" width="75">Homework 
+	Problems - Literature Learning Modules:</o:p></p>
+	<ul class="auto-style2">
+		<li>
+		<o:p>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/Lit_Learn_Module/LLM_EnzInib_1_KAT_Questions.html">
+		Enzyme Inhibition 1 - KCAT</a></o:p></li>
+	</ul>
+	<hr>
+	<h3>Chapter 7:&nbsp; CATALYSIS</h3>
+	<a href="../Organic%20Rev/olorganicrev.html">
+	Review: Organic Chemistry</a><br>
+	<a href="../Organic%20Rev/olorganicrev.html">
+	&nbsp;</a>
+	<ol type="A">
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/catalysis/CT_7A0_Meth_Cat_Sections.html">Methods of 
+		Catalysis </a> </li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/catalysis/CT_7B0_Mech_Enz_Cat_Sections.html">Mechanisms of enzyme-catalyzed reactions</a>  
+		<img alt="new" src="iconnew.gif" style="height: 18px" width="28">New section on CRISPR</li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/catalysis/CT_7C1_Cofact_Elect_Push_Source_Sinks.htm">Cofactors and Electron Pushing: Sources and Sinks</a></li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/catalysis/CT_7D1_Enz_Rx_Org_Solv.html">Enzyme catalyzed reactions in organic solvents
+		</a> </li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/catalysis/CT_7E0_Ribozyme_RNA_World_Sections.htm">Ribozymes and the RNA World</a> </li>
+	</ol>
+	<p>
+	<o:p>
+	<img alt="homework" src="icon_Homework.png" style="height: 75px" width="75">Homework 
+	Problems - Literature Learning Module:
+	</o:p>
+	</p>
+	<ul class="auto-style2">
+		<li>
+		<o:p>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/Lit_Learn_Module/LLM_CRISPR_Cas1_Questions.html">
+		&nbsp;Cas9 RNA-guided Endonuclease&nbsp; </a></o:p>
+		</li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/Lit_Learn_Module/LLM_Transpeptiase_Questions.html">
+		Inhibitors of a Transpeptidase</a></li>
+	</ul>
+	<p>&nbsp;</p>
+	<hr>
+	<h3>Chapter 8:&nbsp; OXIDATION/PHOSPHORYLATION</h3>
+	<ol type="A">
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/oxphos/OP_8A0_Chem_O2_Sections.html">The Chemistry of Dioxygen</a> </li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/oxphos/OP_8B0_Oxid_Enzymes_Sections.html">
+		Oxidative Enzymes</a> </li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/oxphos/OP_8C0_ATP_Ox_Phos_Sections.html">ATP and Oxidative Phosphorylation</a> 
+		<img alt="new" src="iconnew.gif" style="height: 18px" width="28">&nbsp;&nbsp; 
+		New Jmo/Jsmols for Complex I, III, IV, and ATP synthase; New section on 
+		Complex III</li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/oxphos/OP_8D0_Light_Rx_Photosyn_Sections.html">Photosynthesis: The Light Reaction</a></li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/oxphos/OP_8E0_Nitrogenase_Sections.html">Nitrogenase: A Reductive Use of Metal Clusters</a>
+		</li>
+	</ol>
+	<p>
+	<o:p>
+	<img alt="homework" src="icon_Homework.png" style="height: 75px" width="75">Homework 
+	Problems - Literature Learning Module:
+	</o:p>
+	</p>
+	<ul class="auto-style2">
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/Lit_Learn_Module/LLM_CytoC_OxPhos_Reg_Questions.html">
+		Regulation of Oxidative Phosphorylation by Cytochrome C Phosphorylation</a></li>
+	</ul>
+	<hr>
+	<h3>Chapter 9:&nbsp; METABOLIC AND SIGNAL TRANSDUCTION</h3>
+	<ol type="A">
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/signaltrans/ST_9A0_Act_Trans_Sections.html">Active Transport</a> </li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/signaltrans/ST_9B0_Neural_Sig_Sections.html">Neural Signaling</a> </li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/signaltrans/ST_9C0_Sig_Prot_Sections.html">Signaling 
+		Proteins</a>
+		<img alt="new" src="iconnew.gif" style="height: 18px" width="28">6/14/17 
+		- new section on small G proteins, GAPs and GEFs</li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/signaltrans/ST_9D0_Nutrient_Sig_Sections.html">
+		mTOR and Nutrient Signaling</a></li>
+		<li>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/signaltrans/ST_9E0_Met_Ctrl_Analy_Sys_Bio_Sections.html">
+		Metabolic Control Analysis and Systems Biology</a></li>
+		<li>
+		<img alt="new" src="iconnew.gif" style="height: 18px" width="28">11/16/17&nbsp;(just 
+		beginning development)&nbsp;
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/signaltrans/ST_9F0_SignalingMath_Sections.html">Signaling Math : Graphic Analyses of Input and Outputs</a>&nbsp;
+		</li>
+	</ol>
+	<p>
+	<o:p>
+	<img alt="homework" src="icon_Homework.png" style="height: 75px" width="75">Homework 
+	Problems - Literature Learning Module:
+	</o:p>
+	</p>
+	<ul class="auto-style2">
+		<li>
+		<o:p>
+		<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/Lit_Learn_Module/LLM_PP2A_Expression_Questions.html">
+		&nbsp;Transcription factor Regulation of Protein Phosphatase 2A&nbsp; </a></o:p>
+		</li>
+	</ul>
+	<p>&nbsp;</p>
+	<hr>
+	<h3>Chapter 10:&nbsp;
+	<a href="../Metabolism/MetPathways0MainMenu.html">
+	METABOLIC PATHWAYS</a> (MP) </h3>
+	<ol type="A">
+		<li><a href="../Metabolism/MetPathways1_Catabolism.html">MP1:&nbsp; An Overview of Metabolic Pathways - Catabolism</a></li>
+		<li><a href="../Metabolism/MetPathways2_Anabolilsm.html">MP2:&nbsp; An Overview of Metabolic Pathways - Anabolism</a></li>
+		<li><a href="../Metabolism/MetPathways3_MapsHome.html">MP3: Metabolic Maps Home Page</a></li>
+		<li><a href="../Metabolism/MetPathways4_RegEnzActn.html">MP4:&nbsp; Regulation of Metabolic Pathways A - How is Enzyme Activity 
+		Regulated</a>?</li>
+		<li><a href="../Metabolism/MetPathways5_RegKeyEnz.html">MP5: Regulation of Metabolic Pathways B - Which Enzymes Are Optimal for 
+		Regulation?</a></li>
+	</ol>
+	<hr>
+	<h3>Chapter 11:&nbsp; ORIGIN OF LIFE</h3>
+	<ol type="A">
+    <li>
+	<a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/originlife/11_0_Origin_Life_Sections.htm">The Origin of Life&nbsp;</a>
+	</li>
+	</ol>
+	<hr>
+	<h3>Appendices</h3>
+	<ol type="A">
+		<li><a href="list_of_figures.htm">
+		List of Figures</a></li>
+		<li><a href="list_of_tables.htm">
+		List of Tables</a></li>
+		<li><a href="list_of_Moodle_Quiz.htm">
+		List of Moodle Quizzes</a></li>
+		<li><a href="list_of_Chime.htm">
+		Jmol Files</a></li>
+		<li><a href="Experimental_Methods.htm">
+		Experimental Techniques</a></li>
+		
+		
+		
+		
+		
+		
+		
+	</ol>
+	<hr>
+	<h4>Additional Web Links:</h4>
+	<ol type="A">
+		<li><a href="http://www.ncbi.nlm.nih.gov/books?term=biochemistry">NCBI 
+		Biochemistry Texts</a>&nbsp; -search for biochemistry texts</li>
+		<li><a href="http://www.ncbi.nlm.nih.gov/books/NBK21154/">Biochemistry, 
+		5th edition</a> Jeremy M Berg, John L Tymoczko, and Lubert Stryer - 
+		searchable but not broweable, from the NCBI. </li>
+		<li><a href="http://www.martindalecenter.com/Medical1.html#BioC">
+		Martindale's Biochemistry</a></li>
+		<li><a href="http://www.molecularmovies.com/showcase/">Molecular Movies</a></li>
+		<li>Biophysical Society:&nbsp;
+		<a href="http://www.biophysics.org/Education/Education/PastNationalLecturers/tabid/2294/Default.aspx">
+		National Lectures </a>&nbsp; |&nbsp;&nbsp;&nbsp;
+		<a href="http://www.biophysics.org/Education/SelectedTopicsInBiophysics/tabid/2311/Default.aspx">
+		Resources on selected topics</a></li>
+		<li><a href="http://themedicalbiochemistrypage.org/">Medical 
+		Biochemistry</a></li>
+		<li><a href="http://bip.cnrs-mrs.fr/bip10/howler.htm">Common mistakes</a> 
+		found in Biochemistry textbooks!</li>
+	</ol>
+	<hr>
+	<h4>Analytics: <span class="auto-style3">(see top hit counter)</span></h4>
+	<ol type="A">
+		<li>
+		<a href="http://www.clustrmaps.com/map/employees.csbsju.edu/hjakubowski/classes/ch331/bcintro/default.html">
+		My Clustr Map 11/20/15</a></li>
+	
+   
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=Y2zm&d=3d-4CbeIQP2tUAeSQMSuGGPAgPUhFPaO58g4X0KrO4E"></script>
+
+
+
+      <li><a href="ClusterMap011509.gif">Archived Clustr Map from 1/15/09</a></li>
+      <li><a href="BCOnlineClusterMapfor09.gif">Archived Clustr Map from 1/15/10</a></li>
+    </ol>
+    <hr>
+    <h4>Search Engines:</h4>
+	
+<p>Search BC Online</p>
+
+
+	
+<script>
+  (function() {
+    var cx = '009578235578808548604:m_83_gegwuy';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>	
+
+
+
+
+    <ol type="A">
+      <li><a href="https://www.quetzal-search.info/">Quetzal</a>: search engine 
+	  for the biomedical literature </li>
+      <li><a href="http://www.ncbi.nlm.nih.gov/">NCBI</a>: National Center for Biotechnology Information </li>
+      <li><a href="http://www.ncbi.nlm.nih.gov/pubmed">PubMed</a></li>
+    </ol>
+<h3>Biochemistry Online can also be found in the following digital libraries!</h3>
+	<p><a href="http://nsdl.org/search/?verb=Search&amp;s=0&amp;n=10&amp;q=jakubowski&amp;submit=Search" target="_blank">
+	<img alt="NSDL" height="68" src="http://employees.csbsju.edu/hjakubowski/classes/ch331/bcintro/NSDL_logo_on_black_small.gif" width="166"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	</p>
+	<p><a href="http://www.ilumina-dlib.org/browseRecord.asp?fileName=1581-marc.xml&amp;fileLocation=LiveData&amp;sortBy=guid&amp;orderBy=asc&amp;taxon1=Chemistry&amp;taxon2=Biochemistry&amp;taxon3=">
+	<img height="69" src="http://employees.csbsju.edu/hjakubowski/classes/ch331/bcintro/ilumina.gif" width="122"></a></p>
+	<p>
+	<a href="http://www.merlot.org/artifact/ArtifactDetail.po?oid=1010000000000085010"><img height="65" src="http://employees.csbsju.edu/hjakubowski/classes/ch331/bcintro/merlot.gif" width="205"></a></p>
+	<p><a href="http://www.biosciednet.org/portal/search/searchResults.php?pageNumber=1&amp;searchType=basic&amp;sort=Relevance&amp;pageNumber=1&amp;searchType=basic&amp;sort=Relevance&amp;query=jakubowski&amp;gradeLevels=0"><img height="72" src="http://employees.csbsju.edu/hjakubowski/classes/ch331/bcintro/Benlogo.gif" width="182"></a></p>
+	<h4>It has also been listed in:</h4>
+	
+			<p><img height="31" src="http://employees.csbsju.edu/hjakubowski/classes/ch331/bcintro/Science.gif" width="219"></p>
+			<p><a href="http://employees.csbsju.edu/hjakubowski/classes/ch331/bcintro/sciencewatchBConline.pdf"><img height="24" src="http://employees.csbsju.edu/hjakubowski/classes/ch331/bcintro/NetWatch.gif" width="116">May 30, 2003</a></p>	
+			<p><a href="http://employees.csbsju.edu/hjakubowski/classes/ch331/bcintro/Biotechnques0310.pdf"><img alt="" height="34" src="http://employees.csbsju.edu/hjakubowski/classes/ch331/bcintro/Biotechniques.jpg" width="226">WeWebWatch: March, 2001</a></p>
+			
+   
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Biochemistry Online</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Henry Jakubowski</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.<br>
+
+    <!--fpwebbot bot="Include" U-Include="includes/inc_copyright.htm" TAG="BODY" startspan -->
+
+<p class="cright">&copy;Copyright 2002 Dr. Henry Jakubowski<br>
+Please send comments to
+<a href="mailto:hjakubowski@csbsju.edu">Dr. Henry Jakubowski</a>.</p>
+
+
+<!--fpwebbot bot="Include" i-checksum="53579" endspan -->	
+	
+	
+	
+</section>
+
+
+
+<!-- #EndEditable -->
+</div>
+<footer>
+<div id="footerInner">
+<div id="ewCopy" style="text-align:left; float:left">Please send comments to <a style="color:#ffffff;" href="mailto:hjakubowski@csbsju.edu">Dr. Henry Jakubowski</a>.<br />
+	<script type="text/javascript">document.write('&copy;&nbsp;' +(new Date()).getFullYear() + '&nbsp;&nbsp;Dr. Henry Jakubowski');</script><noscript>&copy;&nbsp;Dr. Henry Jakubowski</noscript>
+	</div>
+</div>
+</footer>
+<!-- #EndEditable -->
+
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

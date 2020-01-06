@@ -1,0 +1,285 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta http-equiv="Content-Language" content="en-us">
+  <meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+  <meta name="ProgId" content="FrontPage.Editor.Document">
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=iso-8859-1">
+  <title>Applied Molecular Biology</title>
+  <meta name="Microsoft Theme" content="dna-sumi 011">
+</head>
+<body background="_themes/dna-sumi/sumtextb.jpg" bgcolor="#ECE9D8" text="#000066"
+ link="#3333CC" vlink="#666699" alink="#990099"><!--mstheme--><font face="Verdana, Arial, Helvetica">
+
+<!--mstheme--></font>
+<table border="0" cellpadding="0" cellspacing="0"
+ style="border-collapse: collapse;" width="100%" id="AutoNumber2"
+ height="164">
+  <tbody>
+    <tr>
+      <td width="17%" height="168"><!--mstheme--><font face="Verdana, Arial, Helvetica">
+      <div align="center"><font face="Verdana, Arial, Helvetica"><font
+ face="Verdana, Arial, Helvetica" color="#000000"><a
+ href="http://www.umbc.edu/biosci/Graduate/amb.html"><img
+ src="AMB20logo.gif" width="229" height="162" align="top" border="0"></a></font></font></div>
+<!--mstheme--></font></td>
+      <td width="83%" height="168" valign="top"><!--mstheme--><font face="Verdana, Arial, Helvetica"><font face="Verdana, Arial, Helvetica">
+      <center>
+      <h1><!--mstheme--><font color="#003366">Beginning Molecular
+Biology Laboratory           Manual<!--mstheme--></font></h1>
+      </center>
+      <center>
+      <h3><!--mstheme--><font color="#003366"><font size="+2">
+Department of Biological Sciences</font><!--mstheme--></font></h3>
+      </center>
+      <p align="center"><img src="sumhorsa.gif" width="600" height="10"></p>
+      </font><!--mstheme--></font></td>
+    </tr>
+    <tr>
+      <td width="17%" height="147" valign="top"><!--mstheme--><font face="Verdana, Arial, Helvetica"> </font>
+      <div align="center"><font face="Verdana, Arial, Helvetica"> <a
+ href="http://www.umbc.edu/biosci/Faculty/jwolf.html"> <font
+ face="Verdana, Arial, Helvetica"><!--webbot bot="Navigation" S-Type="sequence" S-Orientation="vertical" S-Rendering="graphics" B-Include-Home="FALSE" B-Include-Up="FALSE" U-Page="sid:1001" startspan --><script language="JavaScript"><!--
+MSFPhover = 
+  (((navigator.appName == "Netscape") && 
+  (parseInt(navigator.appVersion) >= 3 )) || 
+  ((navigator.appName == "Microsoft Internet Explorer") && 
+  (parseInt(navigator.appVersion) >= 4 ))); 
+function MSFPpreload(img) 
+{
+  var a=new Image(); a.src=img; return a; 
+}
+// --></script><script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav1n=MSFPpreload("_derived/ext1002_cmp_dna-sumi010_vbtn.gif"); MSFPnav1h=MSFPpreload("_derived/ext1002_cmp_dna-sumi010_vbtn_a.gif"); }
+// --></script><a href="http://www.umbc.edu/biosci/Graduate/amb.html" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav1'].src=MSFPnav1h.src" onmouseout="if(MSFPhover) document['MSFPnav1'].src=MSFPnav1n.src"><img src="_derived/ext1002_cmp_dna-sumi010_vbtn.gif" width="140" height="40" border="0" alt="AMB Program" name="MSFPnav1"></a><br><script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav2n=MSFPpreload("_derived/ext1003_cmp_dna-sumi010_vbtn.gif"); MSFPnav2h=MSFPpreload("_derived/ext1003_cmp_dna-sumi010_vbtn_a.gif"); }
+// --></script><a href="http://www.umbc.edu/biosci/" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav2'].src=MSFPnav2h.src" onmouseout="if(MSFPhover) document['MSFPnav2'].src=MSFPnav2n.src"><img src="_derived/ext1003_cmp_dna-sumi010_vbtn.gif" width="140" height="40" border="0" alt="Biology Home Page" name="MSFPnav2"></a><br><script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav3n=MSFPpreload("_derived/ext1017_cmp_dna-sumi010_vbtn.gif"); MSFPnav3h=MSFPpreload("_derived/ext1017_cmp_dna-sumi010_vbtn_a.gif"); }
+// --></script><a href="http://www.research.umbc.edu/~jwolf/method1.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav3'].src=MSFPnav3h.src" onmouseout="if(MSFPhover) document['MSFPnav3'].src=MSFPnav3n.src"><img src="_derived/ext1017_cmp_dna-sumi010_vbtn.gif" width="140" height="40" border="0" alt="Laboratory Manual" name="MSFPnav3"></a><br><script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav4n=MSFPpreload("_derived/ext1018_cmp_dna-sumi010_vbtn.gif"); MSFPnav4h=MSFPpreload("_derived/ext1018_cmp_dna-sumi010_vbtn_a.gif"); }
+// --></script><a href="http://www.research.umbc.edu/~jwolf/index.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav4'].src=MSFPnav4h.src" onmouseout="if(MSFPhover) document['MSFPnav4'].src=MSFPnav4n.src"><img src="_derived/ext1018_cmp_dna-sumi010_vbtn.gif" width="140" height="40" border="0" alt="AMB Course Page" name="MSFPnav4"></a><!--webbot bot="Navigation" i-checksum="16342" endspan --> </font></div>
+      <font face="Verdana, Arial, Helvetica"> </font>
+      <p align="center"><font face="Verdana, Arial, Helvetica"><font
+ face="Verdana, Arial, Helvetica"> <br>
+      <script language="JavaScript"><!--
+
+
+if(MSFPhover) { MSFPnav3n=MSFPpreload("_derived/ext1005_cmp_dna-sumi010_vbtn.gif"); MSFPnav3h=MSFPpreload("_derived/ext1005_cmp_dna-sumi010_vbtn_a.gif"); }
+
+
+// --></script><!--webbot bot="Navigation" i-checksum="1885" endspan --> </font></font></p>
+      <font face="Verdana, Arial, Helvetica"> </font>
+      <p align="center"><font face="Verdana, Arial, Helvetica"> <font
+ face="Verdana, Arial, Helvetica"> </font> </font></p>
+      <p><font face="Verdana, Arial, Helvetica"> </font></p>
+      <p><font face="Verdana, Arial, Helvetica"></p>
+      <!--mstheme--></td>
+      <td rowspan="2" height="173" valign="top" width="83%"><!--mstheme--><font face="Verdana, Arial, Helvetica"> </font>
+      <p><font face="Verdana, Arial, Helvetica"> <font
+ face="Verdana, Arial, Helvetica"> </font><font
+ face="Verdana, Arial, Helvetica">
+      <center> </center>
+      <h3><!--mstheme--><font color="#003366">
+      <blockquote>CHAPTER 1: <a
+ href="http://www.research.umbc.edu/%7Ejwolf/method2.htm#General%20Laboratory%20Methods">General
+Laboratory Methods</a></blockquote>
+<!--mstheme--></font></h3>
+      </font></font></p>
+      <ol>
+        <dt> <font face="Verdana, Arial, Helvetica"> <font size="3"><a
+ href="http://www.research.umbc.edu/%7Ejwolf/method2.htm#Safety%20Procedures">Safety
+Procedures</a> <br>
+          <a
+ href="http://www.research.umbc.edu/%7Ejwolf/method2.htm#Preparation%20of%20Solutions">Preparation
+of Solutions</a> <br>
+          <a
+ href="http://www.research.umbc.edu/%7Ejwolf/method2.htm#Disposal%20of%20Buffers%20and%20Chemicals">Disposal
+of Buffers and Chemicals</a> <br>
+          <a
+ href="http://www.research.umbc.edu/%7Ejwolf/method2.htm#Equipment">Equipment</a> </font>
+          <!--mstheme--></font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tbody>
+              <tr>
+                <td valign="baseline" width="42"><!--mstheme--><font face="Verdana, Arial, Helvetica"> <img src="sumbul2a.gif" hspace="15"
+ alt="bullet" width="12" height="12"><!--mstheme--></font></td>
+                <td valign="top" width="100%" align="left"><!--mstheme--><font face="Verdana, Arial, Helvetica"><font size="3"> Micropipets</font><!--mstheme--></font></td>
+                <td valign="top" width="100%" align="left"><!--mstheme--><font face="Verdana, Arial, Helvetica"><font
+ face="Verdana, Arial, Helvetica"><font size="3"> </font></font><br>
+                <!--mstheme--></font></td>
+              </tr>
+              <tr>
+                <td valign="baseline" width="42"><!--mstheme--><font face="Verdana, Arial, Helvetica"> <img src="sumbul2a.gif" hspace="15"
+ alt="bullet" width="12" height="12"><!--mstheme--></font></td>
+                <td valign="top" width="100%"><!--mstheme--><font face="Verdana, Arial, Helvetica"><font size="3">Using a pH meter </font> </font><!--mstheme--></font></td>
+              </tr>
+              <tr>
+                <td valign="baseline" width="42"><!--mstheme--><font face="Verdana, Arial, Helvetica"> <img src="sumbul2a.gif" hspace="15"
+ alt="bullet" width="12" height="12"><!--mstheme--></font></td>
+                <td valign="top" width="100%"><!--mstheme--><font face="Verdana, Arial, Helvetica"><font size="3">Autoclave operating
+procedures </font> </font><!--mstheme--></font></td>
+              </tr>
+              <tr>
+                <td valign="baseline" width="42"><!--mstheme--><font face="Verdana, Arial, Helvetica"> <img src="sumbul2a.gif" hspace="15"
+ alt="bullet" width="12" height="12"><!--mstheme--></font></td>
+                <td valign="top" width="100%"><!--mstheme--><font face="Verdana, Arial, Helvetica"><font size="3">Operating instructions
+for spectrophotometer </font><!--mstheme--></font></td>
+              </tr>
+            </tbody>
+          </table><!--mstheme--><font face="Verdana, Arial, Helvetica">
+ </font></dt>
+        <dt><font face="Verdana, Arial, Helvetica"><font size="3"><a
+ href="http://www.research.umbc.edu/%7Ejwolf/method2.htm#Working%20with%20DNA">Working
+with DNA</a> <br>
+          <a
+ href="http://www.research.umbc.edu/%7Ejwolf/method2.htm#Sterile%20technique">Sterile
+Technique</a></font></font></dt>
+      </ol>
+      <font face="Verdana, Arial, Helvetica">
+      <h3><!--mstheme--><font color="#003366"><font color="#003366">
+      <blockquote>
+        <p>CHAPTER 2: <a
+ href="http://www.research.umbc.edu/%7Ejwolf/method3.htm">Instructions
+for Notebook               Keeping</a></p>
+        <p><b>CHAPTER 3: <a
+ href="http://www.research.umbc.edu/%7Ejwolf/method4.htm#computer%20users%20guide">Computer
+User's Guide</a></b> </p>
+      </blockquote>
+<!--mstheme--></font></h3>
+
+      <!--mstheme--></font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+      </table><!--mstheme--><font face="Verdana, Arial, Helvetica">
+ </font>
+      <div style="margin-left: 40px;"><dt><br>
+      </dt>
+      <dt><font size="3"> <a
+ href="http://www.research.umbc.edu/%7Ejwolf/method4.htm#unix%20commands">UNIX
+commands</a></font></dt>
+      <dt> </dt>
+      <dt><font size="3"><a
+ href="http://www.research.umbc.edu/%7Ejwolf/method4.htm#file%20transfer">File
+Transfer</a> </font> </dt>
+      <dt><font size="3"><a
+ href="http://www.research.umbc.edu/%7Ejwolf/method4.htm#www">The World
+Wide Web</a> </font></dt>
+      <dt><font size="3"> <a
+ href="http://www.research.umbc.edu/%7Ejwolf/method4.htm#gcg">The
+Wisconsin Package             - gcg.</a></font></dt>
+      </div>
+      <h3><!--mstheme--><font color="#003366"><font face="Verdana, Arial, Helvetica"><font color="#003366">
+      <blockquote>CHAPTER 4: <a
+ href="http://www.research.umbc.edu/%7Ejwolf/m1.htm#molecular%20methods">Molecular
+Biology Methods</a></blockquote>
+</font><!--mstheme--></font></h3>
+      <font face="Verdana, Arial, Helvetica"> </font>
+      <dl>
+        <dl>
+          <dt><font face="Verdana, Arial, Helvetica">M.1: <a
+ href="http://www.research.umbc.edu/%7Ejwolf/m1.htm#genomic%20DNA">Preparation
+of genomic DNA from bacteria</a> </font></dt>
+          <dt><font face="Verdana, Arial, Helvetica">M.2: <a
+ href="http://www.research.umbc.edu/%7Ejwolf/m2.htm#pcr">PCR
+amplification of DNA</a> </font></dt>
+          <dt><font face="Verdana, Arial, Helvetica">M.3: <a
+ href="http://www.research.umbc.edu/%7Ejwolf/m3.htm#restriction%20enzyme">Restriction
+enzyme digestion of DNA</a> </font></dt>
+          <dt><font face="Verdana, Arial, Helvetica">M.4: <a
+ href="http://www.research.umbc.edu/%7Ejwolf/m4.htm#phenol">Phenol/chloroform
+extraction of DNA</a> </font></dt>
+          <dt><font face="Verdana, Arial, Helvetica">M.5: <a
+ href="http://www.research.umbc.edu/%7Ejwolf/m5.htm#ethanol">Ethanol
+precipitation of DNA</a> </font></dt>
+          <dt><font face="Verdana, Arial, Helvetica">M.6: <a
+ href="http://www.research.umbc.edu/%7Ejwolf/m6.htm#agarose">Agarose
+gel electrophoresis</a> </font></dt>
+          <dt><font face="Verdana, Arial, Helvetica">M.7: <a
+ href="http://www.research.umbc.edu/%7Ejwolf/m7.htm">Transformation of <i>E.
+coli</i> by electroporation</a> </font></dt>
+          <dt><font face="Verdana, Arial, Helvetica">M.8: <a
+ href="http://www.research.umbc.edu/%7Ejwolf/m8.htm">Wizard PCR preps
+DNA purification system</a> </font></dt>
+          <dt><font face="Verdana, Arial, Helvetica">M.9: <a
+ href="http://www.research.umbc.edu/%7Ejwolf/m9.htm">Alternate method
+for purifying DNA from agarose gels</a> </font></dt>
+          <dt><font face="Verdana, Arial, Helvetica">M.10: <a
+ href="http://www.research.umbc.edu/%7Ejwolf/m10.htm">Transfection of
+mammalian cells using Lipofectamine (LTI)</a> </font></dt>
+          <dt><font face="Verdana, Arial, Helvetica">M.11: <a
+ href="http://www.research.umbc.edu/%7Ejwolf/m11.htm">Southern blotting</a> </font></dt>
+          <dt><font face="Verdana, Arial, Helvetica">M.12:<a
+ href="http://www.research.umbc.edu/%7Ejwolf/m12.htm"> RT-PCR Protocol</a> </font></dt>
+          <dt><font face="Verdana, Arial, Helvetica">M.13: <a
+ href="http://www.research.umbc.edu/%7Ejwolf/m13.htm">Preparation of
+sequencing gels</a> </font></dt>
+          <dt><font face="Verdana, Arial, Helvetica">M.14: <a
+ href="http://www.research.umbc.edu/%7Ejwolf/m14.htm">Isolation of RNA
+from mammalian cells using RNAZOL (Teltest)</a> </font></dt>
+        </dl>
+      </dl>
+      <font face="Verdana, Arial, Helvetica"> </font>
+      <h3><!--mstheme--><font color="#003366"><font
+ color="#003366">
+      </font></font>
+        <blockquote><font color="#003366" face="Verdana, Arial, Helvetica, sans-serif">CHAPTER 5</font><font color="#003366">: <a
+ href="http://www.research.umbc.edu/%7Ejwolf/method5.htm"><font face="Verdana, Arial, Helvetica, sans-serif">Tissue
+  Culture Methods</font></a></font></blockquote>
+        <font color="#003366">
+        <!--mstheme-->
+        </font></h3>
+      <font face="Verdana, Arial, Helvetica"> </font>
+      <dl>
+        <dl>
+          <dt><font face="Verdana, Arial, Helvetica"><a
+ href="http://www.research.umbc.edu/%7Ejwolf/method5.htm#Cells%20in%20culture">Types
+of cells grown in culture</a> </font></dt>
+          <dt><font face="Verdana, Arial, Helvetica"><a
+ href="http://www.research.umbc.edu/%7Ejwolf/method5.htm#work%20area">Work
+area and equipment</a> </font></dt>
+          <dt><font face="Verdana, Arial, Helvetica"><a
+ href="http://www.research.umbc.edu/%7Ejwolf/method5.htm#preservation">Preservation
+and storage</a> </font></dt>
+          <dt><font face="Verdana, Arial, Helvetica"><a
+ href="http://www.research.umbc.edu/%7Ejwolf/method5.htm#maintenance">Maintenance</a> </font></dt>
+          <dt><font face="Verdana, Arial, Helvetica"><a
+ href="http://www.research.umbc.edu/%7Ejwolf/method5.htm#safety">Safety
+considerations</a> </font></dt>
+          <dt><font face="Verdana, Arial, Helvetica"><a
+ href="http://www.research.umbc.edu/%7Ejwolf/method5.htm#tc%20methods">Tissue
+culture               methods</a> </font></dt>
+          <dt><font face="Verdana, Arial, Helvetica"><a
+ href="http://www.research.umbc.edu/%7Ejwolf/method5.htm#hemocytometer">Determining
+cell counts</a> </font></dt>
+        </dl>
+      </dl>
+      <font face="Verdana, Arial, Helvetica"><!--msthemeseparator--></font>
+      <p align="center"><font face="Verdana, Arial, Helvetica"><img
+ src="sumhorsa.gif" style="width: 600px; height: 10px;" title="" alt=""></font></p>
+      <font face="Verdana, Arial, Helvetica"> <br>
+      <br>
+      <br>
+      <br>
+<!--mstheme--></font></td>
+    </tr>
+    <tr>
+      <td width="17%" height="26"><!--mstheme--><font face="Verdana, Arial, Helvetica"><font face="Verdana, Arial, Helvetica"> </font><br>
+      <!--mstheme--></font></td>
+    </tr>
+    <tr>
+      <td width="17%" height="56"><!--mstheme--><font face="Verdana, Arial, Helvetica"> </font>
+      <p align="center"><font face="Verdana, Arial, Helvetica"><font
+ face="Verdana, Arial, Helvetica"> </font> </font></p>
+      <p><font face="Verdana, Arial, Helvetica"><font
+ face="Verdana, Arial, Helvetica"> </font></p>
+      <br>
+      <!--mstheme--></td>
+      <td width="83%" height="56"><!--mstheme--><font face="Verdana, Arial, Helvetica"><i>This       Web page is maintained
+by <a href="mailto:jwolf@umbc.edu">Julie B. Wolf</a>,       UMBC;<br>
+Last updated on<!--webbot bot="Timestamp" S-Type="EDITED" S-Format="%m/%d/%Y" startspan -->
+11/23/2005
+<!--webbot bot="Timestamp" i-checksum="12503" endspan --> </i><!--mstheme--></font></td>
+    </tr>
+  </tbody>
+</table><!--mstheme--><font face="Verdana, Arial, Helvetica">
+
+<!--mstheme--></font></body>
+</html>

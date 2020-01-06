@@ -1,0 +1,135 @@
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<meta name="keywords" content="Embryology">
+		<meta name="description" content="A web-based training in medical embryology">
+		<title>Home</title>
+		<link href="GeneratedItems/embryostyle.css" rel="styleSheet" type="text/css">
+		<link href="favicon.ico" rel="shortcut icon">
+	<Script language=JavaScript><!--
+	function OpenPrefaceWindow2(file) {
+    msgWindow=open(file,"PrefaceWindow",'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=	yes,resizable=yes,width=510,height=500');
+ 	   if (msgWindow.opener == null) msgWindow.opener = self;
+	}
+	//--></Script>
+		<csactionitem name="BAD5A88A5"></csactionitem>
+		<csactions>
+			<csaction name="BAD5A88A5" class="Netscape CSS Fix" type="onparse"></csaction>
+		</csactions>
+		<csscriptdict import>
+			<script src="GeneratedItems/CSScriptLib.js"></script>
+		<script language="JavaScript" src="GeneratedItems/PrefaceWindow.js"></script>			
+		<script language="JavaScript" src="GeneratedItems/CreditWindow.js"></script>	
+		</csscriptdict>
+		<csactiondict>
+			<script><!--
+CSAct[/*CMP*/ 'BAD5A88A5'] = new Array(CSNSFix);
+CSAction(new Array(/*CMP*/ 'BAD5A88A5'));
+
+// --></script>
+		</csactiondict>
+	</head>
+
+	<body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" text="black" link="black" alink="#cc0000" vlink="#696969" bgcolor="#ffffcc">
+		<div align="center">
+			<table width="920" border="0" cellpadding="0" cellspacing="0" height="100%">
+				<tr height="10%">
+					<td rowspan="3" align="left" valign="middle" width="175" background="genericpages/graphsgeneric/degr_index.gif"><br>
+						<br>
+						<table width="168" border="0" cellpadding="4" cellspacing="0">
+							<tr>
+								<td valign="top" align="left" width="160"><a href='javascript:OpenPrefaceWindow(%22genericpages/prefaceen.html%22)'><samp>Introduction</samp></a><br>
+									<a href='javascript:OpenPrefaceWindow(%22genericpages/aideen.html%22)'><samp>Help</samp></a><br>
+									<a href='javascript:OpenPrefaceWindow(%22genericpages/warningen.html%22)'><samp>Notice</samp></a><br>
+									<samp><a href='javascript:OpenPrefaceWindow(%22genericpages/majen.html%22)'>Last revision</a><a href='javascript:OpenPrefaceWindow("genericpages/majfrNada.html")'><br>
+										</a></samp><a href='javascript:OpenPrefaceWindow(%22genericpages/copyen.html%22)'><samp>Copyright</samp></a><br>
+									<a href='javascript:OpenCreditWindow("genericpages/credits.html")'><samp>Credits</samp></a><br>
+									<a href='javascript:OpenPrefaceWindow(%22genericpages/pressrevueen.html%22)'><samp>Press reports</samp></a><br>
+									<a href='javascript:OpenPrefaceWindow(%22genericpages/sponsoren.html%22)'><samp>Sponsors</samp></a><br>
+									<a href='javascript:OpenPrefaceWindow(%22genericpages/contacten.html%22)'><samp>Contacts</samp></a><br>
+									<br>
+									<br>
+									<br>
+									<br>
+									<samp><b><a href="index.html">Fran&ccedil;ais</a>&nbsp;<font color="#999966"><br>
+											</font><u><a href="indexde.html">Deutsch</a></u>&nbsp;<br>
+											English<br>
+											<u><a href="indexde.html">Dutsch</a></u></b><br>
+										<br>
+									</samp></td>
+							</tr>
+						</table>
+						<br>
+						<br>
+						<br>
+						<br>
+						<br>
+						<br>
+						<br>
+						<br>
+						<br>
+						<br>
+						<br>
+						<br>
+					</td>
+					<td align="left" valign="top" width="15" height="10%"></td>
+					<td align="center" valign="middle" width="150" height="10%"></td>
+					<td align="center" valign="middle" width="80" height="10%"></td>
+				</tr>
+				<tr height="57%">
+					<td align="left" valign="middle" width="15" height="57%"></td>
+					<td align="center" valign="top" width="150" height="57%"><br>
+						<table width="650" border="0" cellpadding="0" cellspacing="0" height="421">
+							<tr height="230">
+								<td align="center" valign="middle" width="650" height="230"><br>
+									<br>
+									<img src="genericpages/graphsgeneric/LogoEmbryo530.gif" width="530" height="230" border="0"><br>
+									<br>
+								</td>
+							</tr>
+							<tr height="82">
+								<td align="center" valign="middle" width="650" height="82"><br>
+									<font color="#666633">
+										<table border="0" cellpadding="3" cellspacing="2" width="204">
+											<tr>
+												<td valign="middle" align="right" width="21"><br>
+												</td>
+												<td width="165"><b><font color="#666633">HUMAN EMBRYOLOGY</font></b></td>
+											</tr>
+											<tr>
+												<td valign="middle" align="right" width="21"><img src="genericpages/graphsgeneric/flechblackd.gif" width="12" height="11" border="0"></td>
+												<td valign="middle" align="left" bgcolor="#cccc99" width="165"><b><a href="genericpages/moduleembryoen.html">Embryogenesis</a> </b></td>
+											</tr>
+											<tr>
+												<td valign="middle" align="right" width="21"><img src="genericpages/graphsgeneric/flechblackd.gif" width="12" height="11" border="0"></td>
+												<td valign="middle" align="left" bgcolor="#cccc99" width="165"><b><a href="genericpages/moduleorganoen.html">Organogenesis</a> </b></td>
+											</tr>
+										</table>
+									</font></td>
+							</tr>
+							<tr height="64">
+								<td align="center" valign="middle" width="650" height="64"><br>
+									<hr noshade size="1" width="650">
+									<font color="#666633"><b>Online course in embryology for medicine students<br>
+										</b>developed by the universities of Fribourg, Lausanne and Bern (Switzerland)<br>
+										with the support of the Swiss Virtual Campus&nbsp;<br>
+										&copy; Copyright protected<br>
+									</font></td>
+							</tr>
+						</table>
+						<br>
+					</td>
+					<td align="center" valign="top" width="80" height="57%"></td>
+				</tr>
+				<tr height="34%">
+					<td align="left" valign="top" width="15" height="34%"></td>
+					<td align="center" valign="middle" width="150" height="34%">
+					</td>
+					<td align="center" valign="middle" width="80" height="34%"></td>
+				</tr>
+			</table>
+		</div>
+	</body>
+
+</html>

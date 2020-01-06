@@ -1,0 +1,894 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html id="ie7" lang="en-US">
+<![endif]-->
+<!--[if (gt IE 7) | (!IE)]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<title>hivbook.com | HIV 2015/2016 &#8211; a textbook freely available</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://www.hivbook.com/xmlrpc.php" />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="hivbook.com &raquo; Feed" href="https://www.hivbook.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="hivbook.com &raquo; Comments Feed" href="https://www.hivbook.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="hivbook.com &raquo; HIV 2015/2016 Comments Feed" href="https://www.hivbook.com/contact-2/home-2/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.hivbook.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.10"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.hivbook.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='pilcrow-css'  href='https://www.hivbook.com/wp-content/themes/pilcrow/style.css?ver=4.9.10' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css'  href='https://www.hivbook.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.15' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.hivbook.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.hivbook.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.hivbook.com/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1'></script>
+<link rel='https://api.w.org/' href='https://www.hivbook.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.hivbook.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.hivbook.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.10" />
+<link rel="canonical" href="https://www.hivbook.com/" />
+<link rel='shortlink' href='https://www.hivbook.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.hivbook.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.hivbook.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.hivbook.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.hivbook.com%2F&#038;format=xml" />
+
+<script data-cfasync="false">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+(function(d,s,a,b){a=d.createElement(s);b=d.getElementsByTagName(s)[0];a.async=1;a.src="https://static.addtoany.com/menu/page.js";b.parentNode.insertBefore(a,b);})(document,"script");
+</script>
+	<style type="text/css">
+			#site-title a {
+			color: #3269b3;
+		}
+		</style>
+			<style type="text/css" id="wp-custom-css">
+			#site-generator { display:none }		</style>
+	</head>
+
+<body class="home page-template-default page page-id-66 page-child parent-pageid-79 three-column sidebar-content-sidebar color-light">
+<div id="container" class="hfeed">
+	<div id="page" class="blog">
+		<div id="header">
+						<h1 id="site-title">
+				<span>
+					<a href="https://www.hivbook.com/" title="hivbook.com" rel="home">hivbook.com</a>
+				</span>
+			</h1>
+
+			<div id="nav" role="navigation">
+			  				<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+								<div class="menu-header"><ul id="menu-menu-1" class="menu"><li id="menu-item-1841" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1841"><a href="https://www.hivbook.com/about-us/">About Us</a></li>
+<li id="menu-item-1842" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1842"><a href="https://www.hivbook.com/authors/">Authors</a></li>
+<li id="menu-item-1843" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-1843"><a href="https://www.hivbook.com/contact-2/">Order HIV 2015/2016</a></li>
+<li id="menu-item-1845" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1845"><a href="https://www.hivbook.com/russian-issue/">ВИЧ 2014/2015 (Russian)</a></li>
+<li id="menu-item-1844" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1844"><a href="https://www.hivbook.com/the-chapters/">The Chapters</a></li>
+</ul></div>			</div><!-- #nav -->
+
+			<div id="pic">
+				<a href="https://www.hivbook.com/" rel="home">
+								</a>
+			</div><!-- #pic -->
+		</div><!-- #header -->
+
+		<div id="content-box">
+
+<div id="content-container">
+	<div id="content" role="main">
+
+	
+<div id="post-66" class="post-66 page type-page status-publish hentry">
+	<h1 class="entry-title">HIV 2015/2016</h1>
+	<div class="entry entry-content">
+		<p style="text-align:justify;">The hivbook is a medical textbook that  follows the concept of being independent, easy to read, and freely available on the Internet. The book has first been published in 1991 and has since been updated annually. HIV 2015/2016 is the 23rd edition.</p>
+<p><strong>History</strong></p>
+<p style="text-align:justify;">The concept of this book was developed by Bernd Sebastian Kamps: to provide readable and freely accessible medical information on HIV for use in daily practice of HIV treatment.  Even after Bernd Sebastian Kamps retired in July 2008, we decided to continue &#8211; encouraged by the fact that this textbook has been downloaded and read by ten thousands of physicians worldwide every year.</p>
+<p style="text-align:justify;">The HTML contents of this site refer to HIV 2011.</p>
+<h3 style="text-align:justify;">HIV 2015/2016 is now available and free to download here:</h3>
+<h2><a href="http://hivbook.com/home-2/hiv2011-2/" target="_blank" rel="attachment wp-att-475"><br />
+</a></h2>
+<h3 style="text-align:center;"><span style="color:#0066cc;">Free Download</span></h3>
+<h3 style="text-align:center;"><img class="aligncenter size-full wp-image-576" src="https://www.hivbook.com/wp-content/uploads/2011/11/pdf-image-1.gif" alt="pdf image" width="34" height="20" /></h3>
+<h3 style="text-align:center;"><a title="HIV 2015-16 complete" href="https://www.hivbook.com/wp-content/uploads/2016/04/hiv-2015-16-complete-1.pdf">HIV 2015-16 complete</a></h3>
+<p style="text-align:center;">   (756 pages/5.497 MB)</p>
+<p>&nbsp;</p>
+<p style="text-align:left;"><strong>For print orders of HIV 2015/2016, please contact:<br />
+</strong></p>
+<p>hoffmann&#8221;at&#8221;ich-hamburg.de/subject: hivbook</p>
+<p>or fill in<a title="Contact" href="http://hivbook.com/contact-2/"> contact form </a></p>
+<p><img class="alignnone size-full wp-image-1766" src="https://www.hivbook.com/wp-content/uploads/2015/12/hiv1516-1.jpg" alt="hiv1516" width="243" height="300" /></p>
+<p>&nbsp;</p>
+<p><strong>This project is kindly supported by:</strong></p>
+<p><a href="https://www.hivbook.com/wp-content/uploads/2011/11/boeringer1-1.gif"><img class=" wp-image-1754 alignnone" src="https://www.hivbook.com/wp-content/uploads/2015/12/480px-hexal_logo-svg-1.png" alt="480px-Hexal_Logo.svg" width="55" height="55" srcset="https://www.hivbook.com/wp-content/uploads/2015/12/480px-hexal_logo-svg-1.png 480w, https://www.hivbook.com/wp-content/uploads/2015/12/480px-hexal_logo-svg-1-150x150.png 150w, https://www.hivbook.com/wp-content/uploads/2015/12/480px-hexal_logo-svg-1-300x300.png 300w" sizes="(max-width: 55px) 100vw, 55px" /></a>        <img class=" wp-image-1755 alignleft" src="https://www.hivbook.com/wp-content/uploads/2015/12/abbvie_0-1.png" alt="abbvie_0" width="70" height="70" srcset="https://www.hivbook.com/wp-content/uploads/2015/12/abbvie_0-1.png 195w, https://www.hivbook.com/wp-content/uploads/2015/12/abbvie_0-1-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" />              <img class="alignnone wp-image-1757" src="https://www.hivbook.com/wp-content/uploads/2015/12/janssen_cilag_preview-1.png" alt="janssen_cilag_preview" width="156" height="30" srcset="https://www.hivbook.com/wp-content/uploads/2015/12/janssen_cilag_preview-1.png 368w, https://www.hivbook.com/wp-content/uploads/2015/12/janssen_cilag_preview-1-300x58.png 300w" sizes="(max-width: 156px) 100vw, 156px" />        <a href="https://www.hivbook.com/wp-content/uploads/2011/11/homepage-logo-1.gif"><img class=" wp-image-535 alignnone" title="Homepage-logo" src="https://www.hivbook.com/wp-content/uploads/2011/11/homepage-logo-1.gif" alt="" width="53" height="46" /></a>            <a href="https://www.hivbook.com/wp-content/uploads/2011/11/gilead2-1.gif"><img class=" wp-image-142 alignleft" title="gilead" src="https://www.hivbook.com/wp-content/uploads/2011/11/gilead2-1.gif?w=150" alt="" width="105" height="31" /><img class=" wp-image-143 alignnone" src="https://www.hivbook.com/wp-content/uploads/2011/11/msd2-1.gif" alt="msd" width="80" height="30" /></a></p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="https://www.hivbook.com/" data-a2a-title="HIV 2015/2016"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.hivbook.com%2F&amp;linkname=HIV%202015%2F2016" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.hivbook.com%2F&amp;linkname=HIV%202015%2F2016" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>	</div><!-- .entry-content -->
+
+	</div><!-- #post-## -->
+
+
+<div id="comments">
+
+			<h3 id="comments-title" class="comment-head">
+			29 Responses to <em>HIV 2015/2016</em>		</h3>
+
+		
+		<ol class="comment-list">
+			
+		<li class="comment even thread-even depth-1" id="li-comment-34">
+			<div id="comment-34" class="comment-container">
+				<div class="comment-author vcard">
+										<cite class="fn">Jackson Yamvwa</cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://www.hivbook.com/#comment-34">
+					10. April 2018 at 9:06</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>This is an excellent and exceptional piece of work. When should we expect the latest version of the book</p>
+</div>
+
+				<div class="reply">
+									</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-33">
+			<div id="comment-33" class="comment-container">
+				<div class="comment-author vcard">
+										<cite class="fn">Amjad Ullah</cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://www.hivbook.com/#comment-33">
+					20. November 2017 at 12:56</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>Thank You so much&#8230;.Very Help full</p>
+</div>
+
+				<div class="reply">
+									</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="comment even thread-even depth-1" id="li-comment-32">
+			<div id="comment-32" class="comment-container">
+				<div class="comment-author vcard">
+										<cite class="fn">kkfash</cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://www.hivbook.com/#comment-32">
+					29. May 2017 at 17:55</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>Excellent write up. This book (print copy)  should be subsidized or made available free for developing countries. Gilead, Hexal, MSD etc, thanks for this wonderful opportunity. We students in developing countries would really appreciate.</p>
+</div>
+
+				<div class="reply">
+									</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-31">
+			<div id="comment-31" class="comment-container">
+				<div class="comment-author vcard">
+										<cite class="fn">kkfash</cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://www.hivbook.com/#comment-31">
+					29. May 2017 at 17:48</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>Excellent write up. This book should be subsidized or made available for developing countries.</p>
+</div>
+
+				<div class="reply">
+									</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="comment even thread-even depth-1" id="li-comment-30">
+			<div id="comment-30" class="comment-container">
+				<div class="comment-author vcard">
+										<cite class="fn"><a href='http://www' rel='external nofollow' class='url'>girma alemu</a></cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://www.hivbook.com/#comment-30">
+					24. April 2017 at 5:55</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>i need it related to hiv documents</p>
+</div>
+
+				<div class="reply">
+									</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-29">
+			<div id="comment-29" class="comment-container">
+				<div class="comment-author vcard">
+										<cite class="fn"><a href='http://wwwhivbook.wordpress.com' rel='external nofollow' class='url'>nitin11284</a></cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://www.hivbook.com/#comment-29">
+					28. March 2017 at 17:54</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>Excellent book with latest updates in field of HIV</p>
+</div>
+
+				<div class="reply">
+									</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="comment even thread-even depth-1" id="li-comment-28">
+			<div id="comment-28" class="comment-container">
+				<div class="comment-author vcard">
+										<cite class="fn">Nitin</cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://www.hivbook.com/#comment-28">
+					28. March 2017 at 17:52</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>Excellent book to understand concepts and latest updates in field of HiV</p>
+</div>
+
+				<div class="reply">
+									</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-27">
+			<div id="comment-27" class="comment-container">
+				<div class="comment-author vcard">
+										<cite class="fn">mashini</cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://www.hivbook.com/#comment-27">
+					8. February 2017 at 9:57</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>excellent book for clinicians</p>
+</div>
+
+				<div class="reply">
+									</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="comment even thread-even depth-1" id="li-comment-26">
+			<div id="comment-26" class="comment-container">
+				<div class="comment-author vcard">
+										<cite class="fn"><a href='http://Kuldeepsingh' rel='external nofollow' class='url'>Kuldeepsingh Rathore</a></cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://www.hivbook.com/#comment-26">
+					20. August 2016 at 6:51</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>Very knowledgeable. Thanks</p>
+</div>
+
+				<div class="reply">
+									</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-25">
+			<div id="comment-25" class="comment-container">
+				<div class="comment-author vcard">
+										<cite class="fn">Dr. S. Khalil Kazemi</cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://www.hivbook.com/#comment-25">
+					4. July 2016 at 5:38</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>T<br />
+hanks very much for the book. It is easy to read.</p>
+</div>
+
+				<div class="reply">
+									</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="comment even thread-even depth-1" id="li-comment-24">
+			<div id="comment-24" class="comment-container">
+				<div class="comment-author vcard">
+										<cite class="fn">Buhle Charles</cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://www.hivbook.com/#comment-24">
+					13. June 2016 at 7:12</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>How to get the book?<br />
+I&#8217;m more interested on how viral load is detected, and what keeps it low or high because. I&#8217;m surprised how one can have a viral load that is 11000 and something, then a year later is detected to 6626 without taking the treatment&#8230;</p>
+</div>
+
+				<div class="reply">
+									</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-23">
+			<div id="comment-23" class="comment-container">
+				<div class="comment-author vcard">
+										<cite class="fn">Fizzah</cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://www.hivbook.com/#comment-23">
+					27. May 2016 at 13:49</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>I want to give reference of this book but couldn&#8217;t find this book either on google books and google scholar. Help me in this regard pleases.</p>
+</div>
+
+				<div class="reply">
+									</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="comment even thread-even depth-1" id="li-comment-22">
+			<div id="comment-22" class="comment-container">
+				<div class="comment-author vcard">
+										<cite class="fn"><a href='http://my.opera.com/gabriellamowe/blog/2013/09/26/an-analysis-of-sensible-candidiasis-solutions' rel='external nofollow' class='url'>candidoza</a></cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://www.hivbook.com/#comment-22">
+					30. November 2013 at 18:24</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>Howdy, I believe your blog could possibly be having browser compatibility issues.<br />
+Whenever I look at your website in Safari, it looks fine however,<br />
+when opening in IE, it&#8217;s got some overlapping issues.<br />
+I just wanted to provide you with a quick heads<br />
+up! Apart from that, fantastic website!</p>
+</div>
+
+				<div class="reply">
+									</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-21">
+			<div id="comment-21" class="comment-container">
+				<div class="comment-author vcard">
+										<cite class="fn"><a href='http://google' rel='external nofollow' class='url'>Ruben Aguiñon</a></cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://www.hivbook.com/#comment-21">
+					25. November 2013 at 5:09</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>excellent book has always been the reference book that I use, thanks for allowing free use.</p>
+<p>Dr Ruben Aguiñon</p>
+</div>
+
+				<div class="reply">
+									</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="comment even thread-even depth-1" id="li-comment-20">
+			<div id="comment-20" class="comment-container">
+				<div class="comment-author vcard">
+										<cite class="fn">KoGinge</cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://www.hivbook.com/#comment-20">
+					5. September 2013 at 6:50</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>I don&#8217;t know how to download hivbook 2011 issue. Any suggestion please?</p>
+</div>
+
+				<div class="reply">
+									</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-19">
+			<div id="comment-19" class="comment-container">
+				<div class="comment-author vcard">
+										<cite class="fn">KoGinge</cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://www.hivbook.com/#comment-19">
+					5. September 2013 at 6:47</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>Suggestion pls. How to download this book?</p>
+</div>
+
+				<div class="reply">
+									</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="comment even thread-even depth-1" id="li-comment-18">
+			<div id="comment-18" class="comment-container">
+				<div class="comment-author vcard">
+										<cite class="fn">Abdunnabi Rayes</cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://www.hivbook.com/#comment-18">
+					28. August 2013 at 20:51</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>A very useful, easy to read book. we in the developing countries are grateful for the authors and the sponsors.</p>
+</div>
+
+				<div class="reply">
+									</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-17">
+			<div id="comment-17" class="comment-container">
+				<div class="comment-author vcard">
+										<cite class="fn">mashini</cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://www.hivbook.com/#comment-17">
+					3. May 2013 at 7:00</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>very useful and excellent resource</p>
+</div>
+
+				<div class="reply">
+									</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="comment even thread-even depth-1" id="li-comment-16">
+			<div id="comment-16" class="comment-container">
+				<div class="comment-author vcard">
+										<cite class="fn"><a href='http://%URL%' rel='external nofollow' class='url'>test for gonorrhea in urine</a></cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://www.hivbook.com/#comment-16">
+					2. May 2013 at 22:03</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>Excellent write-up. I definitely love this site.<br />
+Stick with it!</p>
+</div>
+
+				<div class="reply">
+									</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-15">
+			<div id="comment-15" class="comment-container">
+				<div class="comment-author vcard">
+										<cite class="fn"><a href='http://%URL%' rel='external nofollow' class='url'>std</a></cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://www.hivbook.com/#comment-15">
+					2. May 2013 at 19:59</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>Hey! This is my first visit to your blog! We are a team of volunteers and<br />
+starting a new initiative in a community<br />
+in the same niche. Your blog provided us beneficial information to work on.<br />
+You have done a marvellous job!</p>
+</div>
+
+				<div class="reply">
+									</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="comment even thread-even depth-1" id="li-comment-14">
+			<div id="comment-14" class="comment-container">
+				<div class="comment-author vcard">
+										<cite class="fn">mashini</cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://www.hivbook.com/#comment-14">
+					16. December 2012 at 9:40</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>very good book</p>
+</div>
+
+				<div class="reply">
+									</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-13">
+			<div id="comment-13" class="comment-container">
+				<div class="comment-author vcard">
+										<cite class="fn">Jennifer Jones- Joseph</cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://www.hivbook.com/#comment-13">
+					30. November 2012 at 1:03</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>hI, I AM INTERESTING IN THIS BOOK, CAN YOU TELL ME THE COST, THANK</p>
+</div>
+
+				<div class="reply">
+									</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="comment even thread-even depth-1" id="li-comment-12">
+			<div id="comment-12" class="comment-container">
+				<div class="comment-author vcard">
+										<cite class="fn">Jennifer Jones- Joseph</cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://www.hivbook.com/#comment-12">
+					30. November 2012 at 1:00</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>Hi i am interesting in this book, will like to know the cost of this book, thank you</p>
+</div>
+
+				<div class="reply">
+									</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-11">
+			<div id="comment-11" class="comment-container">
+				<div class="comment-author vcard">
+										<cite class="fn">Vasily</cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://www.hivbook.com/#comment-11">
+					17. September 2012 at 1:42</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>No doubt this is the best book so I got a question. It has been `coming up soon` status of 2012 release at least since spring, so how soon can we expect an updated version of this very helpful book?</p>
+</div>
+
+				<div class="reply">
+									</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="comment even thread-even depth-1" id="li-comment-10">
+			<div id="comment-10" class="comment-container">
+				<div class="comment-author vcard">
+										<cite class="fn">kaner</cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://www.hivbook.com/#comment-10">
+					23. August 2012 at 10:04</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>it is a wonderful book for the doctors from developing country!<br />
+they are all  heros who worked for this book!</p>
+</div>
+
+				<div class="reply">
+									</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-9">
+			<div id="comment-9" class="comment-container">
+				<div class="comment-author vcard">
+										<cite class="fn">Dr Johnbull O. Egharevba</cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://www.hivbook.com/#comment-9">
+					28. July 2012 at 2:38</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>A great book. It has been most helpful.</p>
+</div>
+
+				<div class="reply">
+									</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="comment even thread-even depth-1" id="li-comment-8">
+			<div id="comment-8" class="comment-container">
+				<div class="comment-author vcard">
+										<cite class="fn">Dr. Nyukuri</cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://www.hivbook.com/#comment-8">
+					3. July 2012 at 6:27</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>Excellent resource for medics working with PLWHA.<br />
+Keep up the good work.</p>
+</div>
+
+				<div class="reply">
+									</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-7">
+			<div id="comment-7" class="comment-container">
+				<div class="comment-author vcard">
+										<cite class="fn"><a href='http://deleted' rel='external nofollow' class='url'>Dr B B Rewari</a></cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://www.hivbook.com/#comment-7">
+					22. March 2012 at 11:43</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>Excellent book</p>
+</div>
+
+				<div class="reply">
+									</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="comment even thread-even depth-1" id="li-comment-6">
+			<div id="comment-6" class="comment-container">
+				<div class="comment-author vcard">
+										<cite class="fn">Dr B B Rewari</cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://www.hivbook.com/#comment-6">
+					22. March 2012 at 11:42</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>excellent book and thanks for making it available free</p>
+</div>
+
+				<div class="reply">
+									</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+		</ol>
+
+		
+	
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="https://www.hivbook.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+				<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='66' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="618571a824" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="32"/></p>			</form>
+			</div><!-- #respond -->
+	
+</div><!-- #comments -->
+
+	</div><!-- #content -->
+</div><!-- #container -->
+
+
+	<div id="sidebar" class="widget-area" role="complementary">
+				<ul class="xoxo sidebar-list">
+
+			<li id="media_image-5" class="widget widget_media_image"><img width="128" height="135" src="https://www.hivbook.com/wp-content/uploads/2011/11/virus-logo-klein1-2.gif" class="image wp-image-138 aligncenter attachment-full size-full" alt="" style="max-width: 100%; height: auto;" /></li><li id="sfp_page_plugin_widget-2" class="widget widget_sfp_page_plugin_widget"><div id="fb-root"></div>
+<script>
+	(function(d){
+		var js, id = 'facebook-jssdk';
+		if (d.getElementById(id)) {return;}
+		js = d.createElement('script');
+		js.id = id;
+		js.async = true;
+		js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+		d.getElementsByTagName('head')[0].appendChild(js);
+	}(document));
+</script>
+<!-- SFPlugin by topdevs.net -->
+<!-- Page Plugin Code START -->
+<div class="sfp-container">
+	<div class="fb-page"
+		data-href="http://www.facebook.com/pages/hivbook/244975488886844"
+		data-width="200"
+		data-height="130"
+		data-hide-cover="false"
+		data-show-facepile="false"
+		data-small-header="false"
+		data-tabs="">
+	</div>
+</div>
+<!-- Page Plugin Code END --></li><li id="text-2" class="widget widget_text"><h3 class="widget-title">Editors</h3>			<div class="textwidget"><p>Christian Hoffmann, MD, PhD and Jürgen K. Rockstroh, MD, PhD</p>
+</div>
+		</li><li id="text-3" class="widget widget_text"><h3 class="widget-title">Copyright</h3>			<div class="textwidget"><p>The copyright on HIV 2011 for all languages except English and German may be removed with approval of the editors. HIV 2011 can be translated into any language and published under your own name &#8211; without paying a license fee.</p>
+</div>
+		</li><li id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="https://www.hivbook.com/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></li>		</ul>
+	</div><!-- #sidebar .widget-area -->
+
+		<div id="secondary-sidebar" class="widget-area" role="complementary">
+		<ul class="xoxo sidebar-list">
+		<li id="categories-2" class="widget widget_categories"><h3 class="widget-title">HIV 2011 &#8211; the chapters</h3>		<ul>
+	<li class="cat-item cat-item-2"><a href="https://www.hivbook.com/category/hivbook-2011-download/" >hivbook 2011 &#8211; Download</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="https://www.hivbook.com/category/part-1-the-basics/" title=" Introduction
+ HIV Testing
+ Pathogenesis of HIV-1 Infection
+ Preventive HIV-1 Vaccine
+ Acute HIV-1 Infection
+
+ ">Part 1 &#8211; The Basics</a>
+<ul class='children'>
+	<li class="cat-item cat-item-15"><a href="https://www.hivbook.com/category/part-1-the-basics/2-hiv-testing/" >2. HIV Testing</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="https://www.hivbook.com/category/part-1-the-basics/3-pathogenesis-of-hiv-1-infection/" >3. Pathogenesis of HIV-1 Infection</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="https://www.hivbook.com/category/part-1-the-basics/4-preventive-hiv-1-vaccine/" >4. Preventive HIV-1 Vaccine</a>
+</li>
+	<li class="cat-item cat-item-20"><a href="https://www.hivbook.com/category/part-1-the-basics/5-acute-hiv-1-infection/" >5. Acute HIV-1 Infection</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-4"><a href="https://www.hivbook.com/category/part-2-antiretroviral-therapy/" title=" ART 2011
+ Managing Side Effects
+ Lipodystrophy Syndrome
+ Mitochondrial Toxicity of NRTIs
+ HIV Resistance and Viral Tropism Testing">Part 2 &#8211; Antiretroviral Therapy</a>
+<ul class='children'>
+	<li class="cat-item cat-item-21"><a href="https://www.hivbook.com/category/part-2-antiretroviral-therapy/6-art-2011/" >6. ART 2011</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-22"><a href="https://www.hivbook.com/category/part-2-antiretroviral-therapy/6-art-2011/6-1-perspective/" >6.1. Perspective</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="https://www.hivbook.com/category/part-2-antiretroviral-therapy/6-art-2011/6-2-overview-of-antiretroviral-agents/" >6.2. Overview of Antiretroviral Agents</a>
+</li>
+	<li class="cat-item cat-item-24"><a href="https://www.hivbook.com/category/part-2-antiretroviral-therapy/6-art-2011/6-3-art-20112012-the-horizon-and-beyond/" >6.3. ART 2011/2012: The Horizon and Beyond</a>
+</li>
+	<li class="cat-item cat-item-25"><a href="https://www.hivbook.com/category/part-2-antiretroviral-therapy/6-art-2011/6-4-goals-and-principles-of-therapy/" >6.4. Goals and Principles of Therapy</a>
+</li>
+	<li class="cat-item cat-item-26"><a href="https://www.hivbook.com/category/part-2-antiretroviral-therapy/6-art-2011/6-5-when-to-start-art/" >6.5. When to Start ART</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="https://www.hivbook.com/category/part-2-antiretroviral-therapy/6-art-2011/6-6-what-to-start-with/" >6.6. What to Start With?</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="https://www.hivbook.com/category/part-2-antiretroviral-therapy/6-art-2011/6-7-when-to-switch/" >6.7. When to Switch?</a>
+</li>
+	<li class="cat-item cat-item-29"><a href="https://www.hivbook.com/category/part-2-antiretroviral-therapy/6-art-2011/6-8-how-to-switch-art/" >6.8. How to Switch ART</a>
+</li>
+	<li class="cat-item cat-item-30"><a href="https://www.hivbook.com/category/part-2-antiretroviral-therapy/6-art-2011/6-9-salvage-therapy/" >6.9. Salvage Therapy</a>
+		<ul class='children'>
+	<li class="cat-item cat-item-58"><a href="https://www.hivbook.com/category/part-2-antiretroviral-therapy/6-art-2011/6-9-salvage-therapy/6-10-when-to-stop-art/" >6.10. When to Stop ART?</a>
+</li>
+	<li class="cat-item cat-item-59"><a href="https://www.hivbook.com/category/part-2-antiretroviral-therapy/6-art-2011/6-9-salvage-therapy/6-11-monitoring/" >6.11. Monitoring</a>
+</li>
+	<li class="cat-item cat-item-60"><a href="https://www.hivbook.com/category/part-2-antiretroviral-therapy/6-art-2011/6-9-salvage-therapy/6-12-prevention-compliance-costs/" >6.12. Prevention, compliance, costs</a>
+</li>
+	<li class="cat-item cat-item-61"><a href="https://www.hivbook.com/category/part-2-antiretroviral-therapy/6-art-2011/6-9-salvage-therapy/6-13-global-access-to-hiv-treatment/" >6.13. Global Access to HIV Treatment</a>
+</li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-31"><a href="https://www.hivbook.com/category/part-2-antiretroviral-therapy/7-managing-side-effects/" >7. Managing Side Effects</a>
+</li>
+	<li class="cat-item cat-item-32"><a href="https://www.hivbook.com/category/part-2-antiretroviral-therapy/8-lipodystrophy-syndrome/" >8. Lipodystrophy Syndrome</a>
+</li>
+	<li class="cat-item cat-item-33"><a href="https://www.hivbook.com/category/part-2-antiretroviral-therapy/9-mitochondrial-toxicity-of-nrtis/" >9. Mitochondrial Toxicity of NRTIs</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-57"><a href="https://www.hivbook.com/category/part-2-antiretroviral-therapy/9-mitochondrial-toxicity-of-nrtis/10-hiv-resistance-and-viral-tropism-testing/" >10. HIV Resistance and Viral Tropism Testing</a>
+</li>
+	</ul>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-5"><a href="https://www.hivbook.com/category/part-3-aids/" >Part 3 &#8211; AIDS</a>
+<ul class='children'>
+	<li class="cat-item cat-item-11"><a href="https://www.hivbook.com/category/part-3-aids/11-opportunistic-infections/" >11. Opportunistic Infections</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-35"><a href="https://www.hivbook.com/category/part-3-aids/11-opportunistic-infections/atypical-mycobacteriosis/" >Atypical Mycobacteriosis</a>
+</li>
+	<li class="cat-item cat-item-36"><a href="https://www.hivbook.com/category/part-3-aids/11-opportunistic-infections/bacterial-pneumonia/" >Bacterial pneumonia</a>
+</li>
+	<li class="cat-item cat-item-37"><a href="https://www.hivbook.com/category/part-3-aids/11-opportunistic-infections/candidiasis/" >Candidiasis</a>
+</li>
+	<li class="cat-item cat-item-38"><a href="https://www.hivbook.com/category/part-3-aids/11-opportunistic-infections/cerebral-toxoplasmosis/" >Cerebral toxoplasmosis</a>
+</li>
+	<li class="cat-item cat-item-39"><a href="https://www.hivbook.com/category/part-3-aids/11-opportunistic-infections/cmv-retinitis/" >CMV Retinitis</a>
+</li>
+	<li class="cat-item cat-item-40"><a href="https://www.hivbook.com/category/part-3-aids/11-opportunistic-infections/cryptococcosis/" >Cryptococcosis</a>
+</li>
+	<li class="cat-item cat-item-41"><a href="https://www.hivbook.com/category/part-3-aids/11-opportunistic-infections/cryptosporidiosis/" >Cryptosporidiosis</a>
+</li>
+	<li class="cat-item cat-item-42"><a href="https://www.hivbook.com/category/part-3-aids/11-opportunistic-infections/herpes-simplex/" >Herpes Simplex</a>
+</li>
+	<li class="cat-item cat-item-43"><a href="https://www.hivbook.com/category/part-3-aids/11-opportunistic-infections/herpes-zoster/" >Herpes Zoster</a>
+</li>
+	<li class="cat-item cat-item-46"><a href="https://www.hivbook.com/category/part-3-aids/11-opportunistic-infections/immune-reconstitution-inflammatory-syndrome-iris/" >Immune reconstitution inflammatory syndrome (IRIS)</a>
+</li>
+	<li class="cat-item cat-item-49"><a href="https://www.hivbook.com/category/part-3-aids/11-opportunistic-infections/pneumocystis-pneumonia-pcp/" >Pneumocystis Pneumonia (PCP)</a>
+</li>
+	<li class="cat-item cat-item-51"><a href="https://www.hivbook.com/category/part-3-aids/11-opportunistic-infections/progressive-multifocal-leukoencephalopathy/" >Progressive multifocal Leukoencephalopathy</a>
+</li>
+	<li class="cat-item cat-item-52"><a href="https://www.hivbook.com/category/part-3-aids/11-opportunistic-infections/rare-ois/" >Rare OIs</a>
+</li>
+	<li class="cat-item cat-item-53"><a href="https://www.hivbook.com/category/part-3-aids/11-opportunistic-infections/salmonella-septicemia/" >Salmonella septicemia</a>
+</li>
+	<li class="cat-item cat-item-55"><a href="https://www.hivbook.com/category/part-3-aids/11-opportunistic-infections/tuberculosis/" >Tuberculosis</a>
+</li>
+	<li class="cat-item cat-item-56"><a href="https://www.hivbook.com/category/part-3-aids/11-opportunistic-infections/wasting-syndrome/" >Wasting syndrome</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-12"><a href="https://www.hivbook.com/category/part-3-aids/12-kaposis-sarcoma/" >12. Kaposi&#039;s Sarcoma</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="https://www.hivbook.com/category/part-3-aids/13-malignant-lymphomas/" >13. Malignant Lymphomas</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-44"><a href="https://www.hivbook.com/category/part-3-aids/13-malignant-lymphomas/hodgkins-diesease-hd/" >Hodgkin&#039;s diesease (HD)</a>
+</li>
+	<li class="cat-item cat-item-48"><a href="https://www.hivbook.com/category/part-3-aids/13-malignant-lymphomas/multicentirc-castlemans-disease-mcd/" >Multicentirc Castleman&#039;s Disease (MCD)</a>
+</li>
+	<li class="cat-item cat-item-50"><a href="https://www.hivbook.com/category/part-3-aids/13-malignant-lymphomas/primary-cns-lymphoma-malignant-lymphomas/" >Primary CNS lymphoma</a>
+</li>
+	<li class="cat-item cat-item-54"><a href="https://www.hivbook.com/category/part-3-aids/13-malignant-lymphomas/systemic-non-hodgkin-lymphomas-nhl-malignant-lymphomas/" >Systemic Non-Hodgkin lymphomas (NHL)</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-14"><a href="https://www.hivbook.com/category/part-3-aids/14-non-aids-defining-malignancies/" >14. Non-AIDS-defining Malignancies</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-8"><a href="https://www.hivbook.com/category/part-6-drugs/" >Part 6 &#8211; Drugs</a>
+<ul class='children'>
+	<li class="cat-item cat-item-17"><a href="https://www.hivbook.com/category/part-6-drugs/35-drug-profiles/" >35. Drug Profiles</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="https://www.hivbook.com/category/part-6-drugs/36-drug-drug-interactions/" >36. Drug-drug interactions</a>
+</li>
+</ul>
+</li>
+		</ul>
+</li>		</ul>
+	</div><!-- #secondary-sidebar .widget-area -->
+	
+		</div><!-- #content-box -->
+
+		<div id="footer" role="contentinfo">
+			<div id="colophon">
+
+				
+				<div id="site-info">
+					<a href="https://www.hivbook.com/" title="hivbook.com" rel="home">hivbook.com</a> &middot; HIV 2015/2016 &#8211; a textbook freely available				</div><!-- #site-info -->
+
+				<div id="site-generator">
+					<a href="http://wordpress.org/" title="A Semantic Personal Publishing Platform" rel="generator">Proudly powered by WordPress</a>
+					&middot;
+					Theme: Pilcrow by <a href="http://automattic.com/" rel="designer">Automattic</a>.				</div><!-- #site-generator -->
+
+			</div><!-- #colophon -->
+		</div><!-- #footer -->
+	</div><!-- #page .blog -->
+</div><!-- #container -->
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.hivbook.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.hivbook.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.5'></script>
+<script type='text/javascript' src='https://www.hivbook.com/wp-includes/js/wp-embed.min.js?ver=4.9.10'></script>
+<script async="async" type='text/javascript' src='https://www.hivbook.com/wp-content/plugins/akismet/_inc/form.js?ver=4.1'></script>
+</body>
+</html>

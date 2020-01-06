@@ -1,0 +1,360 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+        "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <title>Iowa Neonatology Handbook | University of Iowa Stead Family Children's Hospital</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1130.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<link rel="shortcut icon" href="https://uichildrens.org/sites/all/themes/custom/uich/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="next" href="/health-library/abbreviations-commonly-used-nursery" />
+<meta name="description" content="The Iowa Neonatology Handbook is an ongoing effort by the Division of Neonatology at the University of Iowa Children&#039;s Hospital to provide physicians, nurses, and medical students who care for newborn infants a collection of protocols outlining rational approaches to the care of critically ill neonates. This document is not intended to be a comprehensive review of the field of" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://uichildrens.org/health-library/iowa-neonatology-handbook" />
+<link rel="shortlink" href="https://uichildrens.org/node/6596" />
+<meta property="og:site_name" content="University of Iowa Stead Family Children&#039;s Hospital" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://uichildrens.org/health-library/iowa-neonatology-handbook" />
+<meta property="og:title" content="Iowa Neonatology Handbook" />
+<meta property="og:description" content="The Iowa Neonatology Handbook is an ongoing effort by the Division of Neonatology at the University of Iowa Children&#039;s Hospital to provide physicians, nurses, and medical students who care for newborn infants a collection of protocols outlining rational approaches to the care of critically ill neonates. This document is not intended to be a comprehensive review of the field of neonatology, nor is it implied that the therapeutic approaches outlined in this book are established policies or standards of care. Rather, they represent a compilation of the experience and clinical styles of the members of our division and are intended only as a guide to therapy." />
+<meta property="og:updated_time" content="2019-06-04T14:06:01-05:00" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://uichildrens.org/health-library/iowa-neonatology-handbook" />
+<meta name="twitter:title" content="Iowa Neonatology Handbook" />
+<meta name="twitter:description" content="The Iowa Neonatology Handbook is an ongoing effort by the Division of Neonatology at the University of Iowa Children&#039;s Hospital to provide physicians, nurses, and medical students who care for" />
+<meta property="article:published_time" content="2012-08-30T09:24:08-05:00" />
+<meta property="article:modified_time" content="2019-06-04T14:06:01-05:00" />
+  <link type="text/css" rel="stylesheet" href="https://uichildrens.org/sites/default/files/css/css_FFMDRYZ2nSV6HGDyDVpm9-yNY8H0IkhZ90k-a2N9jFE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://uichildrens.org/sites/default/files/css/css_hTLrwzbU9bZhjvzx-j5entbJFEHkjJyd6RgHEla8FhA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://uichildrens.org/sites/default/files/css/css_WxrhimbknHA4Zt_vL2zQnO4V__XD1FwwAox8tnOOdow.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://uichildrens.org/sites/default/files/css/css_SMA5WKWz-oqTyck5X7Q1ItkCXjWirU081xM6gdPL4rY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://uichildrens.org/sites/default/files/css/css_3L5aRpmefXG27B4imYC6AkW2vYNFitm9K2f4-In07u4.css" media="all" />
+
+  <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+  <!--[if lt IE 9]>
+  <script src="//cdn.jsdelivr.net/g/html5shiv@3.7.3(html5shiv-printshiv.min.js+html5shiv.min.js)"></script>
+  <style type="text/css">
+    .container-fluid {
+      min-width: 960px;
+    }
+  </style>
+
+  <![endif]-->
+  <!-- More hacks, required for all versions of IE -->
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MHZ3Z59');</script>
+  <!-- End Google Tag Manager -->
+  <!-- Font Awesome -->
+  <script defer src="/sites/all/themes/custom/uich/js/all.js"></script>
+  <!-- End Font Awesome -->
+</head>
+
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-6596 node-type-health-article" >
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MHZ3Z59"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header id="global-header" class="container-fluid">
+  <a class="off-screen" href="#content">Skip to Content</a> <a class="track-event" data-event-category="Navigation" data-event-action="Top" data-event-label="Logo" href="/" id="logo"> <img src="https://uichildrens.org/sites/all/themes/custom/uich/logo.svg" alt="University of Iowa Children's Hospital Logo"/> </a> <img id="print-logo" class="visible-print" src="/sites/all/themes/custom/uich/images/logo.svg" alt="University of Iowa Children's Hospital" width="163" height="77"/>
+  <ul id="institutional-nav" class="visible-desktop">
+    <li><a class="track-event" data-event-category="Navigation" data-event-action="Top" data-event-label="MyChart" href="https://mychart.uihealthcare.org/mychart/">MyChart&reg;</a></li>
+    <li><a class="track-event" data-event-category="Navigation" data-event-action="Top" data-event-label="Share Your Story" href="https://uiowa.qualtrics.com/jfe/form/SV_cMzhxzSWVA79sMJ">Share Your Story</a></li>
+    <li><a class="track-event" data-event-category="Navigation" data-event-action="Top" data-event-label="Online Store" href="http://www.costore.com/uichildrens/welcome.asp">Online Store</a>
+    </li>
+  </ul>
+  <div class="global-search-container">
+    <div class="global-search">
+      <a class="btn btn-warning visible-desktop donate-button-search" href="/node/8761">Give Now</a>
+        <form class="search-form" action="/search/node" method="post" id="search-form" accept-charset="UTF-8"><div><div class="container-inline form-wrapper" id="edit-basic"><div class="form-item form-type-textfield form-item-keys">
+  <label class="element-invisible" for="edit-keys">Search </label>
+ <input 0="placeholder" class="search-box form-text" type="text" id="edit-keys" name="keys" value="" size="20" maxlength="255" />
+</div>
+<input class="btn btn-success hidden-phone hidden-tablet form-submit" type="submit" id="edit-submit" name="op" value="Search" /></div><input type="hidden" name="form_build_id" value="form-KgcapCE3uTuEIJskNy__FTXxrHMdwM_kdhaBSAJA97o" />
+<input type="hidden" name="form_id" value="search_form" />
+</div></form>    </div>
+    <a id="global-nav-trigger" class="hidden-desktop btn btn-success" href="#" title="Toggle Menu Options">Menu</a>
+    <nav id="mobile-primary-nav" class="mobile hidden-desktop" role="navigation" aria-label="Mobile primary navigation">
+        <ul class="nav nav-list span4"><li class="menu-3351 first"><a href="/about-us">About Us</a></li>
+<li class="menu-6101"><a href="/health-articles" title="Health Articles">Health Articles</a></li>
+<li class="menu-3226"><a href="/medical-services" title="">Medical Services</a></li>
+<li class="menu-4291"><a href="/patients-and-visitors">Patients and Visitors</a></li>
+<li class="menu-6151"><a href="/find-a-doctor">Find a Doctor</a></li>
+<li class="menu-7956 last"><a href="/appointment" title="">Request an Appointment</a></li>
+</ul>      <ul class="nav nav-list span4">
+        <li class="nav-header">Take Action</li>
+        <li><a class="track-event" data-event-category="Navigation" data-event-action="Mobile" data-event-label="Give Now" href="/ways-give">Give Now</a></li>
+        <li><a class="purple track-event" data-event-category="Navigation" data-event-action="Mobile" data-event-label="Request Appointment" href="/appointment">Request an Appointment</a></li>
+        <li class="last"><a class="track-event" data-event-category="Navigation" data-event-action="Mobile" data-event-label="Pay Your Bill" href="https://www.uihealthcare.org/billpay/Default.aspx">Pay Your Bill</a></li>
+      </ul>
+      <ul class="nav nav-list span4">
+        <li><a class="track-event" data-event-category="Navigation" data-event-action="Mobile" data-event-label="MyChart" href="https://mychart.uihealthcare.org/mychart/">MyChart&reg;</a></li>
+        <li><a class="track-event" data-event-category="Navigation" data-event-action="Mobile" data-event-label="Share Your Story" href="https://uiowa.qualtrics.com/jfe/form/SV_cMzhxzSWVA79sMJ">Share Your Story</a></li>
+        <li><a class="track-event" data-event-category="Navigation" data-event-action="Mobile" data-event-label="Online Store" href="http://www.costore.com/uichildrens/welcome.asp">Online Store</a></li>
+      </ul>
+    </nav>
+  </div>
+  <nav class="visible-desktop" role="navigation" aria-label="Primary navigation menu">
+      <ul id="primary-nav" class="center"><li class="menu-3351 first"><a href="/about-us">About Us</a></li>
+<li class="menu-6101"><a href="/health-articles" title="Health Articles">Health Articles</a></li>
+<li class="menu-3226"><a href="/medical-services" title="">Medical Services</a></li>
+<li class="menu-4291"><a href="/patients-and-visitors">Patients and Visitors</a></li>
+<li class="menu-6151"><a href="/find-a-doctor">Find a Doctor</a></li>
+<li class="menu-7956 last"><a href="/appointment" title="">Request an Appointment</a></li>
+</ul>  </nav>
+</header>
+<div id="outerContentWrapper">
+    <div id="graphicWrapper"><!-- Wrapper for Graphics that will extend beyond the containing width of the page. -->
+        <div id="content" class="container-fluid">
+
+                          <div class="row-fluid no-gutters">
+                  <div class="notification-bar">
+                    <div class="span2">
+                            <div class="notification-text"><span><i class='fas fa-info-circle'></i></span>Notice</div>
+                    </div>
+                    <div class="span10">
+                        <div class="notification-view">
+                            <div class="view view-notification-banner view-id-notification_banner view-display-id-block view-dom-id-cfecbca1f39ce8f7bc6258011155acbc">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-external-url">        <div class="field-content"><a href="https://uihc.org/football">Saturday, Aug. 31: How to access the hospital on Hawkeye football game days</a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>                       </div>
+                    </div>
+                  </div>
+                </div>
+                    
+            <nav>
+                 <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> » <a href="/health-library/health-topics">Health Topics</a></div>            </nav>
+
+
+            <div class="row-fluid">
+                <section class="top-level span11" role="main">
+                    
+                    
+
+                    <div class="page-header">
+                                                <h1 class="title" id="page-title">Iowa Neonatology Handbook</h1>                                                <div></div>                    </div>
+
+                    <!--main content and sidebar-->
+                    <div class="row-fluid">
+
+                                            <div class="span9">
+                              <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-6596" class="node node-health-article clearfix" about="/health-library/iowa-neonatology-handbook" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="Iowa Neonatology Handbook" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    
+<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+        <div class="field-items">
+          <p class="field-item even" property="content:encoded"><p>The Iowa Neonatology Handbook is an ongoing effort by the Division of Neonatology at the University of Iowa Stead Family Children's Hospital to provide physicians, nurses, and medical students who care for newborn infants a collection of protocols outlining rational approaches to the care of critically ill neonates. This document is not intended to be a comprehensive review of the field of neonatology, nor is it implied that the therapeutic approaches outlined in this book are established policies or standards of care. Rather, they represent a compilation of the experience and clinical styles of the members of our division and are intended only as a guide to therapy.</p>
+</p>
+      </div>
+  </div>
+
+<div class="field field-name-field-med-service-ref-multiple field-type-entityreference field-label-above">
+      <h2 >Medical Services</h2>
+        <div class="field-items">
+          <p class="field-item even"><a href="/medical-services/neonatology">Neonatology</a></p>
+      </div>
+  </div>
+  <div id="book-navigation-6596" class="book-navigation">
+    <ul class="menu"><li class="first leaf"><a href="/health-library/abbreviations-commonly-used-nursery">Abbreviations commonly used in the nursery</a></li>
+<li class="collapsed"><a href="/health-library/cardiology-nicu-handbook">Cardiology: NICU Handbook</a></li>
+<li class="collapsed"><a href="/health-library/feeding-nicu-handbook">Feeding: NICU Handbook</a></li>
+<li class="collapsed"><a href="/health-library/fluid-management-nicu-handbook">Fluid management: NICU Handbook</a></li>
+<li class="collapsed"><a href="/health-library/gastrointestinal-nicu-handbook">Gastrointestinal: NICU Handbook</a></li>
+<li class="collapsed"><a href="/health-library/general-nicu-handbook">General: NICU Handbook</a></li>
+<li class="collapsed"><a href="/health-library/hematology-nicu-handbook">Hematology: NICU Handbook</a></li>
+<li class="collapsed"><a href="/health-library/infection-nicu-handbook">Infection: NICU Handbook</a></li>
+<li class="collapsed"><a href="/health-library/jaundice-nicu-handbook">Jaundice: NICU Handbook</a></li>
+<li class="collapsed"><a href="/health-library/metabolic-nicu-handbook">Metabolic: NICU Handbook</a></li>
+<li class="collapsed"><a href="/health-library/neurology-nicu-handbook">Neurology: NICU Handbook</a></li>
+<li class="collapsed"><a href="/health-library/pharmacology-nicu-handbook">Pharmacology: NICU Handbook</a></li>
+<li class="collapsed"><a href="/health-library/procedures-nicu-handbook">Procedures: NICU Handbook</a></li>
+<li class="collapsed"><a href="/health-library/pulmonary-nicu-handbook">Pulmonary: NICU Handbook</a></li>
+<li class="collapsed"><a href="/health-library/temperature-nicu-handbook">Temperature: NICU Handbook</a></li>
+<li class="leaf"><a href="/health-library/iowa-neonatology-handbook-preface">Iowa Neonatology Handbook: Preface</a></li>
+<li class="leaf"><a href="/health-library/iowa-neonatology-handbook-authors-and-contributing-authors">Iowa Neonatology Handbook: Authors and contributing authors</a></li>
+<li class="last leaf"><a href="/health-library/translations-iowa-neonatology-handbook">Translations of the Iowa Neonatology Handbook</a></li>
+</ul>
+        <div class="page-links clearfix">
+                          <a href="/health-library/abbreviations-commonly-used-nursery" class="page-next" title="Go to next page">Abbreviations commonly used in the nursery ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+                        </div>
+
+                        <div class="span3">
+                            <aside id="sideBar">
+                                  <div class="region region-sidebar">
+    <div id="block-book-navigation" class="block block-book">
+
+    <h2><a href="/health-library/iowa-neonatology-handbook" class="book-title active">Iowa Neonatology Handbook</a></h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/health-library/abbreviations-commonly-used-nursery">Abbreviations commonly used in the nursery</a></li>
+<li class="collapsed"><a href="/health-library/cardiology-nicu-handbook">Cardiology: NICU Handbook</a></li>
+<li class="collapsed"><a href="/health-library/feeding-nicu-handbook">Feeding: NICU Handbook</a></li>
+<li class="collapsed"><a href="/health-library/fluid-management-nicu-handbook">Fluid management: NICU Handbook</a></li>
+<li class="collapsed"><a href="/health-library/gastrointestinal-nicu-handbook">Gastrointestinal: NICU Handbook</a></li>
+<li class="collapsed"><a href="/health-library/general-nicu-handbook">General: NICU Handbook</a></li>
+<li class="collapsed"><a href="/health-library/hematology-nicu-handbook">Hematology: NICU Handbook</a></li>
+<li class="collapsed"><a href="/health-library/infection-nicu-handbook">Infection: NICU Handbook</a></li>
+<li class="collapsed"><a href="/health-library/jaundice-nicu-handbook">Jaundice: NICU Handbook</a></li>
+<li class="collapsed"><a href="/health-library/metabolic-nicu-handbook">Metabolic: NICU Handbook</a></li>
+<li class="collapsed"><a href="/health-library/neurology-nicu-handbook">Neurology: NICU Handbook</a></li>
+<li class="collapsed"><a href="/health-library/pharmacology-nicu-handbook">Pharmacology: NICU Handbook</a></li>
+<li class="collapsed"><a href="/health-library/procedures-nicu-handbook">Procedures: NICU Handbook</a></li>
+<li class="collapsed"><a href="/health-library/pulmonary-nicu-handbook">Pulmonary: NICU Handbook</a></li>
+<li class="collapsed"><a href="/health-library/temperature-nicu-handbook">Temperature: NICU Handbook</a></li>
+<li class="leaf"><a href="/health-library/iowa-neonatology-handbook-preface">Iowa Neonatology Handbook: Preface</a></li>
+<li class="leaf"><a href="/health-library/iowa-neonatology-handbook-authors-and-contributing-authors">Iowa Neonatology Handbook: Authors and contributing authors</a></li>
+<li class="last leaf"><a href="/health-library/translations-iowa-neonatology-handbook">Translations of the Iowa Neonatology Handbook</a></li>
+</ul>  </div>
+</div>
+  </div>
+                            </aside>
+                        </div>
+
+                    
+                    </div>
+                    <!--eof main content and sidebar-->
+
+                </section>
+            </div>
+        </div>
+    </div>
+</div>
+<footer>
+  <div id="subFooter">
+    <div class="container-fluid">
+              <div class="row-fluid">
+        <div class="span4">
+          <h2>Contact Information</h2>
+          <address>
+            University of Iowa Stead Family Children’s Hospital<br/> 200 Hawkins Drive<br/> Iowa City, IA 52242<br/><br/> <strong>Phone:</strong> <a href="tel:1-888-573-5437">1-888-573-5437</a>
+          </address>
+          <a class="button button--state-primary track-event" data-event-category="Navigation" data-event-action="Footer" data-event-label="Send Us an Email" href="/node/9121">Send us an email</a>
+        </div>
+        <div class="span4 centered">
+          <img src="/sites/all/themes/custom/uich/images/logo.svg" alt="University of Iowa Children's Hospital Logo" id="footer-logo"/> <img src="/sites/all/themes/custom/uich/images/tagline.svg" alt="Changing Medicine. Changing Kid's Lives" id="tagline"/> <a class="social-icon" href="https://www.facebook.com/UIchildrens"><!--?xml version="1.0" ?-->
+            <svg width="40" height="40" enable-background="new 0 0 128 128" id="Layer_1" version="1.1" viewBox="0 0 128 128" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g>
+                <circle cx="64" cy="64" fill="#00abc2" r="64"></circle>
+              </g>
+              <path d="M56.256,104V67.854H43.355V54.965h12.903V43.069c0-12,7.084-19.069,17.788-19.069  c5.129,0,9.313,0.548,10.598,0.719v13.478l-8.617-0.004c-5.819,0-6.91,2.887-6.91,6.945v9.828h14.916l-2.106,12.888H69.119V104  H56.256z" fill="#FFFFFF"></path></svg>
+          </a> <a class="social-icon" href="https://www.instagram.com/uichildrens/"><!--?xml version="1.0" ?-->
+            <svg enable-background="new 0 0 48 48" height="40" id="Layer_1" version="1.1" viewBox="4 5 50 50" width="40" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g>
+                <polygon fill="#00abc2" points="38.512,24.392 38.512,20.445 38.512,19.855 37.922,19.857 33.975,19.871 33.99,24.407  "/>
+                <path fill="#00abc2" d="M28.225,34.868c2.598,0,4.713-2.113,4.713-4.711c0-1.025-0.334-1.975-0.893-2.748c-0.855-1.186-2.248-1.965-3.82-1.965   s-2.963,0.779-3.82,1.965c-0.559,0.773-0.891,1.723-0.891,2.748C23.514,32.755,25.627,34.868,28.225,34.868z"/>
+                <path fill="#00abc2" d="M28.348,5.158c-13.6,0-24.625,11.023-24.625,24.623c0,13.6,11.025,24.625,24.625,24.625   c13.598,0,24.623-11.025,24.623-24.625C52.971,16.181,41.945,5.158,28.348,5.158z M41.611,27.409V38.37   c0,2.852-2.322,5.172-5.174,5.172H20.012c-2.853,0-5.173-2.32-5.173-5.172V27.409v-5.464c0-2.853,2.32-5.173,5.173-5.173h16.425   c2.852,0,5.174,2.32,5.174,5.173V27.409z"/>
+                <path fill="#00abc2" d="M35.545,30.157c0,4.035-3.283,7.32-7.32,7.32s-7.318-3.285-7.318-7.32c0-0.973,0.193-1.898,0.537-2.748h-3.996V38.37   c0,1.414,1.15,2.564,2.564,2.564h16.425c1.414,0,2.564-1.15,2.564-2.564V27.409h-3.998C35.35,28.259,35.545,29.185,35.545,30.157z"/>
+              </g></svg>
+          </a> <a class="social-icon" href="https://www.youtube.com/user/UIChildrens"><!--?xml version="1.0" ?-->
+            <svg width="40" height="40" enable-background="new 0 0 48 48" id="Layer_1" version="1.1" viewBox="0 0 48 48" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><circle cx="24" cy="24" fill="#00abc2" r="24"></circle>
+              <path d="M35.2,18.5c0-0.1,0-0.2-0.1-0.3c0,0,0-0.1,0-0.1c-0.3-0.9-1.1-1.5-2.1-1.5h0.2c0,0-3.9-0.6-9.2-0.6  c-5.2,0-9.2,0.6-9.2,0.6H15c-1,0-1.8,0.6-2.1,1.5c0,0,0,0.1,0,0.1c0,0.1,0,0.2-0.1,0.3c-0.1,1-0.4,3.1-0.4,5.5  c0,2.4,0.3,4.5,0.4,5.5c0,0.1,0,0.2,0.1,0.3c0,0,0,0.1,0,0.1c0.3,0.9,1.1,1.5,2.1,1.5h-0.2c0,0,3.9,0.6,9.2,0.6  c5.2,0,9.2-0.6,9.2-0.6H33c1,0,1.8-0.6,2.1-1.5c0,0,0-0.1,0-0.1c0-0.1,0-0.2,0.1-0.3c0.1-1,0.4-3.1,0.4-5.5  C35.6,21.6,35.4,19.5,35.2,18.5z M27.4,24.5l-4.7,3.4C22.6,28,22.5,28,22.4,28c-0.1,0-0.2,0-0.3-0.1c-0.2-0.1-0.3-0.3-0.3-0.5v-6.8  c0-0.2,0.1-0.4,0.3-0.5c0.2-0.1,0.4-0.1,0.6,0l4.7,3.4c0.1,0.1,0.2,0.3,0.2,0.5C27.7,24.2,27.6,24.4,27.4,24.5z" fill="#FFFFFF"></path></svg>
+          </a> <a class="social-icon" href="https://twitter.com/uichildrens"><!--?xml version="1.0" ?-->
+            <svg width="40" height="40" enable-background="new 0 0 48 48" id="Layer_1" version="1.1" viewBox="0 0 48 48" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><circle cx="24" cy="24" fill="#00abc2" r="24"></circle>
+              <g>
+                <g>
+                  <path d="M36.8,15.4c-0.9,0.5-2,0.8-3,0.9c1.1-0.7,1.9-1.8,2.3-3.1c-1,0.6-2.1,1.1-3.4,1.4c-1-1.1-2.3-1.8-3.8-1.8    c-2.9,0-5.3,2.5-5.3,5.7c0,0.4,0,0.9,0.1,1.3c-4.4-0.2-8.3-2.5-10.9-5.9c-0.5,0.8-0.7,1.8-0.7,2.9c0,2,0.9,3.7,2.3,4.7    c-0.9,0-1.7-0.3-2.4-0.7c0,0,0,0.1,0,0.1c0,2.7,1.8,5,4.2,5.6c-0.4,0.1-0.9,0.2-1.4,0.2c-0.3,0-0.7,0-1-0.1    c0.7,2.3,2.6,3.9,4.9,3.9c-1.8,1.5-4.1,2.4-6.5,2.4c-0.4,0-0.8,0-1.3-0.1c2.3,1.6,5.1,2.6,8.1,2.6c9.7,0,15-8.6,15-16.1    c0-0.2,0-0.5,0-0.7C35.2,17.6,36.1,16.6,36.8,15.4z" fill="#FFFFFF"></path>
+                </g>
+              </g></svg>
+          </a> <a class="social-icon" href="https://www.flickr.com/photos/uichildrens/collections">
+            <svg width="40" height="40" fill="#00abc2" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+                    <path d="M256,0C114.6,0,0,115.4,0,257.8s114.6,257.8,256,257.8s256-115.4,256-257.8S397.4,0,256,0z M144,336c-44.2,0-80-35.8-80-80 s35.8-80,80-80s80,35.8,80,80S188.2,336,144,336z M368,336c-44.2,0-80-35.8-80-80s35.8-80,80-80s80,35.8,80,80S412.2,336,368,336z"/></svg>
+          </a>
+        </div>
+        <div class="span4 footer-logos">
+          <h2>University of Iowa Health Care</h2>
+          <ul class="inter-site-nav">
+            <li><a class="track-event" data-event-category="Navigation" data-event-action="Footer" data-event-label="Stead Family Department of Pediatrics" href="https://medicine.uiowa.edu/pediatrics/">Stead Family Department of Pediatrics</a></li>
+            <li><a class="track-event" data-event-category="Navigation" data-event-action="Footer" data-event-label="UI Hospitals and Clinics" href="https://uihc.org">UI Hospitals &amp; Clinics</a></li>
+            <li><a class="track-event" data-event-category="Navigation" data-event-action="Footer" data-event-label="UI Carver College of Medicine" href="https://medicine.uiowa.edu">UI Carver College of Medicine</a></li>
+            <li><a class="track-event" data-event-category="Navigation" data-event-action="Footer" data-event-label="UI Physicians" href="https://medicine.uiowa.edu/uiphysicians/">UI Physicians</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="corporate-region">
+    <div class="container-fluid">
+      <p class="copyright">Copyright &copy; 2019 <a href="http://www.uiowa.edu">The University of Iowa</a>. All Rights Reserved.</p>
+      <ul class="footerLinks">
+        <li><a title="HIPAA Privacy Policy" href="https://uihc.org/node/107836">HIPAA Privacy Policy</a></li>
+        <li><a title="Web Privacy Policy" href="https://uihc.org/node/107861">Web Privacy Policy</a></li>
+        <li class="bugzilla"></li>
+      </ul>
+      <ul class="footerLinks">
+        <li><a href="https://uihc.org/nondiscrimination-notice">Nondiscrimination Statement</a></li>
+        <li><a href="https://uihc.org/spanish-español-nondiscrimination-statement" title="Aviso de No Discriminación">Aviso de No Discriminación</a></li>
+        <li><a href="https://uihc.org/chinese-繁體中文-nondiscrimination-statement" title="無歧視一視同仁聲明">無歧視一視同仁聲明</a></li>
+        <li><a href="https://uihc.org/vietnamese-tiếng-việt-nondiscrimination-statement" title="Tuyên bố không kỳ thị">Tuyên bố không kỳ thị</a></li>
+        <li><a href="https://uihc.org/serbo-croatianbosnian-srpsko-hrvatski-nondiscrimination-statement" title="Izjava bez diskriminacije">Izjava bez diskriminacije</a></li>
+      </ul>
+      <ul class="footerLinks">
+        <li><a href="https://uihc.org/interpreters-available" title="Servicio de Interpretes Gratuito">Servicio de Interpretes Gratuito</a></li>
+        <li><a href="https://uihc.org/interpreters-available" title="免費翻譯服務">免費翻譯服務</a></li>
+        <li><a href="https://uihc.org/interpreters-available" title="Thông dịch viên miễn phí">Thông dịch viên miễn phí</a></li>
+        <li><a href="https://uihc.org/interpreters-available" title="Bezplatna usluga prevodilaca/tumaca">Bezplatna usluga prevodilaca/tumaca</a></li>
+      </ul>
+      <p class="footer-text">University of Iowa Stead Family Children’s Hospital is part of University of Iowa Hospitals & Clinics.</p>
+    </div>
+  </div>
+</footer>
+<script type="text/javascript" src="https://uichildrens.org/sites/default/files/js/js_EebRuRXFlkaf356V0T2K_8cnUVfCKesNTxdvvPSEhCM.js"></script>
+<script type="text/javascript" src="https://uichildrens.org/sites/default/files/js/js_oZD9-WvfiElJ5KPavqu9ZAQiZcfWlzNCzxFHpedR9dI.js"></script>
+<script type="text/javascript" src="https://uichildrens.org/sites/default/files/js/js_KX5clPCsJky_21cLq3099K2-L3rU2gG2_yPi4jUb4QI.js"></script>
+<script type="text/javascript" src="https://uichildrens.org/sites/default/files/js/js_WuhWrDWS9fgjaLuZJ88KDxVDQnWN9PThc8dAEdIJUZc.js"></script>
+<script type="text/javascript" src="https://uichildrens.org/sites/default/files/js/js_A4d0I8fEJfbBtgw0t8UYWx1Gvp3IYLeu6q64dEHh3HM.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"uich","theme_token":"bNWGj0wsYPtQQzHjX24b0DhPgc6Y6wuHHBm0ZF0kVI4","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.menu.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.autocomplete.min.js":1,"sites\/all\/modules\/custom\/emergency_js\/emergency.js":1,"sites\/all\/modules\/custom\/press_esc_to_login\/press_esc_to_login.js":1,"sites\/all\/modules\/contrib\/search_autocomplete\/js\/jquery.autocomplete.js":1,"sites\/all\/themes\/custom\/uich\/js\/bootstrap.min.js":1,"sites\/all\/themes\/custom\/uich\/js\/FitVids.js":1,"sites\/all\/themes\/custom\/uich\/js\/modernizr.js":1,"sites\/all\/themes\/custom\/uich\/js\/uihc-default.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.menu.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"modules\/book\/book.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/search_autocomplete\/css\/themes\/basic-green.css":1,"sites\/all\/themes\/custom\/uich\/css\/site.css":1}},"pressEscToLogin":{"loginPath":"https:\/\/uichildrens.org\/user"},"search_autocomplete":{"form16":{"selector":"#edit-providers","minChars":"3","max_sug":"10","type":"internal","datas":"https:\/\/uichildrens.org\/find-a-doc-autocomplete","fid":"16","theme":"basic-green","auto_submit":"1","auto_redirect":"1"}},"urlIsAjaxTrusted":{"\/search\/node":true}});
+//--><!]]>
+</script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"0d087e85bb","applicationID":"51794208","transactionName":"ZQNSZkZYXkBQAhVYW1xJcVFAUF9dHg8OVVFtFlFVUWZGWlQW","queueTime":0,"applicationTime":207,"atts":"SURREA5CTU4=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

@@ -1,0 +1,39 @@
+ The researchers hope that their findings will lead to new treatments that help to calm the aggressiveness and agitation that individuals with Alzheimer's and other neurodegenerative diseases commonly experience as part of a condition known as "sundowning."  In a study of mice that they  report  in the journal  Nature Neuroscience , they explain, for the first time, how the biological clock links to brain cells, or neurons, that control aggression.  "We examined the biological clock's brain circuitry," notes senior study author Prof. Clifford B. Saper, chair of the Department of Neurology at Beth Israel Deaconess Medical Center in Boston, MA, "and found a connection to a population of neurons known to cause violent attacks when stimulated in male mice."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Sundowning is a condition that is  typically seen  in people with  Alzheimer's disease , when behavior becomes restless, agitated, and aggressive, accompanied by confusion.  Its name is derived from the fact that it usually begins or gets worse in the late afternoon or early evening — as the sun goes down and daylight starts to fade. Unfortunately, this is often the time when caregivers are tired and need to take a break.  We do not yet know exactly what causes sundowning. Suggested possibilities include  depression , excessive  tiredness , pain, or even boredom, hunger, and thirst.  The researchers behind the new study chose to investigate another possibility: that brain changes wrought by neurodegenerative diseases such as Alzheimer's interfere with the biological clock.  They were particularly interested in finding out whether or not the clock "directly regulates aggressive behavior."  Biological clocks are specific groups of proteins that communicate with cells in nearly every organ and most tissue in the body.  They respond to changes in light and dark in the environment and give rise to circadian rhythms — that is physical, behavioral, and mental changes that " follow a daily cycle ."  Most living things, from microbes to plants and animals, have circadian rhythms. For example, being awake during the day and asleep at night is a circadian rhythm that arises from biological clocks responding to changes in light levels in the organism's environment.   Scientists have discovered that the genes that make and control the various components of biological clocks are largely similar in humans, mice, fruit flies, fungi, and many other organisms.   While biological clocks are found nearly everywhere in the body, they are all synchronized by a "master clock" in the brain.  In humans, mice, and other vertebrates, the master clock is located in the suprachiasmatic nucleus, which is a cluster of neurons inside the hypothalamus region of the brain. The cluster contains around 20,000 cells and receives signals directly from the eyes.  For their study, Prof. Saper and his colleagues measured the frequency and intensity of interactions between male mice as "resident mice" defended their territory against "intruder mice" that were introduced into their cages at different times of the day.  They reported, for the first time in a published study, that the attacks on the intruder mice showed a circadian pattern of aggression — that is, their intensity and frequency depended on the time of day.  "The mice," explains Prof. Saper, "were more likely to be aggressive in the early evening around lights out, and least aggressive in the early morning, around lights on."   "It looks like aggressiveness," he continues, "builds up in mice during the lights on period, and reaches a peak around the end of the light period."   In another set of experiments, the researchers manipulated the mice's master biological clock by tweaking genes in the neurons that regulate it.
+
+  They found that when they stopped the master clock neurons from being able to make a specific chemical messenger, or neurotransmitter, the mice lost their circadian pattern of aggression. Aggressiveness remained high all the time, showing no highs and lows.  The researchers then used a tool called optogenetics to map the brain circuits involved. The tool uses laser light to stimulate and deactivate targeted brain cells.  The researchers discovered two parallel circuits that link the biological clock to a brain sub-region called the "ventrolateral part of the ventromedial hypothalamus," which is known to regulate aggression. Stimulating neurons here causes mice to become violent and aggressive.  They conclude that their results reveal a "functional" circuit through which "the suprachiasmatic nucleus [master] clock regulates aggression."   The patterns that they observed in the mice, says Prof. Saper, "mimic the patterns of increased aggression seen in patients during sundowning."   This would suggest that the circuit is damaged in some way in neurodegenerative diseases such as Alzheimer's, he notes.  Further research into how this biological clock circuit changes in people with Alzheimer's disease could be very useful in helping to improve quality of life for patients and caregivers.   " Sundowning is often the reason that patients have to be institutionalized, and if clinicians can control this circuit to minimize aggressiveness at the end of the day, patients may be able to live at home longer."  Prof. Clifford B. Saper  

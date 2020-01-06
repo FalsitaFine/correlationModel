@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>Human Anatomy</title>
+<link rel="icon" href="http://ect.downstate.edu/courseware/haonline/favicon.gif" type="image/gif" />
+<link rel="shortcut icon" href="http://ect.downstate.edu/courseware/haonline/favicon.ico" type="image/x-icon" />
+</head>
+<body ALINK="#004080" LINK="#0000FF" VLINK="#800080" BGCOLOR="#FFFFFF" TOPMARGIN="0">
+<map NAME="navigate">
+  <area ALT="TOC" COORDS="11,2,146,19" HREF="toc.htm" SHAPE="rect" />
+  <area ALT="Dissector" COORDS="166,2,243,19" HREF="index.htm" SHAPE="rect" />
+  <area ALT="Quiz" COORDS="262,2,297,19" HREF="quiz.htm" SHAPE="rect" />
+  <area ALT="Index" COORDS="316,2,359,19" HREF="bkindex.htm" SHAPE="rect" />
+  <area ALT="Help" COORDS="378,2,414,19" HREF="help.htm" SHAPE="rect" />
+</map>
+<map name = "regions">
+  <area SHAPE=POLY COORDS="63,32,58,49,63,62,60,79,73,85,89,77,86,63,92,48,85,30,74,26,63,32,63,32" HREF = "labs/headneck.htm" ALT="Head and Neck" />
+  <area SHAPE=POLY COORDS="43,85,35,99,33,126,28,151,26,168,17,184,23,198,32,199,37,193,38,166,45,131,50,103,43,85,43,85" HREF = "labs/upperex.htm" ALT="Upper Extremity" />
+  <area SHAPE=POLY COORDS="48,164,56,224,51,247,60,288,49,303,61,305,67,300,67,284,68,280,67,256,71,251,69,232,73,180,50,168,48,164,48,164" HREF = "labs/lowerex.htm" ALT="Lower Extremity" />
+  <area SHAPE=POLY COORDS="144,220,118,232,113,254,122,263,128,255,131,286,171,288,179,254,183,264,197,259,189,234,162,222,163,216,144,220,144,220" HREF = "labs/back.htm" ALT="Back and Spinal Cord" />
+  <area SHAPE=POLY COORDS="77,181,83,300,87,305,100,307,92,289,100,246,95,227,100,162,77,181,77,181" HREF = "labs/lowerex.htm" ALT="Lower Extremity" />
+  <area SHAPE=POLY COORDS="101,110,115,171,116,199,125,202,132,199,136,186,127,167,124,143,120,133,116,99,107,86,100,113,101,110,101,110" HREF = "labs/upperex.htm" ALT="Upper Extremity" />
+  <area SHAPE=POLY COORDS="49,163,75,178,102,161,95,145,74,155,57,144,49,163,49,163" HREF = "labs/pelvis.htm" ALT="Pelvis and Perineum" />
+  <area SHAPE=POLY COORDS="52,120,98,120,93,144,73,152,55,142,52,120,52,120" HREF = "labs/abdomen.htm" ALT="Abdomen" />
+  <area SHAPE=POLY COORDS="52,119,49,113,52,101,44,85,59,79,75,86,91,76,105,83,99,108,99,121,52,119,52,119" HREF = "labs/thorax.htm" ALT="Thorax" />
+</map>
+<img BORDER="0" HEIGHT="23" SRC="gifs/navtitle.gif" USEMAP="#navigate" WIDTH="777" /><br />
+<table ALIGN="center" BORDER="0">
+  <tr>
+    <td ALIGN="center"><img HEIGHT="367" SRC="gifs/title1.gif" WIDTH="268" /></td>
+    <td ALIGN="center"><img HEIGHT="255" SRC="gifs/title2.gif" WIDTH="124" /></td>
+    <td ALIGN="center" STYLE="FONT-SIZE:x-small"><img BORDER="0" HEIGHT="309" SRC="gifs/title3.gif" USEMAP="#regions" WIDTH="216" /><br />
+      <a HREF="labs/headneck.htm">Head and Neck</a> | <a HREF="labs/thorax.htm">Thorax</a> | <a HREF="labs/abdomen.htm">Abdomen</a><br />
+      <a HREF="labs/pelvis.htm">Pelvis and Perineum</a> | <a HREF="labs/back.htm">Back</a><br />
+      <a HREF="labs/upperex.htm">Upper Extremity</a> | <a HREF="labs/lowerex.htm">Lower Extremity</a></td>
+  </tr>
+</table>
+</body>
+</html>

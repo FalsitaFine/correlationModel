@@ -1,0 +1,240 @@
+
+
+ 
+ 
+  
+
+ 
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+<link rel="stylesheet" href="/home_assets/css/nlm_main.css">
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,500i,700,900" rel="stylesheet">
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" title="The Dublin Core metadata Element Set" />
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
+ 
+ 
+<script type="text/javascript">location.replace('/hmd/collections/featured-collections.html');</script>  
+ 
+
+ <meta http-equiv="refresh" content="0; url=/hmd/collections/featured-collections.html"/>
+
+ 
+ 
+
+  <title>Collections - Featured Collections</title>
+  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" title="The Dublin Core metadata Element Set" />
+  <meta name="DC.Title" content="Collections - Featured Collections" />
+
+  <meta name="DC.Publisher" content="U.S. National Library of Medicine" />
+  <meta name="DC.Date.Issued" content="2017-09-22" />
+  <meta name="DC.Date.Modified" content="2017-09-22" />
+  <meta name="NLM.Contact.Email" content="hmdweb@nlm.nih.gov" />
+  <meta name="DC.Type" content="Other" />
+  <meta name="NLM.Permanence.Level" content="Permanence Not Guaranteed" />
+  <meta name="DC.Rights" content="Public Domain" />
+  <meta name="DC.Language" content="eng" />
+
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MT6MLL');</script>
+<!-- End Google Tag Manager -->
+</head>
+<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MT6MLL" height="0" width="0" style="display:none;visibility:hidden" title="googletagmanager"></iframe></noscript>
+<!-- End Google Tag Manager -->
+<a class="sr-only sr-only-focusable" href="#skip" title="Skip the navigation on this page">Skip Navigation Bar</a>
+<header class="insertheader">
+ 
+<div class="container-fluid  bg-primary" style="background-color:#5B4C86 !important;">
+    <div class="container top_row">
+      <div class="row">
+        <div class="col"> <img src="/images/HHS_White.png" class="hhslogo float-left img-fluid"  alt="HHS logo"/>
+          <p class="float-left mt-1 mb-0 text-white"><small> U.S. Department of Health & Human Services</small></p>
+           </div>
+      </div>
+    </div>
+  </div>
+  <div class="container-fluid">
+    <div class="container branding">
+      <div class="row container py-3">
+        <div class="col-lg-4 col-md-6 col-sm-6 col-12 pb-md-0 pb-2">
+      <a href="https://www.nlm.nih.gov/"><img src="/images/nlm_logo.png" class="img-fluid" alt="NLM logo"></a>
+        </div>
+        <div class="col-lg-4 offset-lg-4 col-md-6 col-sm-6 col-12 pt-xl-2 pt-lg-1 pt-md-2">
+          <form method="get" action="//vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta" target="_self" name="searchForm" id="searchForm" class="form-inline">
+            <input type="text" name="query" placeholder="Search for" aria-label="Search" class="form-control col-10" id="search" autocomplete="off">
+            <input type="hidden" name="v:project" value="nlm-main-website">
+            <button class="btn btn-search" type="submit"><i class="fas fa-search"></i></button>
+          </form>
+        </div>  
+      </div>  
+    </div>  
+  </div>  
+  <div class="container-fluid bg-secondary">
+    <div class="container pl-0 pl-lg-3">
+      <nav class="navbar navbar-expand-lg navbar-light">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+          <ul class="navbar-nav">
+            <li class="nav-item dropdown px-xl-5 pr-lg-2 pr-md-0"> <a class="nav-link dropdown-toggle" href="#" id="products_services" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Products and Services </a>
+              <div class="dropdown-menu ml-xl-5" aria-labelledby="products_services"> <a class="dropdown-item" href="//www.ncbi.nlm.nih.gov/pubmed/">PubMed/MEDLINE</a> <a class="dropdown-item" href="//meshb.nlm.nih.gov/search ">MeSH</a> <a class="dropdown-item" href="//www.nlm.nih.gov/research/umls/ ">UMLS</a> <a class="dropdown-item" href="//medlineplus.gov/">MedlinePlus</a> <a class="dropdown-item" href="//www.locatorplus.gov">LocatorPlus</a> <a class="dropdown-item" href="//collections.nlm.nih.gov/ ">Digital Collections</a> <a class="dropdown-item" href="//eresources.nlm.nih.gov/nlm_eresources/">All Products and Services</a> </div>
+            </li>
+            <li class="nav-item dropdown px-xl-5 px-lg-2 px-md-0"> <a class="nav-link dropdown-toggle" href="#" id="resources" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Resources for You </a>
+              <div class="dropdown-menu ml-xl-3" aria-labelledby="resources"> <a class="dropdown-item" href="/portals/researchers.html">For Researchers</a> <a class="dropdown-item" href="/portals/publishers.html ">For Publishers</a> <a class="dropdown-item" href="/portals/librarians.html ">For Librarians</a> <a class="dropdown-item" href="/training.html ">For Educators/Trainers </a> <a class="dropdown-item" href="/portals/healthcare.html">For Healthcare Professionals</a> <a class="dropdown-item" href="//www.nlm.nih.gov/portals/public.html ">For the Public</a> </div>
+            </li>
+            <li class="nav-item dropdown px-xl-5 px-lg-2 px-md-0"> <a class="nav-link dropdown-toggle" href="#" id="explore" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Explore NLM </a>
+              <div class="dropdown-menu" aria-labelledby="explore"><a class="dropdown-item" href="/readingroom/index.html ">Using The Library</a> <a class="dropdown-item" href="//www.nlm.nih.gov/about/index.html ">About The Library</a><a class="dropdown-item" href="//www.nlm.nih.gov/hmd/ ">History of Medicine</a>  <a class="dropdown-item" href="/about/org.html ">Programs & Initiatives</a> </div>
+            </li>
+            <li class="nav-item dropdown  pl-xl-5 pl-lg-2 px-md-0"> <a class="nav-link dropdown-toggle" href="#" id="grants_funding" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Grants and Funding </a>
+              <div class="dropdown-menu" aria-labelledby="grants_funding"> <a class="dropdown-item" href="/ep/Grants.html">Grant Programs</a> <a class="dropdown-item" href="/ep/Deadlines.html">Grant Deadlines</a> <a class="dropdown-item" href="/ep/FAQScores.html">Frequently Asked Questions (FAQ)</a> <a class="dropdown-item" href="//www.nlm.nih.gov/ep/GrantTrainInstitute.html">University-based Training Programs</a> <a class="dropdown-item" href="/ep/pathway.html">NIH Pathway to Independence Award</a> </div>
+            </li>
+          </ul>
+        </div> 
+      </nav>
+    </div>  
+  </div> 
+ 
+</header> 
+
+
+
+
+
+ 
+<div class="container-fluid bg-primary">
+      <!--Start Branding Bar-->
+   <div id="container"> 
+</div> <!--End <div class="container"> -->
+</div> <!--End container-fluid bg-primary -->  
+ <!--Start BreadCrumb-->
+<div id="breadcrumb-div" class="container-fluid">
+<div class="container"> 
+      <nav aria-label="breadcrumb">
+      <ol class="breadcrumb  mb-0">
+ <li class="breadcrumb-item"><a href="/">Home</a></li>
+
+ 
+
+
+ 
+
+ 
+ 
+ 
+
+
+
+
+ </ol>
+</nav>
+ </div>
+<!--End BreadCrumb-->
+</div>
+<main>
+ <!--Main Body-->
+ <div id="main-body" class="nlm-blue container">
+  <a name="skip" id="skipnav"></a>
+  <div id="body">
+
+
+
+
+ 
+
+
+
+
+<h1>Collections - Featured Collections</h1><p>Redirecting /hmd/collections/digital/index.html to /htdocs/hmd/collections/featured-collections.html.</p>
+ 
+ 
+</div> <!--body-->
+
+  </div>
+  </main>
+<footer class="bg-primary text-white insertfooter">
+
+  <div class="container-fluid">
+    <div class="container pt-5">
+      <div class="row mt-3">
+        <div class="col-xl-3 col-lg-4 col-md-5 offset-md-2 offset-lg-0 col-10 ">
+        <a href="https://www.nlm.nih.gov/"><img src="/images/nlm_logo_reverse.png" alt="NLM logo" class="img-fluid  pl-0 col-6"></a>
+            <p class="address_footer pt-2">  <a href="https://www.google.com/maps/place/8600+Rockville+Pike,+Bethesda,+MD+20894/@38.9959508,-77.101021,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c95e25765ddb:0x19156f88b27635b8!8m2!3d38.9959508!4d-77.0988323" class="text-white">
+        <img class="marker pr-2 d-none d-md-block" src="/images/map-marker.svg" alt="Map Marker">8600 Rockville Pike <br> Bethesda, MD 20894
+          </a></p>
+          <div class="d-none d-lg-block">
+            <h6 class="text-white mt-3 mb-2">Follow Us</h6>
+            <ul class="list-inline social_media">
+              <li class="list-inline-item"><a href="https://www.facebook.com/nationallibraryofmedicine"><img src="/images/Facebook_W.svg" class="img-fluid" alt="Facebook"></a></li>
+              <li class="list-inline-item"><a href="https://twitter.com/nlm_news"><img src="/images/Twitter_W.svg" class="img-fluid" alt="Twitter"></a></li>
+              <li class="list-inline-item"><a href="https://www.youtube.com/user/NLMNIH"><img src="/images/YouTube_W.svg" class="img-fluid" alt="You Tube"></a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-lx-3 offset-lx-1 col-lg-3 col-md-4 col-12"> <a href="https://www.nlm.nih.gov/sitemap.html">
+          <h6 class="text-white mb-2">Sitemap</h6>
+          </a> <a href="https://www.nlm.nih.gov/plugins.html">
+          <h6 class="text-white mt-3">Players and Viewers</h6>
+          </a> </div>
+        <div class="col-lg-3 col-xl-3 offset-lg-0 col-md-4 offset-md-2 pl-md-3 pl-lg-0 col-12"> <a class="supportLink" href="//support.nlm.nih.gov?from=">
+          <h6 class="text-white mb-2 mt-1">NLM Customer Support</h6>
+          </a> <a href="https://www.nlm.nih.gov/careers/careers.html">
+          <h6 class="text-white mb-2 mt-3">NLM Careers</h6>
+          </a>
+          <h6 class="text-white mb-2 mt-3">Get Email Updates</h6>
+          <form id="GD-snippet-form-footer" action="https://public.govdelivery.com/accounts/USNLMOCPL/subscribers/qualify" accept-charset="UTF-8" method="post">
+            <input name="utf8" type="hidden" value="✓">
+            <input type="hidden" name="authenticity_token" value="D4f+LqD1IFgiKWW+D70WXlbrMxEjLIDI7WCbFI2BJdM75ssfTDi3DVyRf3SFiXav0S1VgTeHx6343v3lTWaZzA==">
+            <input type="hidden" name="topic_id" id="topic_id" value="USNLMOCPL_3">
+            <fieldset>
+              <input type="text" name="email" id="email" class="col-lg-6 col-md-6 col-6" placeholder="Enter email">
+              <input type="submit" name="commit" value="Sign Up" class="form_button btn-search">
+            </fieldset>
+          </form>
+        </div>
+        <div class="col-xl-1 offset-xl-1  col-lg-2 offset-lg-0 col-md-4 offset-md-1 col-12">
+          <h6 class="text-white mb-1 mt-3 mt-md-1"><strong>Policies</strong></h6>
+          <a href="https://www.nlm.nih.gov/accessibility.html">
+          <p class="mt-1 mb-0">Accessibility </p>
+          </a> <a href="https://www.nlm.nih.gov/copyright.html">
+          <p class="mb-0">Copyright </p>
+          </a> <a href="https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office">
+          <p class="mb-0">FOIA</p>
+          </a> <a href="https://www.nlm.nih.gov/privacy.html">
+          <p class="mb-0">Privacy</p>
+          </a> </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="d-md-none">
+            <h6 class="text-white mt-4 mb-2">Follow Us</h6>
+            <ul class="list-inline social_media">
+              <li class="list-inline-item"><a href="https://www.facebook.com/nationallibraryofmedicine"><img src="/images/Facebook_W.svg" class="img-fluid" alt="Facebook"></a></li>
+              <li class="list-inline-item"><a href="https://twitter.com/nlm_news"><img src="/images/Twitter_W.svg" class="img-fluid" alt="Twitter"></a></li>
+              <li class="list-inline-item"><a href="https://www.youtube.com/user/NLMNIH"><img src="/images/YouTube_W.svg" class="img-fluid" alt="You Tube"></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-12">
+          <p class="mt-2 text-center"> <a class="text-white" href="https://www.nlm.nih.gov/">NLM</a> | <a class="text-white" href="https://www.nih.gov/">NIH</a> | <a class="text-white" href="https://www.hhs.gov/">HHS</a> | <a class="text-white" href="https://www.usa.gov/">USA.gov</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</footer>
+<script src="//assets.nlm.nih.gov/jquery/jquery-latest.min.js"></script>
+<script src="//assets.nlm.nih.gov/jquery/jquery-migrate-latest.min.js"></script>
+<script src="/home_assets/vendor/bootstrap/dist/js/bootstrap.bundle.js"></script>
+<script type="text/javascript" src="/hmd/about/exhibition/scripts/master.js"></script>
+<script src="/scripts/nlm.js"></script>
+</body>
+</html>
+

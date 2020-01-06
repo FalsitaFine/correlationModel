@@ -1,0 +1,646 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+
+
+
+
+
+
+	<title>EurasiaHealth - Resources for Health Professionals and Patients</title>
+	<link rel="shortcut icon" href="../../../../img/favicon.ico" type="image/x-icon" />  
+    <link rel="icon" type="image/png" href="../../../../img/favicon.png" />
+	<meta http-equiv="Content-Type" content="text/html; charset=Windows-1251" />
+	<meta http-equiv="Content-Language" content="en-us" />				
+	<link href="../../../../css/default_prel.css" rel="stylesheet" type="text/css" media="all" title="Normal Text" />
+	<link href="/css/txt_Sm_prel.css" rel="alternate stylesheet" type="text/css" media="screen" title="Small Text" />
+	<link href="/css/txt_Lg_prel.css" rel="alternate stylesheet" type="text/css" media="screen" title="Large Text" />
+	<link href="/css/txt_Lg2_prel.css" rel="alternate stylesheet" type="text/css" media="screen" title="Larger Text" />
+    <link href="../../../../css/default_calendar.css" rel="stylesheet" type="text/css" media="all"/>
+    <link href="../../../../css/forum.css" rel="stylesheet" type="text/css" media="all"/>
+
+	<!--[if !IE 7.0]>
+
+	<script type="text/javascript">
+	//IE Must Die!!!
+	//<![CDATA[ 
+  //Vertical correct randaring for IE 
+  if (window.attachEvent) { 
+       var forEventsIE = window.attachEvent; 
+           forEventsIE( 'onload', function (){setInterval(setHeight, 100);});
+
+       function setHeight() { 
+       var objLeft = document.getElementById('left'); 
+       var objContent = document.getElementById('content'); 
+       objContent.style.height = (objLeft.clientHeight) + "px"; 
+
+       } 
+  } 
+
+	
+	</script>
+	
+	<![endif]-->
+
+
+
+	<script type="text/javascript" src="../../../../js/calendar.js"></script>
+    <script type="text/javascript" src="../../../../js/calendar-setup.js"></script>
+        <script type="text/javascript" src="../../../../js/minmax.js"></script>
+	
+	<script type="text/javascript" src="../../../../js/calendar-en.js">//"</script>
+	<script type="text/javascript" src="../../../../js/style_sw.js"></script>
+
+	<script src="../../../../js/listmenu4pUI.js" type=text/javascript></script>
+	<link href="../../../../css/publicUI.css" type=text/css rel=stylesheet />
+   
+<meta name="resource-type" content="document" />
+<meta name="generator" content="AnyBrowser.com MetaMaker" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta name="revisit-after" content="15 days" />
+<meta name="classification" content="Advertising and Marketing" />
+<meta name="description" content="«Здоровье Евразии» - информационная сеть для стран Центральной и Восточной Европы и Новых Независимых Государств, которая распространяет бесплатные ресурсы созданные, предоставленные и переведенные медицинскими специалистами со всего мира. EurasiaHealth is a clearinghouse of freely available resources contributed, created and translated by a worldwide community of health professionals focusing on Central & Eastern Europe and the New Independent States." />
+<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+<meta name="keywords" content="health,здоровье,AIDS,СПИД,antibiotic,антибиотик,asthma,астма,bacteria,бактерия,Bartlett,Бартлетт,blood,кровь,breastfeeding,грудное вскармливание,bronchial,бронхиальная,cancer,рак,Caucasus ,Кавказ,CEE,ЦВЕ,Central Asia,Средняя Азия,Central Europe ,Центральная Европа,chest,грудь,database,база данных,disease,болезнь,Eastern Europe ,Восточная Европа,Eurasia ,Евразия,EurasiaHealth,Здоровье Евразии,evidence-based medicine,доказательная медицина,evidence-based practice,научно обоснованная медицина,Former Soviet Union,бывший Советский союз,funding,финансирование,grants,гранты,guidelines,руководства,health care,здравоохранение,healthcare, HIV,ВИЧ,hospital,больница,information resources,информационные ресурсы,knowledge,знания,library,библиотека,medical,медицинский,medicine,медицина,New Independent States,новые независимые государства,NIS ,СНГ,nosocomial,внутрибольничная,nursing,медсестринское дело,pain,боль,pregnancy,беременность,prevention,предотвращение,russian,русский,transmission,передача,treatment,лечение,tuberculosis,туберкулёз,ulcer,язва желудка,Antiretroviral Therapy,антиретровирусная терапия" />
+<meta name="robots" content="ALL" />
+<meta name="distribution" content="Global" />
+<meta name="rating" content="Safe For Kids" />
+<meta name="copyright" content="" />
+<meta name="author" content="" />
+<meta http-equiv="reply-to" content="" />
+<meta name="language" content="" />
+<meta name="doc-type" content="Public" />
+<meta name="doc-class" content="Completed" />
+<meta name="doc-rights" content="Copywritten Work" />
+</head> 
+
+<body onload="setStyle();">
+
+
+
+
+<div id="top">
+		<a href="../../../../eng/" title="EurasiaHealth Main"><img id="logo" src="../../../../img/logo.gif" style="border:none" alt="EurasiaHealth Main" title="EurasiaHealth Main" /> </a>
+		<div id="top_box">
+			<div id="top_nav">
+				<div class="inner">
+				<a href="../../../../eng/login/">Login</a>
+				|
+				<a href="../../../../eng/user/">Register</a>
+				|
+				<a href="../../../../eng/about/whyreg/">Why register?</a>
+				<span>
+				<script type="text/javascript">
+				function switchLang(cur, lang)
+				{
+				    var l = window.location.href;
+				    l = l.replace('/'+cur+'/', '/'+lang+'/');
+				    if (l.indexOf('/forum/') >= 0)
+				    {
+				        var src = window.phurl;//document.getElementById('forum_iframe').src;
+				        if (src)
+				        {
+				            l = l.substr(0,l.indexOf('/forum/')+7);
+				            l += src.substr(src.indexOf('/phpbb/')+7);
+				        }
+				    }
+				    window.location.href = l;
+				    return false;
+				}
+				</script>
+				<b>En</b> | 				<a href="../../../../rus/health/resources/85908/">Ru</a>
+				
+				</span>
+
+				</div>
+			</div>
+			<div id="rightLnks">
+
+				<a href="../../../../eng/health/resources/85908/_print_1/"  target='blank'><img src="../../../../img/printFriendly.gif" alt="Print-friendly View" /> Print-friendly View</a> |
+				Text size: 
+				 <a id="txt_small" onclick="setActiveStyleSheet('Small Text', 1);return false;" href="#" title="Small Text">A</a>
+				 <a id="txt_norm" onclick="setActiveStyleSheet('Normal Text', 1);return false;" title="Normal Text" href="#">A</a>
+				 <a id="txt_large" onclick="setActiveStyleSheet('Large Text', 1);return false;" href="#"  title="Large Text">A</a>
+				 <a id="txt_larger" onclick="setActiveStyleSheet('Larger Text', 1);return false;" href="#"  title="Larger Text">A</a>
+			</div> 
+			<div id="top_bot_nav">
+				<div class="inner">					
+					 <form method="get" action='../../../../eng/search/' id="top_form">
+					 <select id=category name=category>
+					<option value="">-- Entire site --
+					<option value="520">Resources for Health Professionals and Patients<option value="521">Health and Medical Information Resource Web Sites<option value="546">Country-specific Health Information, Reports, and Policies<option value="547">Community / Patient Resources<option value="548">Glossary<option value="549">Current Research<option value="563">International Projects<option value="573">Grant Opportunities<option value="580">EurasiaHealth Community<option value="603">Health Organizations in Eurasia<option value="609">Conferences and Events</select><!--					<select>
+						<option>Any</option>
+					</select><br />-->
+					<input name=keywords type="text"  />
+
+					
+					<input id="search" value="Search" type="submit" />
+				</form>
+				</div>
+			</div>
+			<div id="logo_header" title=""><h1>EurasiaHealth Knowledge Network</h1></div>
+
+			<div id="aboutLnks">
+				<a href="../../../../eng/about/site/">About EurasiaHealth</a>
+				|
+				<a href="../../../../eng/about/projectcontacts/">Contact Us</a>
+			</div>
+
+		</div>
+	</div>
+	
+	
+	
+<div id="middle">
+		 <div id="left">
+			 <div id="left_pan1">
+				 <div class="inner">
+<ul class="f_level">
+<li>
+<span style="color: white"><b>Health Information<br /></b></span>
+<ul class='s_level'>
+<li><a href='../../../../eng/health/resources/' class="active">Resources for Health Professionals and Patients<br /></a></li>
+<li><a href='../../../../eng/health/sites/'>Health and Medical Information Resource Web Sites<br /></a></li>
+<li><a href='../../../../eng/health/spec/'>Country-specific Health Information, Reports, and Policies<br /></a></li>
+<li><a href='../../../../eng/health/patients/'>Community / Patient Resources<br /></a></li>
+<li><a href='../../../../eng/health/glossary/'>Glossary<br /></a></li>
+<li><a href='../../../../eng/health/research/'>Current Research<br /></a></li>
+</ul></li><li>
+<span style="color: white"><b>Organizations, Projects and People<br /></b></span>
+<ul class='s_level'>
+<li><a href='../../../../eng/org/eurasia/'>Health Organizations in Eurasia<br /></a></li>
+<li><a href='../../../../eng/org/projects/'>International Projects<br /></a></li>
+<li><a href='../../../../eng/org/contacts/'>EurasiaHealth Community<br /></a></li>
+</ul></li><li>
+<span style="color: white"><b>Other Resources<br /></b></span>
+<ul class='s_level'>
+<li><a href='../../../../eng/misc/grantsfunding/'>Grant Opportunities<br /></a></li>
+<li><a href='../../../../eng/misc/conferences/'>Conferences and Events<br /></a></li>
+<li><a href='../../../../eng/misc/publications/'>EurasiaHealth Publications<br /></a></li>
+<li><a href='../../../../eng/misc/mailinglist/'>Mailing Lists and Notifications<br /></a></li>
+<li>
+<a href='../../../../eng/forum/'>Discussion Forums<br /></a>
+</li></ul>
+</ul>
+</div>
+<p style="margin-bottom: -40px;" />
+</div><P>&nbsp;</P>
+<P><A href="../../../../aids/"><IMG style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px" alt="EurasiaHealth AIDS Knowledge Network. Up-to date Russian-language information on the treatment and prevention of HIV/AIDS" src="../../../../img/forall/a/inner/eakn_banner2.gif" align=left border=0></A><BR>
+<SCRIPT> if (window.location.href.indexOf('/tb')==-1) document.write('<a href="/eng/tb"><IMG src=http://www.eurasiahealth.org/img/tb_baner.gif border=0 style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 10px 0 0 0; PADDING-TOP: 0px" alt="EurasiaHealth TB Knowledge Network. The latest news and information on the treatment and prevention of Tuberculosis"></a>'); </SCRIPT>
+</P>			 
+		 </div>
+		 
+		 
+		 <div id="center" class="center_2col">	
+		 		 
+			 <div class="inner">
+				 <div id="content" class=eng>
+<h1>Resources for Health Professionals and Patients</h1>
+<table class="searchRes" cellpadding="0" cellspacing="0" valign=top>
+<tr><td colspan='2'><b>Textbook of Pediatric HIV Care</b></td></tr><tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/Zeichner_Cover.pdf" onClick="javascript:urchinTracker ('/attaches/85908/Zeichner_Cover.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 172 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/Zeichner_Cover.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/Zeichner_Cover.pdf'); "><b>Cover</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/Introductio_Eng_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/Introductio_Eng_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 242.3 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/Introductio_Eng_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/Introductio_Eng_Pediatric_HIV_Care_Rus.pdf'); "><b>Introduction to English version</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/ai-Zeichner-TOC.pdf" onClick="javascript:urchinTracker ('/attaches/85908/ai-Zeichner-TOC.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 136.6 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/ai-Zeichner-TOC.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/ai-Zeichner-TOC.pdf'); "><b>Table of Contents</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/1_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/1_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 788.1 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/1_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/1_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 1. Normal development and physiology of the immune system</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/2_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/2_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 1271.9 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/2_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/2_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 2. HIV basic virology for clinicians</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/3_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/3_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 847.7 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/3_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/3_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 3. The immunology of pediatric HIV disease</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/4_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/4_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 698.7 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/4_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/4_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 4.The clinical virology of pediatric HIV disease</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/5_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/5_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 750.2 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/5_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/5_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 5.The natural history of pediatric HIV disease</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/6_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/6_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 780.7 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/6_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/6_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 6.The epidemiology of pediatric HIV disease</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/7_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/7_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 612.9 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/7_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/7_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 7.Diagnosis of HIV-1 infection in children</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/8_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/8_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 954.4 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/8_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/8_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 8.Prevention of mother-to-child transmission of HIV</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/9_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/9_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 658.1 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/9_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/9_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 9.Routine pediatric care</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/10_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/10_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 463.1 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/10_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/10_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 10. Immunizations</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/11_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/11_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 719.1 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/11_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/11_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 11.Prevention of opportunistic infections and other infectious complications of HIV in children</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/12_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/12_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 678 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/12_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/12_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 12.Emergency evaluation and care</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/13_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/13_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 463 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/13_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/13_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 13. Adherence to antiretroviral therapy in children and youth</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/14_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/14_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 417.8 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/14_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/14_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 14.  Adolescents and HIV</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/15_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/15_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 899.3 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/15_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/15_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 15.Adolescent reproductive health and HIV</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/16_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/16_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 843.9 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/16_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/16_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 16.Growth, nutrition, and metabolism</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/17_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/17_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 646.4 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/17_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/17_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 17. Neurobehavioral function and assessment of children and adolescents with HIV-1 infection</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/18_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/18_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 678.5 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/18_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/18_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 18.Antiretroviral therapy</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/19_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/19_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 728.3 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/19_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/19_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 19.Antiretroviral drug interactions</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/20_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/20_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 505 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/20_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/20_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 20. Metabolic complications of antiretroviral therapy in children</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/21_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/21_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 1169.4 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/21_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/21_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 21.HIV drug resistance</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/22_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/22_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 849.6 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/22_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/22_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 22.Initiating and changing antiretroviral therapy</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/23_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/23_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 404.2 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/23_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/23_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 23. Therapeutic drug monitoring</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/24_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/24_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 781.7 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/24_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/24_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 24. HIV postexposure prophylaxis for pediatric patients</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/25_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/25_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 2927 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/25_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/25_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 25. Cutaneous diseases</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/26_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/26_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 578.4 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/26_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/26_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 26. Neurologic problems</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/27_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/27_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 1710.2 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/27_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/27_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 27. Ophthalmic problems</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/28_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/28_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 691.9 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/28_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/28_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 28. Oral health and dental problems</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/29_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/29_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 416.8 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/29_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/29_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 29. Otitis media and sinusitis</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/30_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/30_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 461.8 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/30_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/30_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 30. Cardiac problems</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/31_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/31_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 2942.3 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/31_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/31_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 31. Pulmonary problems</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/32_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/32_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 423 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/32_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/32_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 32. Hematologic problems</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/33_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/33_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 627.4 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/33_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/33_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 33. Gastrointestinal disorders</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/34_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/34_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 424.6 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/34_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/34_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 34. Renal disease</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/35_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/35_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 352.3 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/35_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/35_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 35. Endocrine disorders</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/36_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/36_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 530.6 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/36_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/36_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 36. Neoplastic disease in pediatric HIV infection</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/37_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/37_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 748.1 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/37_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/37_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 37. Serious infections caused by typical bacteria</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/38_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/38_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 539.6 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/38_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/38_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 38. Tuberculosis</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/39_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/39_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 540.5 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/39_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/39_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 39. DisseminatedMycobacterium avium complex infection</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/40_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/40_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 1302.9 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/40_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/40_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 40. Fungal infections</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/41_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/41_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 524.3 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/41_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/41_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 41. Herpesvirus infections</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/42_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/42_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 1480.2 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/42_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/42_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 42. Pneumocystis carinii pneumonia (PCP)</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/43_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/43_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 375.3 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/43_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/43_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 43. Clinical trials for HIV-infected children</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/44_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/44_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 452.1 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/44_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/44_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 44. Medical issues related to the care for HIV-infected children in the home, day care, school, and community</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/45_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/45_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 417.8 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/45_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/45_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 45. Contact with social service agencies</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/46_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/46_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 586.7 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/46_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/46_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 46. Disclosure</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/47_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/47_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 454 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/47_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/47_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 47. Psychosocial factors associated with childhood bereavement and grief</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/48_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/48_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 353.9 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/48_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/48_Pediatric_HIV_Care_Rus.pdf'); "><b>Chapter 48. Legal issues for HIV-infected children</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/Appendix1_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/Appendix1_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 322.3 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/Appendix1_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/Appendix1_Pediatric_HIV_Care_Rus.pdf'); "><b>Appendix 1. Formulary: antiretroviral agents</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/Appendix2_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/Appendix2_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 324.1 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/Appendix2_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/Appendix2_Pediatric_HIV_Care_Rus.pdf'); "><b>Appendix 2. Formulary: drugs for opportunistic infections associated with HIV</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/Appendix3_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/Appendix3_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 264.7 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/Appendix3_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/Appendix3_Pediatric_HIV_Care_Rus.pdf'); "><b>Appendix 3. NIH-sponsored clinical trials for pediatric HIV disease</b></a>&nbsp; 
+</td></tr>
+
+<tr><td class="label"><div>Attached file:&nbsp;</div></td><td>
+			<a target='_blank' title="pdf" href="http://www.eurasiahealth.org/attaches/85908/Appendix4_Pediatric_HIV_Care_Rus.pdf" onClick="javascript:urchinTracker ('/attaches/85908/Appendix4_Pediatric_HIV_Care_Rus.pdf'); "><img class="icon" alt="pdf file" src="../../../../img/pdf.gif" /></a> 
+(Russian, 244.1 kb)
+
+<a href="http://www.eurasiahealth.org/attaches/85908/Appendix4_Pediatric_HIV_Care_Rus.pdf" target='_blank' onClick="javascript:urchinTracker ('/attaches/85908/Appendix4_Pediatric_HIV_Care_Rus.pdf'); "><b>Appendix 4. Selected HIV-related internet resources</b></a>&nbsp; 
+</td></tr>
+
+ <tr><td class="label"><div>Link to document(s)</div></td><td> <a href="http://www.cambridge.org/uk/catalogue/catalogue.asp?isbn=9780521821537&amp;ss=toc" target='_blank'>http://www.cambridge.org/uk...</a></td></tr>
+<tr>
+<td class="label"><div>Author(s):&nbsp;</div></td><td>
+S. Zeichner and J. Read</td></tr>
+<tr>
+<td class="label"><div>Document type:&nbsp;</div></td><td>
+Monographs, Reports, and Book Chapters</td></tr>
+<tr>
+<td class="label"><div>Language:&nbsp;</div></td><td>
+Russian</td></tr>
+<tr>
+<td class="label"><div>Original language of document:&nbsp;</div></td><td>
+English</td></tr>
+<tr>
+<td class="label"><div>Primary area(s) of focus:&nbsp;</div></td><td>
+HIV/AIDS</td></tr>
+<tr>
+<td class="label"><div>Secondary areas of focus:&nbsp;</div></td><td>
+Adolescents/youth, Prevention and Treatment of Opportunistic Infections and Other Complications, Opportunistic infections (OIs)</td></tr>
+<tr><td class="label"><div>Submited by:</div></td><td> <a href="../../../../eng/health/resources/_user_5407/">
+Victor Stanilevskiy</a></td></tr><tr>
+<td class="label"><div>Notes/Comments:&nbsp;</div></td><td>
+The chapters will appear on the site as they are translated.</td></tr>
+<tr><td class="label"><div>Date of entry:</div></td><td>June 24, 2006</td></tr><tr>
+<td class="label"><div>Pages:&nbsp;</div></td><td>
+784</td></tr>
+<tr><td colspan=2>This comprehensive textbook provides the definitive account of effective care for pediatric HIV patients.</td></tr><tr><td class="label"><div>Overall user rating:</div></td><td>Not yet reviewed</td></tr><tr><td colspan=2><i></i></td></tr></table>
+
+
+<div class="imgLink_container" style="margin-right: 5px">
+  <span class="imgLink"><a href="../../../../eng/addcomment_article_85908/">Add comment</a><span class="LCorn"></span></span>
+</div>
+
+</div>
+			</div>
+		 </div>
+	</div>
+	
+	<div id="bottom">
+	
+			<div id="bottom_nav">
+					<a href="../../../../eng/">Home</a>
+					|
+					<a href="../../../../eng/about/site/">About EurasiaHealth</a>
+					|
+					<a href="../../../../eng/about/projectcontacts/">Contact Us</a>
+			</div>
+<DIV id=footer><A style="COLOR: #ffffff" href="../../../../eng/site/98779/">© 2001-2006</A> EurasiaHealth Knowledge Network and American International Health Alliance <BR>Please contact EurasiaHealth Webmaster with any comments, suggestions, problems, <BR>or requests to mirror or reprint materials found on this site. Our policy on external links <BR>to this site is found <A style="COLOR: #ffffff" href="../../../../eng/about/links_policy/">here</A>.<BR><BR>This project is supported by USAID. </DIV><BR>
+<DIV class=w_text align=center><A href="http://www.aiha.com/"><IMG alt="AIHA - A project of the American International Health Alliance" src="../../../../img/banner_1.jpg" border=0></A>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A href="http://www.usaid.gov/"><IMG alt="USAID - from the American people" src="../../../../img/forall/a/inner/usaid.gif" border=0></A></DIV>		<div id="copyright">
+<a href="http://www.running-code.com/">Designed and Developed in Ukraine by Running Code</a><br />
+		</div>
+	</div>
+<script src="../../../../js/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-308894-9"; 
+urchinTracker();
+</script>	
+</body>
+</html>

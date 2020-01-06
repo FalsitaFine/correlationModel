@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<!-- saved from url=(0032)http://www.pathologie-online.de/ -->
+<html class=" js no-flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths" lang="de-DE"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width">
+		<title>Pathologie-Online » Ein online-Script der Pathologie</title>
+		<link rel="profile" href="http://gmpg.org/xfn/11">
+		<link rel="pingback" href="http://www.pathologie-online.de/xmlrpc.php">
+		<style type="text/css"> #wrapper { max-width: 1024px !important;} </style>
+		<meta name="robots" content="noindex,follow">
+<link rel="dns-prefetch" href="http://s.w.org/">
+<link rel="alternate" type="application/rss+xml" title="Pathologie-Online » Feed" href="http://www.pathologie-online.de/feed/">
+<link rel="alternate" type="application/rss+xml" title="Pathologie-Online » Kommentar-Feed" href="http://www.pathologie-online.de/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.pathologie-online.de\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="./Pathologie-Online » Ein online-Script der Pathologie_files/wp-emoji-release.min.js" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="style.css-css" href="./Pathologie-Online » Ein online-Script der Pathologie_files/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="thickbox-css" href="./Pathologie-Online » Ein online-Script der Pathologie_files/thickbox.min.css" type="text/css" media="all">
+<script type="text/javascript" src="./Pathologie-Online » Ein online-Script der Pathologie_files/modernizr-2.5.2.min.js"></script>
+<script type="text/javascript" src="./Pathologie-Online » Ein online-Script der Pathologie_files/respond.js"></script>
+<script type="text/javascript" src="./Pathologie-Online » Ein online-Script der Pathologie_files/jquery.js"></script>
+<script type="text/javascript" src="./Pathologie-Online » Ein online-Script der Pathologie_files/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="./Pathologie-Online » Ein online-Script der Pathologie_files/brunelleschi-scripts.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var thickboxL10n = {"next":"N\u00e4chste >","prev":"< Vorherige","image":"Bild","of":"von","close":"Schlie\u00dfen","noiframes":"Diese Funktion ben\u00f6tigt iframes. Du hast jedoch iframes deaktiviert oder dein Browser unterst\u00fctzt diese nicht.","loadingAnimation":"http:\/\/www.pathologie-online.de\/wordpress\/wp-content\/plugins\/auto-thickbox-plus\/images\/loadingAnimation.gif","closeImage":"http:\/\/www.pathologie-online.de\/wordpress\/wp-content\/plugins\/auto-thickbox-plus\/images\/tb-close.png"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./Pathologie-Online » Ein online-Script der Pathologie_files/thickbox.min.js"></script>
+<link rel="https://api.w.org/" href="http://www.pathologie-online.de/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.pathologie-online.de/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.pathologie-online.de/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.9.8">
+<link rel="canonical" href="http://www.pathologie-online.de/">
+<link rel="shortlink" href="http://www.pathologie-online.de/">
+<link rel="alternate" type="application/json+oembed" href="http://www.pathologie-online.de/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.pathologie-online.de%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://www.pathologie-online.de/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.pathologie-online.de%2F&amp;format=xml">
+	<style type="text/css">
+			.site-title,
+		.site-description {
+			position: absolute !important;
+			clip: rect(1px 1px 1px 1px); /* IE7 */
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #3076a4; }
+</style>
+<!-- Auto ThickBox Plus by attosoft (http://attosoft.info/en/) -->
+<script type="text/javascript">
+/* <![CDATA[ */
+jQuery(function($) {
+
+	// Set a different gallery-id for each WordPress Gallery
+	$('div.gallery').each(function() {
+		if (this.id)
+			$(this).find('a.thickbox').attr('rel', this.id);
+	});
+});
+
+// Options for ThickBox Plus
+tb_options.effect_open = 'zoom';
+tb_options.move_img = true;
+tb_options.move_html = true;
+/* ]]> */
+</script>
+<style type="text/css">
+#TB_ImageClick a#TB_ImagePrev:hover { background-image: url(http://www.pathologie-online.de/wordpress/wp-content/plugins/auto-thickbox-plus/images/tb-prev.png); }
+#TB_ImageClick a#TB_ImageNext:hover { background-image: url(http://www.pathologie-online.de/wordpress/wp-content/plugins/auto-thickbox-plus/images/tb-next.png); }
+#TB_ImageClick a#TB_ImageFirst:hover { background-image: url(http://www.pathologie-online.de/wordpress/wp-content/plugins/auto-thickbox-plus/images/tb-first.png); }
+#TB_ImageClick a#TB_ImageLast:hover { background-image: url(http://www.pathologie-online.de/wordpress/wp-content/plugins/auto-thickbox-plus/images/tb-last.png); }
+#TB_ImageClick a#TB_ImageClose:hover, #TB_ImageClick a#TB_ImageClose2:hover { background-image: url(http://www.pathologie-online.de/wordpress/wp-content/plugins/auto-thickbox-plus/images/tb-close.png); }
+#TB_load { padding:15px; margin: 0; }
+#TB_load img { vertical-align:middle; }
+</style>
+<link rel="icon" href="http://www.pathologie-online.de/wp-content/uploads/2017/07/148376be-da8d-485d-862e-681612e3574e-150x150.jpg" sizes="32x32">
+<link rel="icon" href="http://www.pathologie-online.de/wp-content/uploads/2017/07/148376be-da8d-485d-862e-681612e3574e-300x300.jpg" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="http://www.pathologie-online.de/wp-content/uploads/2017/07/148376be-da8d-485d-862e-681612e3574e-300x300.jpg">
+<meta name="msapplication-TileImage" content="http://www.pathologie-online.de/wp-content/uploads/2017/07/148376be-da8d-485d-862e-681612e3574e-300x300.jpg">
+		<style type="text/css" id="wp-custom-css">
+			/*
+Welcome to Custom CSS!
+
+CSS (Cascading Style Sheets) is a kind of code that tells the browser how
+to render a web page. You may delete these comments and get started with
+your customizations.
+
+By default, your stylesheet will be loaded after the theme stylesheets,
+which means that your rules can take precedence and override the theme CSS
+rules. Just write here what you want to change, you don't need to copy all
+your theme's stylesheet content.
+*/
+.grunion-field-label {
+	display: block;
+}
+
+.contact-form input {
+	width: 300px;
+	margin: 3px 0 13px;
+}
+
+.contact-form textarea {
+	width: 513px;
+	height: 214px;
+	margin: 3px 0 13px;
+}
+
+.contact-form .pushbutton-wide {
+	width: 100px;
+}		</style>
+			<style></style>
+	</head>
+	<body class="home page-template-default page page-id-5333 custom-background">
+	<div id="wrapper" class="hfeed container">
+		<header id="header" class="row clearfix">
+							<hgroup id="branding" class="twelvecol last">
+					<h1 class="site-title"><a href="http://www.pathologie-online.de/" title="Pathologie-Online" rel="home">Pathologie-Online</a></h1>
+					<h2 class="site-description">Ein online-Script der Pathologie</h2>
+				</hgroup>
+																					<a href="http://www.pathologie-online.de/" class="twelvecol lastlast" title="Pathologie-Online" rel="home">
+						<img src="./Pathologie-Online » Ein online-Script der Pathologie_files/PathoOnline-1024x177.jpg" alt="" id="headerimg">
+					</a>
+					
+											</header><!-- #header -->
+		<div id="container" class="row clearfix">		
+		<div id="main" role="main" class="twelvecol last ">
+<div class="breadcrumbs">
+    </div>
+			
+				<article id="post-5333" class="post-5333 page type-page status-publish hentry">
+					<header>
+											<h2 class="entry-title">Pathologie-Online: 1997 – 2018</h2>
+										</header>
+
+					<div class="entry-content">
+						<h1>Nach 21 Jahren geht&nbsp;Pathologie-Online offline.</h1>
+<figure id="attachment_5348" aria-labelledby="figcaption_attachment_5348" class="wp-caption alignright" style="width: 160px"><a href="http://www.pathologie-online.de/wp-content/uploads/2018/05/PathoOnline1998.jpg" class="thickbox no_icon" rel="gallery-5333" title=""><img class="size-thumbnail wp-image-5348" src="./Pathologie-Online » Ein online-Script der Pathologie_files/PathoOnline1998-150x150.jpg" alt="" width="150" height="150"></a><figcaption id="figcaption_attachment_5348" class="wp-caption-text">Pathologie-Online 1998</figcaption></figure>
+<p>Vor&nbsp;über 21 Jahren entstand das Konzept für ein Online-Script der Pathologie, das dann ab 1997 realisiert wurde. Im Verlaufe der Jahre wurde das Angebot immer erweitert und die Seiten wurden technisch den aktuellen Entwicklungen angepasst.</p>
+<p>Bereits seit mehreren Jahren haben sich die beruflichen Schwerpunkte der Autoren verändert, so dass keine Zeit mehr blieb, Pathologie-Online auch inhaltlich dem aktuellen Wissenstand anzupassen.</p>
+<p>Aus Anlass der verpflichtenden Einführung der DSGVO geht Pathologie-Online am 25. Mai 2018 offline.</p>
+<p>&nbsp;</p>
+<figure id="attachment_5335" aria-labelledby="figcaption_attachment_5335" class="wp-caption alignleft" style="width: 160px"><a href="http://www.pathologie-online.de/wp-content/uploads/2018/05/PathoOnline2001.png" class="thickbox no_icon" rel="gallery-5333" title=""><img class="wp-image-5335 size-thumbnail" src="./Pathologie-Online » Ein online-Script der Pathologie_files/PathoOnline2001-150x150.png" alt="" width="150" height="150"></a><figcaption id="figcaption_attachment_5335" class="wp-caption-text">Pathologie-Online 2000</figcaption></figure>
+<p>1997 war das Konzept, ein „online-Skript“ für das Medizinstudium anzubieten noch neu. Pathologie-Online gehörte zu den ersten Angeboten dieser Art. Die Hürden, das Angebot aufzubauen waren im Vorfeld hoch gewesen: Vonseiten der Universität Hamburg gab es keine Unterstützung. Der Fachschaftsrat Medizin Hamburg lehnte eine Zusammenarbeit mit der Begründung ab, dass das Internet elitär sei und man so etwas nicht unterstützen möchte. Am Ende wurde Pathologie-Online zu einem Privatprojekt der Autoren (H. Herbst und J.-H. Hübner).</p>
+<p>&nbsp;</p>
+<figure id="attachment_5341" aria-labelledby="figcaption_attachment_5341" class="wp-caption alignright" style="width: 160px"><a href="http://www.pathologie-online.de/wp-content/uploads/2018/05/PathoOnline2018.jpg" class="thickbox no_icon" rel="gallery-5333" title=""><img class="wp-image-5341 size-thumbnail" src="./Pathologie-Online » Ein online-Script der Pathologie_files/PathoOnline2018-150x150.jpg" alt="" width="150" height="150"></a><figcaption id="figcaption_attachment_5341" class="wp-caption-text">Pathologie-Online 2018</figcaption></figure>
+<p>Die Erfahrungen, die im Laufe der ersten Jahre gesammelt wurden, wurden dann zu einer <a href="https://miami.uni-muenster.de/Record/64f79133-f3aa-49fd-b14b-627f7bd55c9e" target="_blank" rel="noopener">Dissertation</a> verarbeitet. In über 20 Jahren wurden die Seiten insgesamt ca. 7,5 Millionen Mal aufgerufen. Darauf sind wir stolz und bilden uns ein, dass wir zumindest für ein paar Generationen von Medizinstudierenden eine Hilfe waren.</p>
+<p>Es gibt inzwischen auch ein sehr ähnliches, aber aktuelles Angebot: Die Universität Heidelberg bietet mit „<a href="https://eliph.klinikum.uni-heidelberg.de/" target="_blank" rel="noopener">PathoLearning</a>“ eine moderne Variante mit dem gleichen Konzept an.</p>
+<p>Vielen Dank!</p>
+<p>Die Autoren im Mai 2018</p>
+<p>Prof. Dr. med. <a href="mailto:hermann.herbst@vivantes.de">Hermann Herbst</a> – Berlin<br>
+Dr. med. <a href="mailto:webmaster@pathologie-online.de">Jost-Hendrik Hübner</a> – Hamburg</p>
+																	</div><!-- .entry-content -->
+				</article><!-- #post-## -->
+
+							<div id="comments">
+
+	<p class="nocomments">Kommentare sind geschlossen.</p>
+	
+
+
+
+</div><!-- #comments -->
+
+
+		</div><!-- #main -->
+				</div><!-- #container -->
+			<footer id="footer" role="contentinfo" class="row">
+				<div id="footerbar" class="twelvecol last">
+									</div><!-- #footerbar -->
+				<div id="colophon" class="twelvecol last">
+					<div id="site-info" class="sixcol">
+											</div><!-- #site-info -->
+					<div id="site-generator" class="sixcol last">
+												<a href="http://wordpress.org/" title="Semantic Personal Publishing Platform">Proudly powered by WordPress.</a>
+					</div><!-- #site-generator -->
+				</div><!-- #colophon -->
+			</footer><!-- #footer -->
+		</div><!-- #wrapper -->
+		<script type="text/javascript" src="./Pathologie-Online » Ein online-Script der Pathologie_files/wp-embed.min.js"></script>
+	
+</body></html>

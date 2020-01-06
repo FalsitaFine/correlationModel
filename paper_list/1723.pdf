@@ -1,0 +1,419 @@
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if IE 9]><html class="no-js ie9" lang="en-GB"><![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="en-GB"><!--<![endif]-->
+
+<head>
+  
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GigaFrench | A multimedia media language course for the world</title>
+<link rel="pingback" href="http://gigafrench.com/xmlrpc.php"><link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="GigaFrench &raquo; Feed" href="http://gigafrench.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="GigaFrench &raquo; Comments Feed" href="http://gigafrench.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/gigafrench.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.10"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='x-stack-css'  href='http://gigafrench.com/wp-content/themes/x/framework/css/dist/site/stacks/integrity-light.css?ver=4.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='x-child-css'  href='http://gigafrench.com/wp-content/themes/x-child/style.css?ver=4.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='x-google-fonts-css'  href='//fonts.googleapis.com/css?family=Lato%3A400%2C400italic%2C700%2C700italic%7CNeuton%3A300&#038;subset=latin%2Clatin-ext&#038;ver=4.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='x-fa-icon-classes-css'  href='http://gigafrench.com/wp-content/plugins/cornerstone/assets/dist/css/site/fa-icon-classes.css?ver=3.0.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://gigafrench.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://gigafrench.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://gigafrench.com/wp-content/themes/x/framework/js/dist/site/x-head.min.js?ver=4.6.4'></script>
+<script type='text/javascript' src='http://gigafrench.com/wp-content/plugins/cornerstone/assets/dist/js/site/cs-head.js?ver=3.0.4'></script>
+<link rel='https://api.w.org/' href='http://gigafrench.com/wp-json/' />
+<link rel="canonical" href="http://gigafrench.com/" />
+<link rel='shortlink' href='http://gigafrench.com/' />
+<link rel="alternate" type="application/json+oembed" href="http://gigafrench.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgigafrench.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://gigafrench.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgigafrench.com%2F&#038;format=xml" />
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-4521475-47', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<style id="x-generated-css" type="text/css">a,h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover,.x-topbar .p-info a:hover,.x-breadcrumb-wrap a:hover,.widget ul li a:hover,.widget ol li a:hover,.widget.widget_text ul li a,.widget.widget_text ol li a,.widget_nav_menu .current-menu-item > a,.x-widgetbar .widget ul li a:hover,.x-accordion-heading .x-accordion-toggle:hover,.x-comment-author a:hover,.x-comment-time:hover,.x-recent-posts a:hover .h-recent-posts{color:#3698f9;}a:hover,.widget.widget_text ul li a:hover,.widget.widget_text ol li a:hover,.x-twitter-widget ul li a:hover{color:#3855ff;}.rev_slider_wrapper,a.x-img-thumbnail:hover,.x-slider-container.below,.page-template-template-blank-3-php .x-slider-container.above,.page-template-template-blank-6-php .x-slider-container.above{border-color:#3698f9;}.entry-thumb:before,.x-pagination span.current,.flex-direction-nav a,.flex-control-nav a:hover,.flex-control-nav a.flex-active,.mejs-time-current,.x-dropcap,.x-skill-bar .bar,.x-pricing-column.featured h2,.h-comments-title small,.x-entry-share .x-share:hover,.x-highlight,.x-recent-posts .x-recent-posts-img:after{background-color:#3698f9;}.x-nav-tabs > .active > a,.x-nav-tabs > .active > a:hover{box-shadow:inset 0 3px 0 0 #3698f9;}.x-main{width:71.536945%;}.x-sidebar{width:23.536945%;}.x-topbar{background-color:transparent;}.x-topbar .p-info,.x-topbar .p-info a,.x-navbar .desktop .x-nav > li > a,.x-navbar .desktop .sub-menu a,.x-navbar .mobile .x-nav li > a,.x-breadcrumb-wrap a,.x-breadcrumbs .delimiter{color:#272727;}.x-navbar .desktop .x-nav > li > a:hover,.x-navbar .desktop .x-nav > .x-active > a,.x-navbar .desktop .x-nav > .current-menu-item > a,.x-navbar .desktop .sub-menu a:hover,.x-navbar .desktop .sub-menu .x-active > a,.x-navbar .desktop .sub-menu .current-menu-item > a,.x-navbar .desktop .x-nav .x-megamenu > .sub-menu > li > a,.x-navbar .mobile .x-nav li > a:hover,.x-navbar .mobile .x-nav .x-active > a,.x-navbar .mobile .x-nav .current-menu-item > a{color:#272727;}.x-navbar .desktop .x-nav > li > a:hover,.x-navbar .desktop .x-nav > .x-active > a,.x-navbar .desktop .x-nav > .current-menu-item > a{box-shadow:inset 0 4px 0 0 #3698f9;}.x-navbar .desktop .x-nav > li > a{height:90px;padding-top:42px;}.x-navbar .desktop .x-nav > li ul{top:75px;;}.x-colophon.top,.x-colophon.bottom{border-top:1px solid #e0e0e0;border-top:1px solid rgba(0,0,0,0.085);background-color:transparent;box-shadow:inset 0 1px 0 0 rgba(255,255,255,0.8);}.x-comment-author,.x-comment-time,.comment-form-author label,.comment-form-email label,.comment-form-url label,.comment-form-rating label,.comment-form-comment label,.widget_calendar #wp-calendar caption,.widget.widget_rss li .rsswidget{font-family:Neuton;font-weight:300;}.p-landmark-sub,.p-meta,input,button,select,textarea{font-family:Lato;}.widget ul li a,.widget ol li a,.x-comment-time{color:#7a7a7a;}.widget_text ol li a,.widget_text ul li a{color:#3698f9;}.widget_text ol li a:hover,.widget_text ul li a:hover{color:#3855ff;}.comment-form-author label,.comment-form-email label,.comment-form-url label,.comment-form-rating label,.comment-form-comment label,.widget_calendar #wp-calendar th,.p-landmark-sub strong,.widget_tag_cloud .tagcloud a:hover,.widget_tag_cloud .tagcloud a:active,.entry-footer a:hover,.entry-footer a:active,.x-breadcrumbs .current,.x-comment-author,.x-comment-author a{color:#272727;}.widget_calendar #wp-calendar th{border-color:#272727;}.h-feature-headline span i{background-color:#272727;}@media (max-width:979px){}body{font-size:16px;font-style:normal;font-weight:400;color:#7a7a7a;background:#f3f3f3 url(//theme.co/x/demo/integrity/5/wp-content/uploads/sites/6/2013/06/noisy_gridgreen7w.png) center top repeat;}a:focus,select:focus,input[type="file"]:focus,input[type="radio"]:focus,input[type="submit"]:focus,input[type="checkbox"]:focus{outline:thin dotted #333;outline:5px auto #3698f9;outline-offset:-1px;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{font-family:"Neuton",serif;font-style:normal;font-weight:300;}h1,.h1{letter-spacing:-0.016em;}h2,.h2{letter-spacing:-0.022em;}h3,.h3{letter-spacing:-0.027em;}h4,.h4{letter-spacing:-0.036em;}h5,.h5{letter-spacing:-0.042em;}h6,.h6{letter-spacing:-0.063em;}.w-h{font-weight:300 !important;}.x-container.width{width:90%;}.x-container.max{max-width:1500px;}.site,.x-navbar.x-navbar-fixed-top.x-container.max.width{width:90%;max-width:1500px;}.x-main.full{float:none;display:block;width:auto;}@media (max-width:979px){.x-main.full,.x-main.left,.x-main.right,.x-sidebar.left,.x-sidebar.right{float:none;display:block;width:auto !important;}}.entry-header,.entry-content{font-size:16px;}body,input,button,select,textarea{font-family:"Lato",sans-serif;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a,.h1 a,.h2 a,.h3 a,.h4 a,.h5 a,.h6 a,blockquote{color:#272727;}.cfc-h-tx{color:#272727 !important;}.cfc-h-bd{border-color:#272727 !important;}.cfc-h-bg{background-color:#272727 !important;}.cfc-b-tx{color:#7a7a7a !important;}.cfc-b-bd{border-color:#7a7a7a !important;}.cfc-b-bg{background-color:#7a7a7a !important;}.x-navbar-inner{min-height:90px;}.x-brand{margin-top:5px;font-family:"Lato",sans-serif;font-size:70px;font-style:normal;font-weight:400;letter-spacing:-0.043em;color:#272727;}.x-brand:hover,.x-brand:focus{color:#272727;}.x-navbar .x-nav-wrap .x-nav > li > a{font-family:"Lato",sans-serif;font-style:normal;font-weight:400;letter-spacing:0.2em;text-transform:uppercase;}.x-navbar .desktop .x-nav > li > a{font-size:10px;}.x-navbar .desktop .x-nav > li > a:not(.x-btn-navbar-woocommerce){padding-left:14px;padding-right:14px;}.x-navbar .desktop .x-nav > li > a > span{margin-right:-0.2em;}.x-btn-navbar{margin-top:20px;}.x-btn-navbar,.x-btn-navbar.collapsed{font-size:30px;}@media (max-width:979px){.x-widgetbar{left:0;right:0;}}.x-btn,.button,[type="submit"]{color:#2dcc9e;border-color:#2dcc9e;background-color:#ff2a13;border-width:3px;text-transform:uppercase;background-color:transparent;}.x-btn:hover,.button:hover,[type="submit"]:hover{color:#26af8b;border-color:#26af8b;background-color:#ef2201;border-width:3px;text-transform:uppercase;background-color:transparent;}.x-btn.x-btn-real,.x-btn.x-btn-real:hover{margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);}.x-btn.x-btn-real{box-shadow:0 0.25em 0 0 #1a775b,0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-real:hover{box-shadow:0 0.25em 0 0 #1a775b,0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-flat,.x-btn.x-btn-flat:hover{margin-bottom:0;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);box-shadow:none;}.x-btn.x-btn-transparent,.x-btn.x-btn-transparent:hover{margin-bottom:0;border-width:3px;text-shadow:none;text-transform:uppercase;background-color:transparent;box-shadow:none;} 
+.x-container.offset {
+    margin: 20px auto;
+}
+/* 40px default */
+.x-topbar {
+    position: relative;
+    min-height: 0px;
+    border-bottom: 1px solid #ffffff;
+    background-color: #fff;
+    z-index: 1031;
+}
+ /* Media 46px  + borderbottom f2f2f2 */
+
+@media  (max-width: 600px) {
+.x-container.width {
+width: 100%;
+}
+.entry-wrap {
+    padding: 15px;
+}
+
+.site, .x-navbar.x-navbar-fixed-top.x-container.max.width {
+    width: 100%;
+}
+
+}
+
+
+body {
+    line-height: 1.5;
+}
+
+
+}
+
+
+
+.entry-title {
+     padding: 35px;
+}
+
+
+
+span.dropt {color:green}
+span.dropt:hover {text-decoration: none; background: #ffffff; z-index: 6; }
+span.dropt span {position: absolute; left: -9999px;
+  margin: 20px 0 0 0px; padding: 3px 3px 3px 3px;
+  border-style:solid; border-color:black; border-width:1px; z-index: 6;}
+span.dropt:hover span {left: 2%; background: #ffffff;} 
+span.dropt span {position: absolute; left: -9999px;
+  margin: 4px 0 0 0px; padding: 15px 23px 15px 23px; 
+  border-style:solid; border-color:#88ffdd; border-width:2px;}
+span.dropt:hover span {position: absolute; margin: 25px 0 0 270px; background: #ddffdd; z-index:6;} 
+
+.x-pricing-column-info .x-price 
+{
+    margin: 0;
+    font-size: 20px;
+    letter-spacing: 0px;
+}</style><style id="cornerstone-custom-page-css"></style></head>
+
+<body class="home page-template-default page page-id-2665 x-integrity x-integrity-light x-navbar-static-active x-boxed-layout-active x-full-width-active x-v4_6_4 x-child-theme-active cornerstone-v3_0_4">
+
+  
+  <div id="top" class="site">
+
+  
+  
+  <header class="masthead masthead-inline" role="banner">
+    
+
+  <div class="x-topbar">
+    <div class="x-topbar-inner x-container max width">
+            <div class="x-social-global"></div>    </div>
+  </div>
+
+    
+
+  <div class="x-navbar-wrap">
+    <div class="x-navbar">
+      <div class="x-navbar-inner">
+        <div class="x-container max width">
+          
+<h1 class="visually-hidden">GigaFrench</h1>
+<a href="http://gigafrench.com/" class="x-brand img" title="A multimedia media language course for the world">
+  <img src="//gigafrench.com/wp-content/uploads/2016/07/GigaFrench-Header-2016_4.png" alt="A multimedia media language course for the world"></a>           
+<a href="#" class="x-btn-navbar collapsed" data-toggle="collapse" data-target=".x-nav-wrap.mobile">
+  <i class="x-icon-bars" data-x-icon="&#xf0c9;"></i>
+  <span class="visually-hidden">Navigation</span>
+</a>
+
+<nav class="x-nav-wrap desktop" role="navigation">
+  <ul id="menu-chapters" class="x-nav"><li id="menu-item-2677" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2665 current_page_item menu-item-2677"><a href="http://gigafrench.com/"><span>GigaFrench 2016</span></a></li>
+<li id="menu-item-1719" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1719"><a href="http://gigafrench.com/new/"><span>New</span></a></li>
+<li id="menu-item-2519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2519"><a href="http://gigafrench.com/strategy/"><span>Strategy</span></a></li>
+<li id="menu-item-2980" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2980"><a href="http://gigafrench.com/print/"><span>Print</span></a></li>
+<li id="menu-item-2391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2391"><a href="http://gigafrench.com/download/"><span>Download</span></a></li>
+<li id="menu-item-1969" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1969"><a href="http://gigafrench.com/construction/"><span>Audio</span></a></li>
+<li id="menu-item-1361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1361"><a href="http://gigafrench.com/about/"><span>About</span></a></li>
+<li class="menu-item x-menu-item x-menu-item-search"><a href="#" class="x-btn-navbar-search"><span><i class="x-icon-search" data-x-icon="&#xf002;" aria-hidden="true"></i><span class="x-hidden-desktop"> Search</span></span></a></li></ul></nav>
+
+<div class="x-nav-wrap mobile collapse">
+  <ul id="menu-chapters-1" class="x-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2665 current_page_item menu-item-2677"><a href="http://gigafrench.com/"><span>GigaFrench 2016</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1719"><a href="http://gigafrench.com/new/"><span>New</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2519"><a href="http://gigafrench.com/strategy/"><span>Strategy</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2980"><a href="http://gigafrench.com/print/"><span>Print</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2391"><a href="http://gigafrench.com/download/"><span>Download</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1969"><a href="http://gigafrench.com/construction/"><span>Audio</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1361"><a href="http://gigafrench.com/about/"><span>About</span></a></li>
+<li class="menu-item x-menu-item x-menu-item-search"><a href="#" class="x-btn-navbar-search"><span><i class="x-icon-search" data-x-icon="&#xf002;" aria-hidden="true"></i><span class="x-hidden-desktop"> Search</span></span></a></li></ul></div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+    
+  </header>
+
+    
+
+  <div class="x-container max width offset">
+    <div class="x-main full" role="main">
+
+              
+<article id="post-2665" class="post-2665 page type-page status-publish hentry no-post-thumbnail">
+  <div class="entry-wrap">
+                <header class="entry-header">
+        <h1 class="entry-title">GigaFrench 2016</h1>
+      </header>
+              
+
+
+<div class="entry-content content">
+
+
+  <div id="cs-content" class="cs-content" ><div id="x-section-1" class="x-section" style="margin: 0px;padding: 15px 0px 25px; background-color: transparent;"  ><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm x-1-1" style="padding: 0px;" ><a  class="x-creative-cta slide-top" href="http://hiv.net/l.php?id=51" target="_blank" style="padding: 25px 25px 25px 25px; color: hsl(0, 0%, 2%); background-color: hsl(60, 100%, 50%);" data-x-element="creative_cta" data-x-params="{&quot;animation&quot;:&quot; slide-top&quot;,&quot;bg_color&quot;:&quot;hsl(60, 100%, 50%)&quot;,&quot;bg_color_hover&quot;:&quot;hsl(60, 100%, 50%)&quot;}" ><span class="text" style="font-size: 16px;">ACCESS DENIED<br><br>If you voted for Brexit<br>or for the unnamable US president, <br>you are not allowed to<br>read, download or otherwise use <br>any of the material presented here.<br><br>Please leave this website.<br><br>Marie de France</span><span class="graphic"><i style="margin: 0; font-size: 184px;" class="x-icon-minus-circle" data-x-icon="&#xf056;"></i></span></a></div></div></div><div id="x-section-2" class="x-section" style="margin: 0px;padding: 15px 0px 25px; background-color: transparent;"  ><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm x-1-1" style="padding: 0px;" ><a  class="x-creative-cta slide-top" href="http://hiv.net/l.php?id=51" target="_blank" style="padding: 25px 25px 25px 25px; color: #ffffff; background-color: hsl(13, 100%, 48%);" data-x-element="creative_cta" data-x-params="{&quot;animation&quot;:&quot; slide-top&quot;,&quot;bg_color&quot;:&quot;hsl(13, 100%, 48%)&quot;,&quot;bg_color_hover&quot;:&quot;hsl(301, 100%, 50%)&quot;}" ><span class="text" style="font-size: 20px;">4<sup>th</sup> Edition, 554 pages<br>Click here to download<br>the free PDF</span><span class="graphic"><i style="margin: 0; font-size: 48px;" class="x-icon-magic" data-x-icon="&#xf0d0;"></i></span></a></div></div></div><div id="x-section-3" class="x-section" style="margin: 0px 0px 15px;padding: 5px 0px; background-color: transparent;"  ><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm x-1-2" style="padding: 0px;" ><div class="x-text cs-ta-justify" style="margin-top:20px;"  ><p><em>GigaFrench</em> is a multimedia language course with a refreshingly new approach to French and France.</p>
+<p>Download</p>
+<ol>
+<li>the <a href="http://hiv.net/l.php?id=51">free PDF</a> (4<sup>th</sup> edition, 554 pages) and</li>
+<li>the <a href="/download">free audio files</a></li>
+</ol>
+<p>To get the most out of <em>GigaFrench</em>,</p>
+<ol>
+<li>read the <a href="/strategy">Strategy Papers</a></li>
+<li>read in particular the &#8216;<a href="/turbo-master-class">Turbo Master Class</a>&#8216;</li>
+<li>follow the <a href="/power-listening">Power Listening Program</a></li>
+<li>do the <a href="/jokers">smartphone exercises</a></li>
+</ol>
+<p>Check also the <a href="/de">German</a>, <a href="/it">Italian</a>, <a href="/es">Spanish</a> and <a href="/cn">Chinese</a> edition.</p>
+<p>Coming next: 5<sup>th</sup> edition (April 2021).</p>
+</div></div><div  class="x-column x-sm x-1-2" style="padding: 0px;" ><a  class="x-img x-img-link x-img-none" style="margin-bottom:10px;margin-top:20px;" href="http://hiv.net/l.php?id=51"  target="_blank"   data-options="thumbnail: 'http://gigafrench.com/wp-content/uploads/2016/07/Cover4thEdition.jpg'"><img src="http://gigafrench.com/wp-content/uploads/2016/07/Cover4thEdition.jpg" ></a></div></div></div><div id="x-section-4" class="x-section" style="margin: 0px;padding: 5px 0px 0px; background-color: transparent;"  ><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm x-1-2" style="padding: 0px;" ><div class="x-text"  ><p style="font-size: 1.0em; margin-top: 30px;"><img src="http://freebooks4doctors.com/images/uk.png" border="0" /><br />
+<strong>GigaFrench<br />
+</strong><em>God, abortion and climate change</em><br />
+4<sup>th</sup> Edition<br />
+<a href="http://hiv.net/l.php?id=51">Download</a> PDF (554 pages)</p>
+</div></div><div  class="x-column x-sm x-1-2" style="padding: 0px;" ><div class="x-text"  ><p style="font-size: 1.0em; margin-top: 30px;"><a href="/de"><img src="http://freebooks4doctors.com/images/de.png" border="0" /></a><br />
+<strong>GigaFrench Deutschland<br />
+</strong><em>Gott, Abtreibung und Klimawandel</em><strong><br />
+</strong>Französisch für Deutsche<br />
+<a href="http://www.hiv.net/l.php?id=62" target="_blank">Download </a>PDF (122 Seiten)<br />
+<a href="/de">Webseiten </a>(&#8220;Gott&#8221;, Klimawandel, Abtreibung, JunkFood, &#8220;Schönheits-Medizin&#8221;, Tourismus, Edward Snowden, Brexit, Amours de Filles).</p>
+</div></div></div></div><div id="x-section-5" class="x-section" style="margin: 0px;padding: 0px 0px 15px; background-color: transparent;"  ><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm x-1-2" style="padding: 0px;" ><div class="x-text"  ><p style="font-size: 1.0em; margin-top: 30px;"><img src="http://freebooks4doctors.com/images/es.png" border="0" /><br />
+<strong>GigaFrench España<br />
+</strong><em>Dios, aborto y cambio climático</em><br />
+Francés para españoles<br />
+<a href="http://hiv.net/l.php?id=63" target="_blank">Download PDF</a> (40 páginas)<br />
+<a href="/es">Páginas Web</a> (&#8220;Dios&#8221;, cambio climático, aborto, Amores de Chicas)</p>
+</div></div><div  class="x-column x-sm x-1-2" style="padding: 0px;" ><div class="x-text"  ><p style="font-size: 1.0em; margin-top: 30px;"><a href="/it"><img src="http://freebooks4doctors.com/images/it.png" border="0" /></a><br />
+<strong>GigaFrench Italia<br />
+</strong><em>Dio, aborto e cambiamento climatico</em><strong><br />
+</strong>Francese per italiani<br />
+<a href="http://hiv.net/l.php?id=61">Download PDF</a> (100 pagine)<br />
+<a href="/it">Pagine Web</a> (&#8220;Dio&#8221;, cambiamento climatico, aborto, cibo spazzatura, medicina &#8220;estetica&#8221;, turismo, Edward Snowden, Brexit).</p>
+</div></div></div></div><div id="x-section-6" class="x-section" style="margin: 0px;padding: 0px 0px 15px; background-color: transparent;"  ><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm x-1-2" style="padding: 0px;" ><div class="x-text"  ><p style="font-size: 1.0em; margin-top: 30px;"><img src="http://hiv.net/images/cn.png" border="0" width="38"/><br />
+<strong>GigaFrench China<br />
+</strong><em>God, abortion and climate change</em><br />
+<a href="/cn">Web page</a></p>
+</div></div><div  class="x-column x-sm x-1-2" style="padding: 0px;" ><div class="x-text"  ></div></div></div></div><div id="x-section-7" class="x-section" style="margin: 15px 0px 0px;padding: 0px; background-color: transparent;"  ><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm x-1-2" style="padding: 0px;" ><h2  class="h-custom-headline h4" style="margin-bottom:20px;margin-top:0px;"><span>Ear<sup>2</sup>Memory</span></h2><div class="x-text" style="margin-top:20px;"  ><p><em>Ear<sup>2</sup>Memory</em> (E<sup>2</sup>M; <a href="http://www.bsk1.com/e2m" target="_blank">install here</a>) is a free Power Repeat app by <a href="http://www.bsk1.com" target="_blank">Bernd Sebastian Kamps</a> that will help you learn any language in the world. By <strong>efficiently managing your language audio files</strong>, E<sup>2</sup>M will enable you, within less than four months, to clearly distinguish and understand, word for word, 45 to 60 minutes of foreign speech (you’ll ‘conquer an island of total understanding’).</p>
+<p>Install the free app and download the 60-page PDF from <a href="http://www.Ear2Memory.com" target="_blank">www.Ear<sup>2</sup>Memory.com</a>.</p>
+</div></div><div  class="x-column x-sm x-1-2" style="padding: 0px;" ><a  class="x-img x-img-link x-img-none"  href="http://www.Ear2Memory.com"  target="_blank"   data-options="thumbnail: 'http://gigafrench.com/wp-content/uploads/2016/11/TempLogo.png'"><img src="http://gigafrench.com/wp-content/uploads/2016/11/TempLogo.png" ></a></div></div></div><div id="x-section-8" class="x-section" style="margin: 15px 0px 0px;padding: 0px; background-color: transparent;"  ><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm x-1-1" style="padding: 0px;" ><h2  class="h-custom-headline h4" style="margin-bottom:20px;margin-top:0px;"><span>Free Text &#038; Free Audio</span></h2><div class="x-text" style="margin-top:20px;"  ><p>Before using the audio files, check the GigaFrench <a href="http://gigafrench.com/power-listening/"><strong>Power Listening Program</strong></a>.</p>
+<ol>
+<li><a href="/level01">Dieu </a>| God: <a href="http://www.hiv.net/audio/Level01_101_A_God.mp3">Audio</a> &#8211; <a href="http://www.hiv.net/audio/Level01_100_A_God.mp3">Slow audio</a></li>
+<li><a href="/level02">Changement climatique</a> | Climate change: <a href="http://gigafrench.com/wp-content/uploads/2016/03/Level02_201_A_ClimateChange.mp3">Audio</a> &#8211; <a href="http://gigafrench.com/wp-content/uploads/2016/03/Level02_200_A_ClimateChange.mp3">Slow audio</a></li>
+<li><a href="/level03">Avortement </a>| Abortion: <a href="http://gigafrench.com/wp-content/uploads/2016/03/Level03_301_A_Abortion.mp3">Audio</a> &#8211; <a href="http://gigafrench.com/wp-content/uploads/2016/03/Level03_300_A_Abortion.mp3">Slow audio</a></li>
+<li><a href="http://gigafrench.com/level04">Junk Food </a>| Abortion: <a href="http://gigafrench.com/wp-content/uploads/2016/05/Level04_401_Fastfood.mp3">Audio</a> &#8211; <a href="http://gigafrench.com/wp-content/uploads/2016/05/Level04_400_Fastfood.mp3">Slow audio</a></li>
+<li><a href="/level05">Médecine &#8220;esthétique&#8221;</a>: <a href="http://gigafrench.com/wp-content/uploads/2016/07/Level05_501_AestheticSurgery.mp3">Audio</a> &#8211; <a href="http://gigafrench.com/wp-content/uploads/2016/07/Level05_500_AestheticSurgerySlow.mp3">Slow audio</a></li>
+<li><a href="/level06">Tourisme</a>: <a href="http://gigafrench.com/wp-content/uploads/2016/07/Level06_601_Tourisme.mp3">Audio</a> &#8211; <a href="http://gigafrench.com/wp-content/uploads/2016/07/Level06_600_TourismeSlow.mp3">Slow audio</a></li>
+<li><a href="/level07">Edward Snowden</a> (coming soon)</li>
+<li><a href="http://gigafrench.com/level08">Brexit</a>: <a href="http://gigafrench.com/wp-content/uploads/2016/06/Level08_801_ByeByeEngland.mp3">Audio</a> &#8211; <a href="http://gigafrench.com/wp-content/uploads/2016/06/Level08_800_ByeByeEnglandSlow.mp3">Slow audio</a></li>
+</ol>
+</div></div></div></div><div id="x-section-9" class="x-section" style="margin: 45px 0px 0px;padding: 0px; background-color: transparent;"  ><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm x-1-3" style="padding: 0px;" ><h2  class="h-custom-headline h4" style="margin-bottom:20px;margin-top:0px;"><span>Second language acquisition</span></h2><div class="x-text" style="margin-top:20px;"  ><p>Surprisingly, penis length and second language acquisition have something in common. Avenues for future (language) <a href="/future-research">research</a>.</p>
+</div><h2  class="h-custom-headline h3" style="margin-bottom:20px;margin-top:0px;"><span>&nbsp;</span></h2></div><div  class="x-column x-sm x-1-3" style="padding: 0px;" ><a  class="x-img x-img-link x-img-circle"  href="/future-research"     data-options="thumbnail: 'http://gigafrench.com/wp-content/uploads/2016/08/PenisMeasurement_detail.png'"><img src="http://gigafrench.com/wp-content/uploads/2016/08/PenisMeasurement_detail.png" ></a></div><div  class="x-column x-sm x-1-3" style="padding: 0px;" >&nbsp;</div></div></div><div id="x-section-10" class="x-section" style="margin: 15px 0px 0px;padding: 0px; background-color: transparent;"  ><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm x-1-1" style="padding: 0px;" ><h2  class="h-custom-headline h4" style="margin-bottom:20px;margin-top:0px;"><span>GigaFrench@Amazon</span></h2><a  class="x-img x-img-link x-img-thumbnail"  href="http://www.amazon.com/GigaFrench-God-abortion-climate-change/dp/3924774978"  target="_blank"   data-options="thumbnail: 'http://gigafrench.com/wp-content/uploads/2016/07/AmazonScreenShotGigaFrench.png'"><img src="http://gigafrench.com/wp-content/uploads/2016/07/AmazonScreenShotGigaFrench.png" ></a><div class="x-text" style="margin-top:20px;"  ><p>GigaFrench 2016, 4th edition, 552 pages.</p>
+<p>A book is superior to a PDF:</p>
+<ul>
+<li><a href="http://www.amazon.com/GigaFrench-God-abortion-climate-change/dp/3924774978">United States</a></li>
+<li><a href="http://www.amazon.it/GigaFrench-God-abortion-climate-change/dp/3924774978">Italy</a></li>
+<li><a href="http://www.amazon.co.uk/GigaFrench-God-abortion-climate-change/dp/3924774978">Great Britain</a></li>
+<li><a href="http://www.amazon.fr/GigaFrench-God-abortion-climate-change/dp/3924774978">France</a></li>
+<li><a href="http://www.amazon.de/GigaFrench-God-abortion-climate-change/dp/3924774978">Germany</a></li>
+<li><a href="http://www.amazon.es/GigaFrench-God-abortion-climate-change/dp/3924774978">Spain</a></li>
+<li><a href="http://www.amazon.ca/GigaFrench-God-abortion-climate-change/dp/3924774978">Canada</a></li>
+</ul>
+</div></div></div></div><div id="x-section-11" class="x-section" style="margin: 0px;padding: 0px; background-color: transparent;"  ><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm x-1-2" style="padding: 0px;" ><h2  class="h-custom-headline h4" ><span>1. God</span></h2><a  class="x-img x-img-link x-img-thumbnail"  href="/level01" title="Level 1"    data-options="thumbnail: 'http://gigafrench.com/wp-content/uploads/2016/03/Dio.jpg'"><img src="http://gigafrench.com/wp-content/uploads/2016/03/Dio.jpg" ></a><div  class="x-audio player" data-x-element="x_mejs"  ><audio class="x-mejs advanced-controls" preload="none"><source src="http://gigafrench.com/wp-content/uploads/2016/03/Level01_100_A_God.mp3" type="audio/mpeg"></audio></div><div class="x-text"  ><p style="font-size:.9em;">Souhaitons-lui – à ce petit Dieu qui ne serait qu’un pauvre diable – de ne pas exister car nous le jugerions pour crimes contre l’Humanité. Nous avons guillotiné Louis XVI pour moins que cela.  <a href="/level01">More&#8230;</a></p>
+</div><div  class="x-audio player" data-x-element="x_mejs"  ><audio class="x-mejs advanced-controls" preload="none"><source src="http://gigafrench.com/wp-content/uploads/2016/03/Level01_101_A_God.mp3" type="audio/mpeg"></audio></div><div class="x-text"  ><p style="font-size:.9em;">Let’s wish him – this little God who would just be a poor devil – not to exist because we would put him on trial for crimes against humanity. We guillotined Louis XVI for less than that. <a href="/level01">More&#8230;</a></p>
+</div></div><div  class="x-column x-sm x-1-2" style="padding: 0px;" ><h2  class="h-custom-headline h4" ><span>2. Climate</span></h2><a  class="x-img x-img-link x-img-thumbnail"  href="/level02" title="Level 2"    data-options="thumbnail: 'http://gigafrench.com/wp-content/uploads/2016/03/ClimateChange.jpg'"><img src="http://gigafrench.com/wp-content/uploads/2016/03/ClimateChange.jpg" ></a><div  class="x-audio player" data-x-element="x_mejs"  ><audio class="x-mejs advanced-controls" preload="none"><source src="http://gigafrench.com/wp-content/uploads/2016/03/Level02_201_A_ClimateChange.mp3" type="audio/mpeg"></audio></div><div class="x-text"  ><p style="font-size:.9em;"> Le changement climatique existe-t-il ? Ou le ‘réchauffement climatique provoqué par l’homme’ n’est-il qu’une mystification? L’ouragan Sally de New York en 2012 – un détail?  <a href="/level02">More&#8230;</a></p>
+</div><div  class="x-audio player" data-x-element="x_mejs"  ><audio class="x-mejs advanced-controls" preload="none"><source src="http://gigafrench.com/wp-content/uploads/2016/03/Level02_200_A_ClimateChange.mp3" type="audio/mpeg"></audio></div><div class="x-text"  ><p style="font-size:.9em;">Does climate change exist? Or is &#8216;global warming caused by man&#8217; only a hoax? Hurrican Sally in New York in 2012 – a small detail?   <a href="/level02">More&#8230;</a></p>
+</div></div></div></div><div id="x-section-12" class="x-section" style="margin: 0px;padding: 0px; background-color: transparent;"  ><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm x-1-2" style="padding: 0px;" ><h2  class="h-custom-headline h4" ><span>3. Abortion</span></h2><a  class="x-img x-img-link x-img-thumbnail"  href="/level03" title="Level 3"    data-options="thumbnail: 'http://gigafrench.com/wp-content/uploads/2016/03/Abortion.jpg'"><img src="http://gigafrench.com/wp-content/uploads/2016/03/Abortion.jpg" ></a><div  class="x-audio player" data-x-element="x_mejs"  ><audio class="x-mejs advanced-controls" preload="none"><source src="http://gigafrench.com/wp-content/uploads/2016/03/Level03_301_A_Abortion.mp3" type="audio/mpeg"></audio></div><div class="x-text"  ><p style="font-size:.9em;">Pourquoi y a-t-il des pays où une femme ne peut avorter sans le consentement de son mari? <a href="/level03">More&#8230;</a></p>
+</div><div  class="x-audio player" data-x-element="x_mejs"  ><audio class="x-mejs advanced-controls" preload="none"><source src="http://gigafrench.com/wp-content/uploads/2016/03/Level03_300_A_Abortion.mp3" type="audio/mpeg"></audio></div><div class="x-text"  ><p style="font-size:.9em;">Why are there countries where a woman cannot abort without the consent of her husband?  <a href="/level03">More&#8230;</a></p>
+</div></div><div  class="x-column x-sm x-1-2" style="padding: 0px;" ><h2  class="h-custom-headline h4" ><span>4. Junk Food</span></h2><a  class="x-img x-img-link x-img-thumbnail"  href="/level04" title="Level 4"    data-options="thumbnail: 'http://gigafrench.com/wp-content/uploads/2016/05/JunkFood.jpg'"><img src="http://gigafrench.com/wp-content/uploads/2016/05/JunkFood.jpg" ></a><div  class="x-audio player" data-x-element="x_mejs"  ><audio class="x-mejs advanced-controls" preload="none"><source src="http://gigafrench.com/wp-content/uploads/2016/05/Level04_401_Fastfood.mp3" type="audio/mpeg"></audio></div><div class="x-text"  ><p style="font-size:.9em;">Triste réalité : plus vous êtes pauvres, plus vous bouffez (mangez) mal.  <a href="/level04">More&#8230;</a></p>
+</div><div  class="x-audio player" data-x-element="x_mejs"  ><audio class="x-mejs advanced-controls" preload="none"><source src="http://gigafrench.com/wp-content/uploads/2016/05/Level04_400_Fastfood.mp3" type="audio/mpeg"></audio></div><div class="x-text"  ><p style="font-size:.9em;">A sad reality: the poorer you are, the more poorly you eat.   <a href="/level04">More&#8230;</a></p>
+</div></div></div></div><div id="x-section-13" class="x-section" style="margin: 0px;padding: 0px; background-color: transparent;"  ><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm x-1-2" style="padding: 0px;" ><h2  class="h-custom-headline h4" ><span>5. Botox</span></h2><a  class="x-img x-img-link x-img-thumbnail"  href="/level05" title="Level 5"    data-options="thumbnail: 'http://gigafrench.com/wp-content/uploads/2016/06/MedicineEsthetique.jpg'"><img src="http://gigafrench.com/wp-content/uploads/2016/06/MedicineEsthetique.jpg" ></a><div  class="x-audio player" data-x-element="x_mejs"  ><audio class="x-mejs advanced-controls" preload="none"><source src="http://gigafrench.com/wp-content/uploads/2016/07/Level05_501_AestheticSurgery.mp3" type="audio/mpeg"></audio></div><div class="x-text"  ><p style="font-size:.9em;">Le Burqistan existe-t-il? Oui, malheureusement. Imaginez cet européen qui traverse l’Atlantique pour visiter l’Équateur, les États-Unis ou le Brésil, quelle est sa toute première vision?  <a href="/level05">More&#8230;</a></p>
+</div><div  class="x-audio player" data-x-element="x_mejs"  ><audio class="x-mejs advanced-controls" preload="none"><source src="http://gigafrench.com/wp-content/uploads/2016/07/Level05_500_AestheticSurgerySlow.mp3" type="audio/mpeg"></audio></div><div class="x-text"  ><p style="font-size:.9em;">Does Burqistan exist? Unfortunately yes. Imagine a European crossing the Atlantic Ocean to visit Ecuador, the United States or Brazil, what is his very first vision?   <a href="/level05">More&#8230;</a></p>
+</div></div><div  class="x-column x-sm x-1-2" style="padding: 0px;" ><h2  class="h-custom-headline h4" ><span>6. Tourism</span></h2><a  class="x-img x-img-link x-img-thumbnail"  href="/level06" title="Level 6"    data-options="thumbnail: 'http://gigafrench.com/wp-content/uploads/2016/06/TurismeCancer.jpg'"><img src="http://gigafrench.com/wp-content/uploads/2016/06/TurismeCancer.jpg" ></a><div  class="x-audio player" data-x-element="x_mejs"  ><audio class="x-mejs advanced-controls" preload="none"><source src="http://gigafrench.com/wp-content/uploads/2016/07/Level06_601_Tourisme.mp3" type="audio/mpeg"></audio></div><div class="x-text"  ><p style="font-size:.9em;">Le tourisme serait-il un cancer, infiltrant et métastasé, détruisant tout ce qu’il touche, et ce avec une prédilection pour le pittoresque et l’exceptionnel?   <a href="/level06">More&#8230;</a></p>
+</div><div  class="x-audio player" data-x-element="x_mejs"  ><audio class="x-mejs advanced-controls" preload="none"><source src="http://gigafrench.com/wp-content/uploads/2016/07/Level06_600_TourismeSlow.mp3" type="audio/mpeg"></audio></div><div class="x-text"  ><p style="font-size:.9em;">Would tourism be a cancer, infiltrating and metastasizing, destroying everything it touches and, what is more, with a predilection for the picturesque and the unique?   <a href="/level06">More&#8230;</a></p>
+</div></div></div></div><div id="x-section-14" class="x-section" style="margin: 0px;padding: 0px; background-color: transparent;"  ><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm x-1-2" style="padding: 0px;" ><h2  class="h-custom-headline h4" ><span>7. Snowden</span></h2><a  class="x-img x-img-link x-img-thumbnail"  href="/level07" title="Level 7"    data-options="thumbnail: 'http://gigafrench.com/wp-content/uploads/2016/06/Snowden.jpg'"><img src="http://gigafrench.com/wp-content/uploads/2016/06/Snowden.jpg" ></a><div class="x-text"  ><p style="font-size:.9em;">Edward Snowden recevra-t-il un jour le Prix Nobel de la Paix? Son coup de génie le vaudrait bien. <a href="/level07">More&#8230;</a></p>
+</div><div class="x-text"  ><p style="font-size:.9em;">Will Edward Snowden win the Nobel Peace Prize one day? His stroke of genius would be worth it.  <a href="/level07">More&#8230;</a></p>
+</div></div><div  class="x-column x-sm x-1-2" style="padding: 0px;" ><h2  class="h-custom-headline h4" ><span>8. Brexit</span></h2><a  class="x-img x-img-link x-img-thumbnail"  href="/level06" title="Level 6"    data-options="thumbnail: 'http://gigafrench.com/wp-content/uploads/2016/06/newEngland3.jpg'"><img src="http://gigafrench.com/wp-content/uploads/2016/06/newEngland3.jpg" ></a><div  class="x-audio player" data-x-element="x_mejs"  ><audio class="x-mejs advanced-controls" preload="none"><source src="http://gigafrench.com/wp-content/uploads/2016/06/Level08_801_ByeByeEngland.mp3" type="audio/mpeg"></audio></div><div class="x-text"  ><p style="font-size:.9em;">Vous avez donc décidé de nous quitter? Eh bien, chers amis anglais, nous vous souhaitons un bon voyage. Adieu!   <a href="/level08">More&#8230;</a></p>
+</div><div  class="x-audio player" data-x-element="x_mejs"  ><audio class="x-mejs advanced-controls" preload="none"><source src="http://gigafrench.com/wp-content/uploads/2016/06/Level08_800_ByeByeEnglandSlow.mp3" type="audio/mpeg"></audio></div><div class="x-text"  ><p style="font-size:.9em;">So you have decided to leave us? Well, dear English friends, we wish you a good trip. Farewell!  <a href="/level08">More&#8230;</a></p>
+</div></div></div></div><div id="x-section-15" class="x-section" style="margin: 0px;padding: 45px 0px 0px; background-color: transparent;"  ><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm x-1-1" style="padding: 0px;" ><a  class="x-img x-img-link x-img-none"  href="http://hiv.net/l.php?id=52"  target="_blank"   data-options="thumbnail: 'http://gigafrench.com/wp-content/uploads/2016/07/Lovers11.png'"><img src="http://gigafrench.com/wp-content/uploads/2016/07/Lovers11.png" ></a><div  class="x-audio player" data-x-element="x_mejs"  ><audio class="x-mejs advanced-controls" preload="none"><source src="http://gigafrench.com/wp-content/uploads/2016/07/amoursdefilles_x5f.mp3" type="audio/mpeg"></audio></div><div class="x-text"  ><p style="text-align: center;">Get more from <a href="http://www.AmoursDeFilles.com" target="_blank">www.AmoursDeFilles.com</a><br />
+100.000.000 Billets d&#8217;Amour<br />
+<a href="http://hiv.net/l.php?id=52" target="_blank2">Download PDF</a> (828 pages)<br />
+by Marie de France</p>
+</div><div  class="x-columnize" >Tu es grandiose. Ô combien tu me manques ! Les autres n&#8217;aiment pas ta curiosité et ton courage. Si je te perdais, j&#8217;en mourrais. Laissons libre cours à nos fantasmes.</p>
+<p style="font-size: 0.8em;"><strong>English: </strong>You&#8217;re great. Oh how I miss you! Other people do not like your curiosity and courage. If I lost you, I would die. Let our fantasies run free.</p>
+<p style="font-size: 0.8em;"><strong>Italiano: </strong>Sei grandiosa. Oh quanto mi manchi! Agli altri non piace la tua curiosità e il tuo coraggio. Se ti perdessi, ne morirei. Lasciamo libero corso alle nostre fantasie.</p>
+<p style="font-size: 0.8em;"><strong><strong>Español: </strong></strong>Eres genial. ¡Oh, cómo te extraño! A los otros no les gusta tu curiosidad y tu coraje. Si te perdiera, Me moriría. Dejemos libre curso a nuestras fantasías.</p>
+<p style="font-size: 0.8em;"><strong>Deutsch: </strong>Du bist grandios. Oh, wie sehr ich dich vermisse! Die anderen mögen deine Neugier und deinen Mut nicht. Wenn ich dich verlöre, würde ich sterben. Lassen wir unseren Phantasien freien Lauf.</p>
+</div></div></div></div><div id="x-section-16" class="x-section" style="margin: 0px;padding: 0px 0px 45px; background-color: transparent;"  ><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm x-1-1" style="padding: 0px;&lt;h3 style=&quot;margin-top:5px;" ><h2  class="h-custom-headline cs-ta-center h5" ><span>GigaFrench &#8211; Made in Paris</span></h2><img  class="x-img x-img-none" style="margin-top:10px;margin-bottom:5px;" src="http://gigafrench.com/wp-content/uploads/2016/03/Louvre_1140.jpg" ><div class="x-text"  ><p style="font-size:.6em;">Louvre | &copy; Copyright 2016 Marie de France</p>
+</div></div></div></div><div id="x-section-17" class="x-section" style="margin: 0px;padding: 0px 0px 25px; background-color: transparent;"  ><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm x-1-1" style="padding: 0px;" ><a  class="x-creative-cta slide-top" href="http://hiv.net/l.php?id=51" style="padding: 25px 25px 25px 25px; color: #ffffff; background-color: #ff2a13;" data-x-element="creative_cta" data-x-params="{&quot;animation&quot;:&quot; slide-top&quot;,&quot;bg_color&quot;:&quot;#ff2a13&quot;,&quot;bg_color_hover&quot;:&quot;#d80f0f&quot;}" ><span class="text" style="font-size: 20px;">4<sup>th</sup> Edition, 554 pages<br>Click here to download<br>the free PDF</span><span class="graphic"><i style="margin: 0; font-size: 48px;" class="x-icon-magic" data-x-icon="&#xf0d0;"></i></span></a></div></div></div></div>
+  
+
+</div>
+
+  </div>
+</article>        
+      
+    </div>
+
+    
+
+
+  </div>
+
+
+
+  
+    
+
+  <a class="x-scroll-top right fade" href="#top" title="Back to Top">
+    <i class="x-icon-angle-up" data-x-icon="&#xf106;"></i>
+  </a>
+
+  <script>
+
+  jQuery(document).ready(function($) {
+
+    var windowObj            = $(window);
+    var body                 = $('body');
+    var bodyOffsetBottom     = windowObj.scrollBottom();             // 1
+    var bodyHeightAdjustment = body.height() - bodyOffsetBottom;     // 2
+    var bodyHeightAdjusted   = body.height() - bodyHeightAdjustment; // 3
+    var scrollTopAnchor      = $('.x-scroll-top');
+
+    function sizingUpdate(){
+      var bodyOffsetTop = windowObj.scrollTop();
+      if ( bodyOffsetTop > ( bodyHeightAdjusted * 0.75 ) ) {
+        scrollTopAnchor.addClass('in');
+      } else {
+        scrollTopAnchor.removeClass('in');
+      }
+    }
+
+    windowObj.bind('scroll', sizingUpdate).resize(sizingUpdate);
+    sizingUpdate();
+
+    scrollTopAnchor.click(function(){
+      $('html,body').animate({ scrollTop: 0 }, 850, 'easeInOutExpo');
+      return false;
+    });
+
+  });
+
+  </script>
+
+  
+
+  
+    <footer class="x-colophon bottom" role="contentinfo">
+      <div class="x-container max width">
+
+        
+                  <div class="x-social-global"></div>        
+                  <div class="x-colophon-content">
+            Copyright © 2016<br>
+Flying Publisher &amp Marie de France          </div>
+        
+      </div>
+    </footer>
+
+  
+
+  
+      <div class="x-searchform-overlay">
+        <div class="x-searchform-overlay-inner">
+          <div class="x-container max width">
+            <form method="get" id="searchform" class="form-search center-text" action="http://gigafrench.com/">
+              <label for="s" class="cfc-h-tx tt-upper">Type and Press &ldquo;enter&rdquo; to Search</label>
+              <input type="text" id="s" class="search-query cfc-h-tx center-text tt-upper" name="s">
+            </form>
+          </div>
+        </div>
+      </div>
+
+      
+  </div> <!-- END #top.site -->
+
+  
+<script type='text/javascript' src='http://gigafrench.com/wp-content/themes/x/framework/js/dist/site/x-body.min.js?ver=4.6.4'></script>
+<script type='text/javascript' src='http://gigafrench.com/wp-includes/js/comment-reply.min.js?ver=4.9.10'></script>
+<script type='text/javascript' src='http://gigafrench.com/wp-content/plugins/cornerstone/assets/dist/js/site/cs-body.js?ver=3.0.4'></script>
+<script type='text/javascript' src='http://gigafrench.com/wp-includes/js/wp-embed.min.js?ver=4.9.10'></script>
+<script type='text/javascript'>
+var mejsL10n = {"language":"en","strings":{"mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Turn off Fullscreen","mejs.fullscreen-on":"Go Fullscreen","mejs.download-video":"Download Video","mejs.fullscreen":"Fullscreen","mejs.time-jump-forward":["Jump forward 1 second","Jump forward %1 seconds"],"mejs.loop":"Toggle Loop","mejs.play":"Play","mejs.pause":"Pause","mejs.close":"Close","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.time-skip-back":["Skip back 1 second","Skip back %1 seconds"],"mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.mute-toggle":"Mute Toggle","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.ad-skip":"Skip ad","mejs.ad-skip-info":["Skip in 1 second","Skip in %1 seconds"],"mejs.source-chooser":"Source Chooser","mejs.stop":"Stop","mejs.speed-rate":"Speed Rate","mejs.live-broadcast":"Live Broadcast","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='http://gigafrench.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.6-78496d1'></script>
+<script type='text/javascript' src='http://gigafrench.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=4.9.10'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script id="cornerstone-custom-content-js" type="text/javascript">//
+// No need to add script tags
+// here; simply get started
+// by writing JavaScript!
+// Remember to save your
+// changes to see them :)
+//
+
+</script>
+  
+    <script id="x-customizer-js">
+      jQuery(function($){ $('.x-accordion-toggle').click(function(){ 
+var current_toggle = $(this);
+setTimeout( function() {
+$('html,body').animate({
+      scrollTop:  $(current_toggle).offset().top - $('.x-navbar').height()
+    },700 ,'swing');
+}, 300);
+
+});  });
+
+    </script>
+
+  
+  
+</body>
+</html>

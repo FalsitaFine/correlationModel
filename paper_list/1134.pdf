@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1130.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<link rel="shortcut icon" href="https://medicine.uiowa.edu/dermatology/sites/medicine.uiowa.edu.dermatology/files/favicon-160x160.png" type="image/png" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="Please observe copyrights. Duplication of information or images for other than personal use requires written permission of the University of Iowa." />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://medicine.uiowa.edu/dermatology/education/clinical-skin-disease-images" />
+<link rel="shortlink" href="https://medicine.uiowa.edu/dermatology/node/391" />
+    <title>Clinical Skin Disease Images | Department of Dermatology</title>
+  <link type="text/css" rel="stylesheet" href="https://medicine.uiowa.edu/dermatology/modules/system/system.base.css?prlwpk" media="all" />
+<link type="text/css" rel="stylesheet" href="https://medicine.uiowa.edu/dermatology/modules/system/system.messages.css?prlwpk" media="all" />
+<link type="text/css" rel="stylesheet" href="https://medicine.uiowa.edu/dermatology/modules/system/system.theme.css?prlwpk" media="all" />
+<link type="text/css" rel="stylesheet" href="https://medicine.uiowa.edu/dermatology/sites/all/modules/custom/ccom_person_profile/assets/css/ccom_person_style.css?prlwpk" media="all" />
+<link type="text/css" rel="stylesheet" href="https://medicine.uiowa.edu/dermatology/sites/all/modules/contrib/date/date_api/date.css?prlwpk" media="all" />
+<link type="text/css" rel="stylesheet" href="https://medicine.uiowa.edu/dermatology/modules/field/theme/field.css?prlwpk" media="all" />
+<link type="text/css" rel="stylesheet" href="https://medicine.uiowa.edu/dermatology/modules/node/node.css?prlwpk" media="all" />
+<link type="text/css" rel="stylesheet" href="https://medicine.uiowa.edu/dermatology/modules/search/search.css?prlwpk" media="all" />
+<link type="text/css" rel="stylesheet" href="https://medicine.uiowa.edu/dermatology/modules/user/user.css?prlwpk" media="all" />
+<link type="text/css" rel="stylesheet" href="https://medicine.uiowa.edu/dermatology/sites/all/modules/contrib/views/css/views.css?prlwpk" media="all" />
+<link type="text/css" rel="stylesheet" href="https://medicine.uiowa.edu/dermatology/sites/all/modules/custom/uiowa_bar/css/uiowa-bar.css?prlwpk" media="all" />
+<link type="text/css" rel="stylesheet" href="https://medicine.uiowa.edu/dermatology/sites/all/modules/contrib/ctools/css/ctools.css?prlwpk" media="all" />
+<link type="text/css" rel="stylesheet" href="https://medicine.uiowa.edu/dermatology/sites/all/libraries/fancybox/source/jquery.fancybox.css?prlwpk" media="all" />
+<link type="text/css" rel="stylesheet" href="https://medicine.uiowa.edu/dermatology/sites/all/modules/contrib/panels/css/panels.css?prlwpk" media="all" />
+<link type="text/css" rel="stylesheet" href="https://medicine.uiowa.edu/dermatology/sites/all/libraries/responsive_navigation/responsive-nav.css?prlwpk" media="all" />
+<link type="text/css" rel="stylesheet" href="https://medicine.uiowa.edu/dermatology/sites/all/themes/ccom_base/assets/css/ccom_base.style.css?prlwpk" media="all" />
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function (w, d, s, l, i) {
+  w[l] = w[l] || [];
+  w[l].push({
+    'gtm.start':
+      new Date().getTime(), event: 'gtm.js'
+  });
+  var f = d.getElementsByTagName(s)[0],
+    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+  j.async = true;
+  j.src =
+    'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+  f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-P5TDT5N');
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://medicine.uiowa.edu/dermatology/sites/medicine.uiowa.edu.dermatology/files/js/js_EebRuRXFlkaf356V0T2K_8cnUVfCKesNTxdvvPSEhCM.js"></script>
+<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://medicine.uiowa.edu/dermatology/sites/medicine.uiowa.edu.dermatology/files/js/js_l73QcRoBRvAtHSXNFu7rWF7h0kHM8s4CB9l15hMj5LY.js"></script>
+<script type="text/javascript" src="https://medicine.uiowa.edu/dermatology/sites/medicine.uiowa.edu.dermatology/files/js/js_KX5clPCsJky_21cLq3099K2-L3rU2gG2_yPi4jUb4QI.js"></script>
+<script type="text/javascript" src="https://medicine.uiowa.edu/dermatology/sites/medicine.uiowa.edu.dermatology/files/js/js_7_YOpdIJulZjQ7kPpxVXet_M2wFfUsFj1-msORfL1Jo.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-72040710-6", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://medicine.uiowa.edu/dermatology/sites/medicine.uiowa.edu.dermatology/files/js/js_lHi-tJsWDZNzKOjTB1eqzsU9KbdHNp02fdi-0foXWj4.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/dermatology\/","pathPrefix":"","ajaxPageState":{"theme":"ccom_base","theme_token":"c3wG50ks3C6rwgrSneJNBgT-3pVKmRGOyu-3kgQtGWI","js":{"0":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"https:\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.1.1\/js\/bootstrap.min.js":1,"sites\/all\/modules\/contrib\/responsive_navigation\/responsive_navigation.js":1,"sites\/all\/modules\/custom\/emergency_js\/emergency.js":1,"sites\/all\/modules\/contrib\/fancybox\/fancybox.js":1,"sites\/all\/libraries\/fancybox\/source\/jquery.fancybox.pack.js":1,"sites\/all\/libraries\/responsive_navigation\/responsive-nav.min.js":1,"sites\/all\/modules\/custom\/press_esc_to_login\/press_esc_to_login.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/themes\/radix\/assets\/js\/radix.script.js":1,"sites\/all\/themes\/ccom_base\/assets\/js\/ccom_base.script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/custom\/ccom_person_profile\/assets\/css\/ccom_person_style.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/custom\/uiowa_bar\/css\/uiowa-bar.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/fancybox\/source\/jquery.fancybox.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/libraries\/responsive_navigation\/responsive-nav.css":1,"sites\/all\/themes\/ccom_base\/assets\/css\/ccom_base.style.css":1}},"fancybox":[],"responsive_navigation":{"total":"1","blocks":{"responsive_navigation_menu_1":{"responsive_navigation_animate":"true","responsive_navigation_transition":400,"responsive_navigation_label":"Menu","responsive_navigation_insert":"before","responsive_navigation_openpos":"relative","responsive_navigation_jsclass":"js"}}},"pressEscToLogin":{"loginPath":"https:\/\/medicine.uiowa.edu\/dermatology\/user"},"urlIsAjaxTrusted":{"https:\/\/medicine.uiowa.edu\/dermatology\/google-search":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});
+//--><!]]>
+</script>
+  <!--[if lt IE 9]>
+   <script>
+      document.createElement('header');
+      document.createElement('nav');
+      document.createElement('section');
+      document.createElement('article');
+      document.createElement('aside');
+      document.createElement('footer');
+   </script>
+  <![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-391 node-type-page" >
+  <div id="skip-link">
+    <a href="#main" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+  <div id="ui-wrapper"><div id="uiowa-bar" role="region" aria-label="University of Iowa global header"><a href="https://uihealthcare.org" title="The University of Iowa Healthcare" id="wordmark-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 426 36" id="wordmark">
+	<path class="st0" d="M279 35c-0.8-0.1-1-0.6-1.1-1.4V18.4c0.1-0.9 0.2-1.3 0.9-1.4 0.3-0.1 0.6-0.1 1.2-0.1v-0.4c-0.5 0-0.5 0-0.6 0h-7.3c-0.1 0-0.1 0-0.6 0v0.4c0.9 0 1.3 0 1.5 0.1 0.9 0.1 1.2 0.6 1.2 1.4v6h-10.6v-6c0.1-0.9 0.2-1.3 0.9-1.4 0.3-0.1 0.6-0.1 1.2-0.1v-0.4c-0.5 0-0.5 0-0.6 0h-7.3c0 0-0.1 0-0.6 0v0.4c0.9 0 1.3 0 1.5 0.1 0.9 0.1 1.1 0.6 1.2 1.4 0.1 0.8 0.1 14.1 0 15.1 -0.1 0.7-0.3 1.3-0.9 1.4 -0.2 0.1-0.6 0.1-1.4 0.1v0.4c0.5 0 0.5 0 0.6 0h7.7c0 0 0 0 0.5 0V35c-0.9 0-1.4-0.1-1.8-0.1 -0.8-0.1-1-0.6-1.1-1.4v-7.8h10.6l-0.1 7.8c-0.1 0.7-0.2 1.3-0.8 1.4 -0.2 0.1-0.6 0.1-1.4 0.1v0.4c0.5 0 0.5 0 0.6 0h7.7c0 0 0 0 0.5 0V35c-0.9 0-1.4-0.1-1.8-0.1l0 0L279 35z"/><path class="st0" d="M355.5 35.1c-0.7-0.1-0.9-0.6-0.9-1.2V20.7c0.1-0.8 0.2-1.2 0.9-1.2 0.3-0.1 0.5-0.1 1.1-0.1v-0.4c-0.4 0-0.4 0-0.5 0h-6.4c0 0-0.1 0-0.5 0v0.4c0.7 0 1.2 0 1.3 0.1 0.8 0.1 0.9 0.5 1 1.2v5.2h-9.2v-5.2c0.1-0.8 0.2-1.2 0.9-1.2 0.3-0.1 0.5-0.1 1.1-0.1v-0.4c-0.4 0-0.4 0-0.5 0h-6.4c0 0-0.1 0-0.5 0v0.4c0.7 0 1.2 0 1.3 0.1 0.8 0.1 0.9 0.5 1 1.2s0.1 12.2-0.1 13.1c-0.1 0.6-0.2 1.2-0.7 1.2 -0.2 0.1-0.5 0.1-1.2 0.1v0.4c0.4 0 0.4 0 0.5 0h6.6c0 0 0 0 0.4 0v-0.4c-0.8 0-1.2-0.1-1.6-0.1 -0.7-0.1-0.9-0.6-0.9-1.2v-6.8h9.2v6.7c-0.1 0.6-0.2 1.2-0.7 1.2 -0.2 0.1-0.5 0.1-1.2 0.1v0.4c0.4 0 0.4 0 0.5 0h6.6c0 0 0 0 0.4 0v-0.4c-0.8 0-1.2-0.1-1.6-0.1l0 0H355.5z"/><path class="st0" d="M333.7 35.5v-0.4c-0.7 0-1.3-0.1-1.6-0.1 -0.7-0.1-1-0.6-1-1.2 0-1.3 0-13.6 0-13.6l2.9 0.1c2.1 0.1 2.7 0.6 2.8 1.2v0.6h0.5v-3.1h-15.4l0 0c-0.1 0.1-0.5 2.2-0.6 2.8h0.5c0.1-0.5 0.3-0.7 0.5-1 0.4-0.5 0.9-0.6 2.3-0.6l3.5-0.1c0 0 0.1 12.7 0 13.6 -0.1 0.6-0.3 1.2-0.7 1.2 -0.2 0.1-0.4 0.1-1.2 0.1v0.4H333.7L333.7 35.5z"/><path class="st0" d="M304 28.7h-4.3c-0.1 0-0.1-0.1-0.1-0.1l2.2-5.4c0-0.1 0.1-0.2 0.1-0.2 0.1 0 0.1 0.1 0.1 0.2l2.2 5.4C304.2 28.7 304.2 28.7 304 28.7L304 28.7 304 28.7zM323.3 32.1c-0.2 0-0.2 0.1-0.3 0.4 -0.1 0.4-0.4 1-0.6 1.3 -0.6 0.6-1.5 0.6-2.7 0.6 -1.9 0-2.4-0.1-2.9-0.5 -0.5-0.4-0.5-1.9-0.5-4.7v-3.8c0-3.3 0-4 0.1-4.6 0.1-0.8 0.2-1.2 0.9-1.2 0.3-0.1 0.6-0.1 0.9-0.1 0 0 0 0 0.4 0v-0.4h-7.4v0.4c0.8 0 1 0 1.2 0.1 0.8 0.1 0.9 0.5 1 1.2 0.1 0.7 0.1 1.3 0.1 4.6v3.8c0 2-0.1 3.7-0.1 4.7 -0.1 0.9-0.3 1.2-1.4 1.3 -2.3-0.1-2.7-1.9-3.3-3.4 -1.5-3.3-5.8-13.2-5.8-13.2h-0.5l-6.3 14.6c-0.5 1.1-0.9 1.9-2 1.9 -0.1 0-0.4 0-0.8 0.1l0.6-3h-0.5c0 0.2 0 0.3-0.1 0.4 -0.1 0.9-0.4 1.4-1.1 1.6 -0.6 0.3-1.6 0.3-2.2 0.3 -2.4 0-2.8-0.4-2.8-1.8 0-0.6 0-2.7 0-3.4v-1.7c0-0.1 0-0.2 0.1-0.2 0.6 0 2.9 0 3.4 0.1 0.9 0.1 1.2 0.4 1.3 0.9 0.1 0.3 0.1 0.6 0.1 0.8 0 0 0 0.1 0 0.2h0.4l0.3-3.7h-0.4c-0.1 0.1-0.1 0.2-0.2 0.3 -0.2 0.2-0.6 0.3-1.2 0.4 -0.6 0.1-3.2 0.1-3.7 0.1 -0.1 0-0.1-0.1-0.1-0.2v-5.5c0-0.1 0.1-0.2 0.1-0.2 0.5 0 3 0.1 3.4 0.1 1.2 0.1 1.4 0.4 1.6 0.8 0.1 0.3 0.1 0.6 0.1 0.8 0 0 0 0 0 0.3h0.4c0 0 0.3-3 0.3-3.1h-11.4v0.4c0.4 0 1.2 0 1.3 0.1 0.8 0.1 0.9 0.5 1 1.2 0.1 0.7 0.1 1.3 0.1 4.6v3.8c0 2 0 3.7-0.1 4.7 -0.1 0.6-0.2 1.2-0.7 1.2 -0.2 0.1-0.9 0.1-1.2 0.1v0.4h16.9v-0.4h-0.7c-0.7 0-0.9-0.3-0.9-0.6 0-0.3 0.1-0.8 0.4-1.4l1.3-3.1c0.1-0.1 0.1-0.1 0.2-0.1h5.3c0.1 0 0.2 0.1 0.2 0.1l1.9 4.6c0.1 0.3-0.1 0.4-0.2 0.5 -0.1 0-0.1 0-0.3 0v0.4h17.1c0 0 0.4-2.7 0.4-3 0-0.3 0-0.4-0.2-0.4l0 0L323.3 32.1z"/><path class="st0" d="M407.6 27.3c-0.4 0.3-0.7 0.4-1.7 0.4 -0.6 0-1.3-0.1-1.8-0.2 -0.1-0.1-0.2-0.1-0.2-0.4v-6.6c0-0.1 0.1-0.3 0.2-0.3 0.2-0.1 0.6-0.1 1.2-0.1 1.4 0 3.6 0.9 3.6 4 0 1.8-0.6 2.8-1.4 3.3l0 0V27.3zM426.2 32.2L426.2 32.2h-0.4l0 0c0 0.2 0 0.3-0.1 0.4 -0.1 0.9-0.4 1.4-1.1 1.6 -0.6 0.3-1.6 0.3-2.2 0.3 -2.4 0-2.8-0.4-2.8-1.8 0-0.6 0-2.7 0-3.4v-1.7c0-0.1 0-0.2 0.1-0.2 0.6 0 2.9 0 3.4 0.1 0.9 0.1 1.2 0.4 1.3 0.9 0.1 0.3 0.1 0.6 0.1 0.8 0 0 0 0.1 0 0.2h0.4l0.3-3.7h-0.4c-0.1 0.1-0.1 0.2-0.2 0.3 -0.2 0.2-0.6 0.3-1.2 0.4 -0.6 0.1-3.2 0.1-3.7 0.1 -0.1 0-0.1-0.1-0.1-0.2v-5.5c0-0.1 0.1-0.2 0.1-0.2 0.5 0 3 0.1 3.4 0.1 1.2 0.1 1.4 0.4 1.6 0.8 0.1 0.3 0.1 0.6 0.1 0.8 0 0 0 0 0 0.3h0.4c0 0 0.3-3 0.3-3.1h-11.4v0.4c0.4 0 1.2 0 1.3 0.1 0.8 0.1 0.9 0.5 1 1.2 0.1 0.7 0.1 1.3 0.1 4.6v3.8c0 2 0 3.7-0.1 4.7 -0.1 0.6-0.2 1-0.5 1.2 -0.6 0-1.3-0.4-2.3-1.4 -1.4-1.4-3-3.3-5.1-5.8 2.4-1.8 3.1-3.3 3.1-4.9 0-1.4-0.9-2.6-1.6-3 -1.3-0.8-2.9-0.9-4.3-0.9h-7.1v0.4c0.8 0 1.2 0 1.4 0.1 0.8 0.1 0.9 0.5 1 1.2v13.1c0 0.7-0.4 1.2-0.9 1.2 -1.6 0-2.2-2.1-2.8-3.3 -1.5-3.3-5.8-13.2-5.8-13.2h-0.5L384.5 33c-0.9 2.4-2.5 1.7-2.5 1.7l0.8-4h-0.6c-0.1 0.4-0.1 0.4-0.1 0.5 -0.1 0.4-0.4 1.2-0.9 1.7 -1.1 1.2-2.6 1.4-5 1.4 -3.7 0-8.6-3-8.6-9 0-2.4 0.5-4.8 2.5-6.6 1.2-1 2.7-1.6 5.1-1.6 2.5 0 4.6 0.6 5.5 1.6 0.6 0.6 1.1 1.2 1 2.9h0.6v-5c-0.1 0-0.1 0-0.2-0.1 -0.8-0.1-1.7-0.3-2.7-0.4 -1.2-0.1-2.2-0.3-4-0.3 -4 0-6.6 1-8.6 2.7 -2.6 2.2-3.2 5.2-3.2 6.9 0 2.4 0.7 5.3 3.4 7.4 2.4 2 5.6 2.7 9.4 2.7 1.7 0 5.1-0.4 5.1-0.4 0.4 0 6.1 0 6.1 0V35H387c-0.7 0-0.9-0.3-0.9-0.6 0-0.3 0.1-0.8 0.4-1.4l1.3-3.1c0.1-0.1 0.1-0.1 0.2-0.1h5.3c0.1 0 0.2 0.1 0.2 0.1l1.9 4.6c0.1 0.3-0.1 0.4-0.2 0.5 -0.1 0-0.1 0-0.3 0v0.4c0 0 11.3 0 11.5 0V35c-0.6 0-1.2-0.1-1.4-0.1 -0.7-0.1-0.9-0.6-0.9-1.2 -0.1-0.9-0.1-2.7-0.1-4.7v-0.3c0-0.1 0.1-0.1 0.2-0.1l2.1 0.1c0.1 0 0.3 0 0.4 0.1 0.3 0.4 1.4 1.8 2.3 3 1.3 1.7 2.2 2.7 3.2 3.2 0.6 0.3 1.2 0.4 2.5 0.4h2.2c0.1 0 0.1 0 0.2 0h8.7l0.4-3.3H426.2zM392.2 28.7h-4.3c-0.1 0-0.1-0.1-0.1-0.1l2.2-5.4c0-0.1 0.1-0.2 0.1-0.2s0.1 0.1 0.1 0.2l2.2 5.4C392.4 28.7 392.4 28.7 392.2 28.7L392.2 28.7 392.2 28.7z"/><path class="st0" d="M47.4 16.3v0.4c-0.1 0-0.8 0.1-1.1 0.1 -0.7 0.1-0.9 0.6-1 1.4 -0.1 0.8-0.1 1.5-0.1 5.3v2.7c0 2.8-0.3 5.8-2.5 7.6 -1.9 1.5-3.8 1.8-5.6 1.8 -1.4 0-4-0.1-6-1.7 -1.4-1.2-2.4-3-2.4-6.6v-3.7c0-3.8 0-4.5-0.1-5.3 -0.1-0.9-0.3-1.2-1.2-1.4 -0.2-0.1-1.3-0.1-1.4-0.1v-0.4h8.1v0.4c-0.1 0-0.7 0.1-1 0.1 -0.7 0.1-0.9 0.6-1 1.4 -0.1 0.8-0.1 1.5-0.1 5.3v3.5c0 3.7 0.8 5.2 2.1 6.2 1.2 0.9 2.4 1 3.4 1 1.2 0 2.7-0.4 3.7-1.4 1.5-1.4 1.6-3.7 1.6-6.3v-3.2c0-3.8 0-4.5-0.1-5.3 -0.1-0.9-0.3-1.2-1.2-1.4 -0.2-0.1-1.1-0.1-1.2-0.1v-0.4h6.8l0 0V16.3z"/><path class="st0" d="M60.3 18.9v0.4c0.1 0 1.2 0.1 1.6 0.1 0.6 0.2 0.8 0.6 0.8 1.9V31l-13-12.5h-0.6v13.7c0 1.9-0.2 2.5-0.8 2.7 -0.4 0.1-1.4 0.1-1.4 0.1v0.4h6.5v-0.4c0 0-1.2 0-1.6-0.1 -0.4-0.1-0.8-0.7-0.8-2.4v-9c1.7 1.7 12.8 12.3 12.8 12.3h0.8V21.2c0-1.2 0.2-1.7 0.9-1.9 0.3-0.1 0.9-0.1 1.2-0.1v-0.4L60.3 18.9 60.3 18.9 60.3 18.9z"/><path class="st0" d="M100.9 32c-0.1 0.6-0.4 1.7-1.3 1.9 -0.6 0.2-1.6 0.3-2.2 0.3 -2.4 0-2.7-0.4-2.8-1.8 0-0.6 0-2.7 0-3.4v-1.7c0-0.1 0-0.2 0.1-0.2 0.6 0 2.9 0 3.3 0.1 0.9 0.1 1.2 0.4 1.3 0.9 0.1 0.3 0.1 0.6 0.1 0.8 0 0 0 0 0 0.2h0.3l0.4-3.7h-0.3c-0.1 0.1-0.2 0.2-0.3 0.3 -0.2 0.2-0.6 0.3-1.2 0.4 -0.5 0.1-3.2 0.1-3.7 0.1 -0.1 0-0.1-0.1-0.1-0.2v-5.8c0 0 3.6 0.1 4 0.1 1.4 0.3 1.2 1.1 1.3 1.7h0.4c0.1-0.4 0.3-3 0.3-3l0 0H85.6v0.4c0.3 0 0.4 0 0.4 0 0.3 0 0.6 0 0.9 0.1 0.2 0.1 0.3 0.2 0.3 0.4s-0.1 0.5-0.2 0.8c-0.6 1.4-3.6 8.5-4.6 10.9h-0.1l-4-9.9c-0.4-0.8-0.5-1.4-0.5-1.7 0-0.2 0.1-0.4 0.2-0.4 0.1-0.1 0.5-0.1 1.2-0.1v-0.4H67.4v0.4c2.2-0.1 2 1.4 2 1.4v13.1c0 0 0.2 1.4-2 1.4v0.4h6.9v-0.4c-2.1 0-1.9-1.3-1.9-1.3V20.9c0 0 0-1.2 1.1-1.2 0.6 0.1 1.3 1.4 1.8 2.5l6.1 13.7h0.5c0 0 5.8-12.2 6.7-14.2 0.6-1.4 1-1.8 1.3-1.9 0.1-0.1 1.6-0.4 1.6 1.1 0 0.7 0.1 12.2-0.1 13.1 -0.1 0.6-0.2 1.1-0.6 1.2 -0.2 0.1-0.5 0.1-1.2 0.1v0.4c0.4 0 0.4 0 0.4 0h10.6c0.1-0.6 0.5-2.7 0.6-3.4h-0.5l0 0L100.9 32z"/><path class="st0" d="M129.5 33.7c0 0 0.2 1.4-2 1.4v0.4h6.9v-0.4c-2.1 0-1.9-1.3-1.9-1.3V20.7c0 0-0.1-1.3 1.9-1.3V19h-6.9v0.4c2.2-0.1 2 1.4 2 1.4v13.1V33.7z"/><path class="st0" d="M111.2 27.1c-0.4 0.3-0.7 0.4-1.7 0.4 -0.6 0-1.3-0.1-1.8-0.2 -0.1-0.1-0.2-0.1-0.2-0.4v-6.6c0-0.1 0.1-0.3 0.2-0.3 0.2-0.1 0.6-0.1 1.2-0.1 1.4 0 3.6 0.9 3.6 4C112.6 25.7 112 26.7 111.2 27.1L111.2 27.1 111.2 27.1zM122.5 25.4l-0.6-0.4c-1.9-1.4-2.4-2.2-2.4-3.2 0-1.3 1.1-2.2 2.8-2.2 1.5 0 2.2 0.6 2.5 1.1 0.5 0.6 0.6 1.2 0.6 1.4 0 0.1 0 0.1 0 0.4h0.4l0.1-3.4c-0.1-0.1-1.5-0.5-3.5-0.5 -3.2 0-5.4 1.7-5.4 4.1 0 1.8 0.9 3.3 3.5 5.2l1.1 0.8c1.9 1.4 2.3 2.4 2.3 3.5 0 1.2-1 2.5-3.1 2.5 0 0-2.2 0-3.4-1.2 -1.2-1.2-3-3.3-5-5.8 2.4-1.8 3.1-3.3 3.1-4.9 0-1.4-0.9-2.6-1.6-3 -1.3-0.8-2.8-0.9-4.3-0.9h-7v0.4c0 0 2.2-0.1 2.2 1.3 0 0.7 0 12.2 0 13.1 0 1.4-1.7 1.3-1.9 1.3v0.4h7.2V35c-1.2 0-2.3 0-2.3-1.3 0-0.9-0.1-5-0.1-5 0-0.4 2.5-0.1 2.7 0 0.3 0.4 1.4 1.8 2.3 3 1.3 1.7 1.7 2.2 2.6 2.8 0 0 4 2.7 9 0.2 1.5-0.7 2.2-2.5 2.2-3.8C126.4 28.9 125.4 27.4 122.5 25.4L122.5 25.4 122.5 25.4z"/><path class="st0" d="M155.7 18.9v0.4c0.3 0 0.4 0 0.4 0 0.4 0.1 0.5 0.4 0.5 0.6 0 0.3-0.1 0.6-0.4 1.2 -0.4 0.6-3.2 5.5-3.5 6 -0.3-0.5-2.7-4.4-3.7-6 0 0-0.4-0.5-0.6-1.4 -0.1-0.4 0.8-0.4 0.8-0.4v-0.4h-14.9l-0.4 2.9c0 0 0 0 0.4 0 0.2-1 0.8-1.6 1.9-1.7 1.4 0 3.1 0 3.1 0V29c0 2 0 3.7-0.1 4.7 -0.1 0.6-0.2 1.1-0.6 1.2 -0.1 0-1 0.1-1.2 0.1v0.4h7.1V35c-0.3 0-0.9-0.1-1.1-0.1 -0.7-0.1-0.9-0.6-0.9-1.2 -0.1-0.9-0.1-2.7-0.1-4.7v-8.9h2.9c0.3 0.3 0.6 0.6 0.9 1 0.8 1.2 4 5.9 4.1 6.3 0.3 0.6 0.5 1.1 0.5 2.3v1.8c0 0.4 0 1.3-0.1 2.2 -0.1 0.6-0.3 1.1-0.7 1.2 -0.2 0.1-0.4 0.1-1.3 0.1v0.4h7.6V35c-0.7 0-1.2-0.1-1.5-0.1 -0.7-0.1-0.9-0.6-0.9-1.2 -0.1-0.9-0.1-1.8-0.1-2.2v-1.8c0-0.7 0-1.4 0.4-2.2 0.4-0.9 3.7-6 4.5-6.9 0.5-0.6 0.8-0.9 1.3-1.1 0.4-0.1 0.8-0.3 1-0.3 0 0 0.1 0 0.4 0v-0.4L155.7 18.9 155.7 18.9 155.7 18.9z"/><path class="st0" d="M206.7 35.1c1.5 0 5.3-0.9 5.3-6.8 0-4.5-2.7-8.9-6.8-8.9 -1.5 0-5.3 0.9-5.3 6.8C199.9 30.8 202.5 35.1 206.7 35.1L206.7 35.1zM205.8 18.6c5.2 0 9.8 3.5 9.8 8.7 0 4.5-3.6 8.7-9.4 8.7 -5.2 0-9.8-3.5-9.8-8.7C196.3 22.8 199.9 18.6 205.8 18.6L205.8 18.6z"/><path class="st0" d="M239 18.9v0.7c-1.7 0-2 0.6-2.5 2l-4.9 14.2h-0.7l-4.5-12h-0.1l-4 12h-0.7l-5.3-14c-0.7-1.9-1.1-2.1-2.3-2.2v-0.7h7.1v0.7h-0.6c-0.8 0-1.3 0.4-1.3 1 0 0.2 0.1 0.5 0.4 1.3l3.5 9.6h0.1l4-12.9h0.4l4.7 12.9h0.1l2.9-9.5c0.1-0.6 0.3-1.1 0.3-1.4 0-0.8-0.6-1-1.8-1.1v-0.7L239 18.9 239 18.9 239 18.9z"/><path class="st0" d="M239.7 29.1l2.2-6 2.6 6H239.7L239.7 29.1zM249.8 33.3L243.3 19h-0.4l-5.3 12.5c-1.3 3.2-1.8 3.4-3.5 3.5v0.7h5.8V35c-1.5 0-1.8-0.3-1.8-0.9 0-0.2 0.1-0.6 0.6-2.2l0.7-1.9h5.5l0.9 2.2c0.5 1.2 0.6 1.7 0.6 1.9 0 0.6-0.4 0.9-1.7 0.9v0.7h7.3V35C250.9 35 250.3 34.6 249.8 33.3L249.8 33.3 249.8 33.3z"/><path class="st0" d="M187.9 16.5v0.4c2.4 0 2.2 1.5 2.2 1.5v15.1 -0.1c0 0-0.1 1.5-2.3 1.5v0.4h8v-0.4c-2.2 0-2.2-1.5-2.2-1.5V18.2c0 0-0.2-1.5 2.2-1.5v-0.4l-7.9 0.1 0 0V16.5z"/><path class="st0" d="M168.7 34.6c-3.1 0-5-2.7-5-6 0-4 2.1-5.1 4-5.1 2.7 0 4.8 2.2 4.8 5.9C172.4 34 169.8 34.6 168.7 34.6L168.7 34.6zM168 35.4c4.1 0 6.7-3 6.7-6.6 0-3.7-2.5-6-6.6-6 -4.9 0-6.7 3.6-6.7 6.3C161.5 31.9 163.4 35.4 168 35.4L168 35.4z"/><path class="st0" d="M179.2 29.1c0-0.1 0-0.1 0.1-0.1 0.3 0 2 0 2.4 0.1 0.5 0.1 0.7 0.4 0.9 0.6 0.1 0.2 0.1 0.4 0.1 0.5s0 0.2 0.1 0.2c0.1 0 0.1-0.1 0.1-0.3s0-0.9 0.1-1.2c0.1-0.5 0.1-0.9 0.1-1 0-0.1 0-0.1-0.1-0.1 -0.1 0-0.1 0.1-0.2 0.1 -0.1 0.2-0.4 0.3-0.7 0.3 -0.2 0-0.4 0-0.7 0h-2.1c-0.1 0-0.1-0.1-0.1-0.1v-4c0-0.1 0.1-0.2 0.1-0.2l2.5 0.1c0.6 0 0.9 0.3 1.1 0.5 0.1 0.2 0.1 0.5 0.1 0.6 0 0.1 0.1 0.3 0.1 0.3 0.1 0 0.1-0.1 0.1-0.2 0-0.2 0.1-1.2 0.1-1.3 0.1-0.4 0.1-0.6 0.1-0.7 0-0.1-0.1-0.1-0.1-0.1s-0.1 0.1-0.3 0.1c-0.1 0.1-0.4 0.1-0.6 0.1 -0.4 0-3.7 0-4.3 0 -0.5 0-1.5-0.1-2.3-0.1 -0.2 0-0.4 0-0.4 0.1 0 0.1 0.1 0.1 0.3 0.1 0.2 0 0.5 0 0.6 0.1 0.5 0.1 0.6 0.4 0.7 0.9 0 0.5 0 1 0 3.5v2.9c0 1.6 0 2.7-0.1 3.5 -0.1 0.5-0.1 0.9-0.5 0.9 -0.1 0-0.4 0.1-0.6 0.1 -0.1 0-0.2 0.1-0.2 0.1 0 0.1 0.1 0.1 0.4 0.1 0.6 0 1.7-0.1 2.1-0.1s1.4 0.1 2.4 0.1c0.2 0 0.4-0.1 0.4-0.1s-0.1-0.1-0.3-0.1 -0.6 0-0.8-0.1c-0.5-0.1-0.6-0.4-0.6-0.9 -0.1-0.6-0.1-1.9-0.1-3.5v-1.3V29.1z"/><path class="st0" d="M12.7 4.3c0 0.5 0 1.3 0.2 1.4 0.7 0.4 1.9 0.8 2.2 1.2 0.1 0.1 0 0.9-0.3 0.8 -1.9-0.4-2-0.4-3.3-0.4 -0.1 0-0.4-0.5-0.4-1 0-0.3 0.4-0.4 0.4-0.9C11.7 5 11.6 1.9 11.6 0c0-0.4 0.1-0.6 0.5-0.6 0.4 0 0.4 0.3 0.4 0.6C12.6 1.5 12.7 3 12.7 4.3z"/><path class="st0" d="M11.6-0.1c0-0.4 0.5-0.7 0.8-0.4"/><path class="st0" d="M14.9 7c0.3 0.3 0 1-0.5 0.8 -1-0.4-1.9-0.2-2.9-0.4 -0.3-0.1-0.4-0.5-0.4-0.8"/><path class="st0" d="M12.6 1.5c0 1.3-0.1 2.6 0.1 3.9 0 0.2 0.2 0.4 0.2 0.4"/><path class="st0" d="M20.1 19.8c0.2 0 1.1-0.1 1.5 0 0.1 0 0.2 0.1 0.3 0.2 0.2 0.2 0.1 0.9 0.1 1.1 0 0.4-0.3 0.7-0.3 1.2 0 3.2 0.1 7-0.1 7.7 -0.3 1.2-0.3 1.3-0.7 1.3 -0.1 0-0.3 0-0.4-0.4 -0.1-0.3-0.1-0.7-0.1-1.3 0-1.3 0-4.7-0.1-6.1 -0.1-1.2-0.4-1.2-0.4-1.3 -0.1-0.1-0.3-0.1-0.3-0.4 -0.1-0.4 0.1-1.3 0.2-1.7C20 19.9 20 19.8 20.1 19.8z"/><path class="st0" d="M22.6 34c-1.1 0-2.8 0.1-3.1-0.2 -0.2-0.1-0.2-0.4-0.2-1 -0.1-4.1 0-8.1 0-12.2 0-0.4-0.1-0.9-0.6-0.9 -0.6 0-1.9-0.1-2 0 -0.1 0.1-0.2 0.1-0.2 0.2 -0.2 0.4-0.3 1.3-0.3 1.7 0 0.2 0.1 0.3 0.4 0.4 0.6 0.1 0.9 0.4 0.9 1.3 0.1 3 0.1 9.1-0.3 10.1 -0.2 0.5-1.2 0.8-1.3 0.3 -0.2-0.4-0.2-9.5-0.2-13.2 0-0.6-0.2-0.9-0.9-0.9 -0.9 0-1.7 0-2.7 0 -0.1 0-0.3 0.1-0.3 0.3 -0.2 0.5-0.4 1.7-0.2 1.9 0 0.1 0.1 0.2 0.3 0.2 1.2 0.1 1.8 0.7 1.8 2 0.1 1.9 0.4 9.1-0.5 9.9 -0.4 0.3-1.6 0.3-1.9 0.2 -0.2-0.1-0.4-0.3-0.4-0.4 -0.3-2.2 0.1-12.9-0.1-13.5 -0.1-0.2-0.2-0.3-0.4-0.3 -0.4-0.1-2 0-2.2-0.1 -0.1 0-0.2-0.1-0.2-0.2 0-0.4 0-0.8 0.2-1.2 0.1-0.2 0.3-0.2 0.4-0.2 4.7 0 11.4 0 14 0 0.2 0 0.4 0 0.5-0.3 0.1-0.3 0.2-1.1 0.2-1.2 0-0.1-0.1-0.2-0.3-0.2 -0.3 0-10.6 0-15.9-0.1 -0.3 0-0.8 0-0.8-0.2 -0.1-0.3-0.1-0.8 0.1-1.1 0.5-1.1 1-0.8 1.3-2.3 0.2-0.9-0.1-1.6 0.4-2.4 0.6-1 1.1-1.2 1.4-2 0.3-0.4-0.3-1.1-0.8-1 -0.4 0.2-2.5 1.6-3.7 3.5 -0.9 1.5-1.2 3.2-1.9 4.8 -0.2 0.4-0.4 0.5-1.1 0.6 -0.4 0-0.5 1.5-0.3 1.7 0.1 0 0.2 0.1 0.2 0.1 0.6 0.1 0.8 0.9 0.8 1.6 0 0 0.2 12.2-0.2 13.5 -0.3 0.9-0.4 0.8-0.7 0.9 0 0-0.1 0-0.2 0.2 -0.1 0.3-0.2 0.9-0.1 1.2 0 0.1 0.1 0.2 0.3 0.2 8 0 17.6 0 21 0 0.2 0 0.3 0 0.4-0.3 0.1-0.4 0.2-0.8 0.1-1C22.9 34 22.7 34 22.6 34zM4.6 33.7c-0.4 0.4-0.7 0.5-0.7 0.1 -0.1-3.4 0-10.4 0-10.6 0.1-0.4 0.6-0.5 0.9 0C5.2 23.9 5.3 33 4.6 33.7zM8.4 33.7C8 34.1 7.1 34.3 7 33.8 6.7 33 6.8 22.5 6.9 22.4 7 21.9 7.7 22 7.9 22.2 8.6 22.6 8.7 23 8.7 24 8.9 26.7 8.9 33 8.4 33.7z"/>
+	<image src="uihc.png" xlink:href="">
+</svg></a><div id="uiowa-search"><form class="search-form search-google-appliance-search-form" aria-label="site search" role="form" action="https://medicine.uiowa.edu/dermatology/google-search" method="post" id="uiowa-bar-search-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-search-terms form-group">
+  <label for="edit-search-terms">Search </label>
+ <input placeholder="Search this site" class="form-control form-text" type="text" id="edit-search-terms" name="search-terms" value="" size="15" maxlength="256" />
+</div>
+<input type="submit" id="edit-submit-search" name="btnG" value="Search" class="form-submit btn btn-default" /><input type="hidden" name="form_build_id" value="form-wmnC2wckt5afB8f6vpSDjzP4ukdq9a_fvYjDxL_nJK4" />
+<input type="hidden" name="form_id" value="uiowa_bar_search_form" />
+</div></form></div></div></div>  <header id="header" class="header" role="header" style="padding-top: 0px">
+            <nav class="navbar navbar-default" style="margin-bottom: 0;">
+            <div class="container-fluid">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="https://medicine.uiowa.edu">
+                        <img style="margin-left: 15px" src="https://medicine.uiowa.edu/dermatology/sites/medicine.uiowa.edu.dermatology/files/ccom_logo_2.png" alt="Home" class="logo"/>
+                    </a>
+                </div>
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a href="http://www.medicine.uiowa.edu/education">Education</a>
+                        </li>
+                        <li>
+                            <a href="http://www.medicine.uiowa.edu/research">Research</a>
+                        </li>
+                        <li>
+                            <a href="http://www.medicine.uiowa.edu/patient-care">Patient Care</a>
+                        </li>
+                        <li>
+                            <a href="http://www.medicine.uiowa.edu/about-us">About Us</a>
+                        </li>
+                        <li>
+                            <a href="http://www.medicine.uiowa.edu/about-us/departments">Departments</a>
+                        </li>
+                        <li>
+                            <a href="http://www.medicine.uiowa.edu/news">News & Events</a>
+                        </li>
+                    </ul>
+                </div><!-- /.navbar-collapse -->
+            </div><!-- /.container-fluid -->
+        </nav>
+        <div class="container">
+                    <a href="/dermatology/" rel="home" title="Home" class="site-name">
+                <h1>Department of Dermatology</h1>
+            </a>
+            </div>
+</header>
+<nav>
+    <div class="container">
+          <div class="region region-navigation">
+    <div class="block block-responsive-navigation block--none">
+
+      
+  <div class="block__content">
+    <div id="nav" class="responsive-navigation-menu-1 navigation"><ul class="responsive-navigation responsive-navigation-main-menu" id="responsive-navigation-menu-1"><li class="menu-1096 menu-path-node-246 active-trail first odd  menu-link-education"><a href="/dermatology/education">Education</a></li>
+<li class="menu-1106 menu-path-node-251  even  menu-link-research"><a href="/dermatology/research">Research</a></li>
+<li class="menu-1126 menu-path-node-271  odd  menu-link-patient-care"><a href="/dermatology/patient-care">Patient Care</a></li>
+<li class="menu-1136 menu-path-node-276  even  menu-link-about-us"><a href="/dermatology/about-us">About Us</a></li>
+<li class="menu-1196 menu-path-people-primary-appointments  odd  menu-link-people"><a href="/dermatology/people/primary-appointments" title="">People</a></li>
+<li class="menu-385 menu-path-news  even last menu-link-news--events"><a href="/dermatology/news">News &amp; Events</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+    </div>
+</nav>
+<div id="main-wrapper">
+    <div id="main" class="main">
+        <div class="container">
+                            <div id="breadcrumb" class="visible-desktop">
+                    <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/dermatology/">Home</a> » <a href="/dermatology/education">Education</a></div>                </div>
+                                    <div id="page-header">
+                                            </div>
+        </div>
+        <div id="content">
+            <div class="container">
+                <div class="content-section">
+                                            <h1 class="title">Clinical Skin Disease Images</h1>
+                                          <div class="region region-content">
+    <article class="node node-page clearfix" about="/dermatology/education/clinical-skin-disease-images" typeof="foaf:Document">
+
+  
+      <span property="dc:title" content="Clinical Skin Disease Images" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Please observe copyrights. Duplication of information or images for other than personal use requires written permission of the University of Iowa.</p>
+<p><a href="#a">A</a>  /  <a href="#b">B</a>  /  <a href="#c">C</a>  /  <a href="#d">D</a>  /  <a href="#e">E</a>  /  <a href="#f">F</a>  /  <a href="#g">G</a>  /  <a href="#h">H</a>  /  <a href="#i">I</a>  /  <a href="#k">K</a>  /  <a href="#l">L</a>  /  <a href="#m">M</a>  /  <a href="#n">N</a>  /  <a href="#o">O</a>  /  <a href="#s">S</a>  /  <a href="#t">T</a>  /  <a href="#u">U</a>  /  <a href="#v">V</a>  /  <a href="#w">W</a>  /  <a href="#x">X</a></p>
+<h2><a name="a" id="a"></a>A</h2>
+<ul><li><a href="//medicine.uiowa.edu/dermatology/acanthosis-nigricans">Acanthosis Nigricans</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/accessory-nipples">Acccessory Nipples</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/acne-conglobata">Acne Conglobata</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/acquired-acral-fibrokeratoma">Acquired Acral Fibrokeratoma</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/acrokerato-elastoidosis">Acrokerato-elastoidosis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/acromegaly">Acromegaly</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/adult-linear-iga-bullous-dermatosis">Adult Linear IgA Bullous Dermatosis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/alagilles-syndrome">Alagille's Syndrome</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/amyloidosis-lichenoid">Amyloidosis- Lichenoid</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/amyloidosis-macular">Amyloidosis- Macular</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/anetoderma">Anetoderma</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/angiocentric-t-cell-lymphoma">Angiocentric T Cell Lymphoma</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/angiolymphoid-hyperplasia-eosinophila">Angiolymphoid Hyperplasia with Eosinophila</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/anhidrotic-ectodermal-dysplasia">Anhidrotic Ectodermal Dysplasia</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/asteatosis">Asteatosis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/atabrine-pigmentation">Atabrine Pigmentation</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/athletes-foot">Athlete's Foot</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/atopic-dermatitis">Atopic Dermatitis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/atrophoderma-pasini-and-perini">Atrophoderma of Pasini and Perini</a></li>
+</ul><h2><a name="b" id="b"></a>B</h2>
+<ul><li><a href="//medicine.uiowa.edu/dermatology/basal-cell-carcinoma">Basal Cell Carcinoma</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/black-hairy-tongue">Black Hairy Tongue</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/bowens-disease">Bowen's Disease</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/bullous-pemphigoid">Bullous Pemphigoid</a></li>
+</ul><h2><a name="c" id="c"></a>C</h2>
+<ul><li><a href="//medicine.uiowa.edu/dermatology/calcinosis-cutis">Calcinosis Cutis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/calciphylaxis">Calciphylaxis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/candidiasis">Candidiasis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/cellulitis">Cellulitis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/chicken-pox">Chicken Pox</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/cholesterol-emboli">Cholesterol Emboli</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/chromomycosis">Chromomycosis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/chronic-bullous-dermatosis-childhood">Chronic Bullous Dermatosis of Childhood</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/cicatricial-bullous-pemphigoid">Cicatricial Bullous Pemphigoid</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/clear-cell-acanthoma">Clear Cell Acanthoma</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/clear-cell-hidradenoma">Clear Cell Hidradenoma</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/contact-dermatitis">Contact Dermatitis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/coxsackie" title="Coxsackie">Coxsackie</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/crab-lice">Crab Lice</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/creeping-eruption">Creeping Eruption</a></li>
+</ul><h2><a name="d" id="d"></a>D</h2>
+<ul><li><a href="//medicine.uiowa.edu/dermatology/degos-disease">Degos' Disease</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/dermatitis-herpetiformis">Dermatitis Herpetiformis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/dermatofibroma">Dermatofibroma</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/dermatomyositis">Dermatomyositis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/digital-mucous-cyst">Digital Mucous Cyst</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/discoid-lupus-erythematosus">Discoid Lupus Erythematosus</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/duhrings-disease">Duhring's Disease</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/dystrophia-mediana-canaliformis">Dystrophia Mediana Canaliformis</a></li>
+</ul><h2><a name="e" id="e"></a>E</h2>
+<ul><li><a href="//medicine.uiowa.edu/dermatology/eccrine-poroma">Eccrine Poroma</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/elastosis-perforans-serpiginosa">Elastosis Perforans Serpiginosa</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/epidermal-nevus">Epidermal Nevus</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/epidermal-bullosa-acquisita">Epidermal Bullosa Acquisita</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/erosio-interdigitalis-blastomycetica">Erosio Interdigitalis Blastomycetica</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/erythema-ab-igne">Erythema Ab Igne</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/erythema-annulare-centrifugum">Erythema Annulare Centrifugum</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/erythema-annulare-infancy">Erythema Annulare of Infancy</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/erythema-craquele">Erythema Craquele</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/erythema-induratum">Erythema Induratum</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/erythema-multiforme">Erythema Multiforme</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/erythema-nodosum">Erythema Nodosum</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/erythrasma">Erythrasma</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/exanthem">Exanthem</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/exfoliative-erythroderma">Exfoliative Erythroderma</a></li>
+</ul><h2><a name="f" id="f"></a>F</h2>
+<ul><li><a href="//medicine.uiowa.edu/dermatology/fibrokeratoma-acquired-acral">Fibrokeratoma, Acquired Acral</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/fixed-drug-eruption">Fixed Drug Eruption</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/fordyce-spots">Fordyce Spots</a></li>
+</ul><h2><a name="g" id="g"></a>G</h2>
+<ul><li><a href="//medicine.uiowa.edu/dermatology/granuloma-annulare">Granuloma Annulare</a></li>
+</ul><h2><a name="h" id="h"></a>H</h2>
+<ul><li><a href="//medicine.uiowa.edu/dermatology/hair-shaft">Hair Shaft</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/hand-foot-and-mouth-disease">Hand, Foot and Mouth Disease</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/hansens-disease">Hansen's Disease</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/henoch-schonlein-purpura-vasculitis">Henoch-Schonlein Purpura Vasculitis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/herpes-simplex">Herpes Simplex</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/herpes-simplex-congenital">Herpes Simplex- Congenital</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/herpes-zoster">Herpes Zoster</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/herpetic-whitlow">Herpetic Whitlow</a></li>
+</ul><h2><a name="i" id="i"></a>I</h2>
+<ul><li><a href="//medicine.uiowa.edu/dermatology/id-reaction">Id Reaction</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/impetigo">Impetigo</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/incontinentia-pigmenti" title="Incontinentia Pigmenti">Incontinentia Pigmenti</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/insect-bite-reaction">Insect Bite Reaction</a></li>
+</ul><h2><a name="k" id="k"></a>K</h2>
+<ul><li><a href="//medicine.uiowa.edu/dermatology/kaposis-sarcoma">Kaposi's Sarcoma</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/keratoacanthoma">Keratoacanthoma</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/koh-preparation">KOH Preparation</a></li>
+</ul><h2><a name="l" id="l"></a>L</h2>
+<ul><li><a href="//medicine.uiowa.edu/dermatology/larva-migrans">Larva Migrans</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/leishmaniasis">Leishmaniasis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/leukocytoclastic-vasculitis">Leukocytoclastic Vasculitis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/lice-head">Lice- Head</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/lice-pubic">Lice- Pubic</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/lichen-amyloidosis">Lichen Amyloidosis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/lichen-planus">Lichen Planus</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/linear-iga-bullous-dermatosis">Linear IgA Bullous Dermatosis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/lupus-erythematosus">Lupus Erythematosus</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/lupus-erythematosus-profundus">Lupus Erythematosus- Profundus</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/lupus-vulgaris">Lupus Vulgaris</a></li>
+</ul><h2><a name="m" id="m"></a>M</h2>
+<ul><li><a href="//medicine.uiowa.edu/dermatology/malignant-atrophic-papulosis">Malignant Atrophic Papulosis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/malignant-melanoma">Malignant Melanoma</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/median-nail-dystrophy">Median Nail Dystrophy</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/median-rhomboid-glossitis">Median Rhomboid Glossitis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/molluscum-contagiosum">Molluscum Contagiosum</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/monilethrix-hair-shaft">Monilethrix- Hair Shaft</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/morphea">Morphea</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/morphea-linear">Morphea- Linear</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/mucha-habermann-disease"><em>Mucha-Habermann Disease</em></a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/mycobacterium-fortuitum-infection">Mycobacterium fortuitum Infection</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/mycosis-fundoides">Mycosis Fundoides</a></li>
+</ul><h2><a name="n" id="n"></a>N</h2>
+<ul><li><a href="//medicine.uiowa.edu/dermatology/necrobiosis-lipoidica-diabeticorum">Necrobiosis Lipoidica Diabeticorum</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/neurofibromatosis">Neurofibromatosis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/nevus-anemicus">Nevus Anemicus</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/nevus-comedonicus">Nevus Comedonicus</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/nevus-melanocytic">Nevus Melanocytic</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/nevus-sebaceous">Nevus Sebaceous</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/nevus-spilus">Nevus Spilus</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/nevus-spitz-type-1">Nevus, Spitz Type 1</a></li>
+</ul><h2><a name="o" id="o"></a>O</h2>
+<ul><li><a href="//medicine.uiowa.edu/dermatology/onycholysis-distal">Onycholysis Distal</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/onychomycosis-1-candida">Onychomycosis 1- Candida</a></li>
+</ul><h2><a name="p" id="p"></a>P</h2>
+<ul><li><a href="//medicine.uiowa.edu/dermatology/paracoccidiodomycosis">Paracoccidiodomycosis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/pediculosis-capitis"><em>Pediculosis Capitis</em></a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/pediculus-humanus">Pediculus humanus</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/pediculus-pubis">Pediculus Pubis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/pemphigus-foliaceus">Pemphigus Foliaceus</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/pemphigus-vulgaris">Pemphigus Vulgaris</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/phytophotodermatitis">Phytophotodermatitis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/pigmentation-atabrine">Pigmentation-Atabrine</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/phototoxic-dermatitis">Phototoxic Dermatitis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/pili-torti">Pili Torti</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/pityriasis-lichenoides-et-varioliformis-acuta">Pityriasis Lichenoides et Varioliformis Acuta</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/pityriasis-rosea">Pityriasis Rosea</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/pityriasis-rubra-pilaris">Pityriasis Rubra Pilaris</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/poliosis-vogt-koyangi-harada-syndrome">Poliosis in Vogt-Koyangi-Harada Syndrome</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/polythelia">Polythelia</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/porokeratosis-mibelli">Porokeratosis of Mibelli</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/porokeratosis-disseminated-superficial-actinic">Porokeratosis- Disseminated Superficial Actinic</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/potassium-hydroxide-preparation">Potassium Hydroxide Preparation</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/psoriasis">Psoriasis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/pyoderma-gangrenosum">Pyoderma Gangrenosum</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/pyogenic-granuloma">Pyogenic Granuloma</a></li>
+</ul><h2><a name="s" id="s"></a>S</h2>
+<ul><li><a href="//medicine.uiowa.edu/dermatology/sarcoidosis">Sarcoidosis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/scabies">Scabies</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/seborrheic-keratosis">Seborrheic Keratosis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/shingles">Shingles</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/spitz-nevus">Spitz Nevus</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/sporotrichosis">Sporotrichosis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/squamous-cell-carcinoma">Squamous Cell Carcinoma</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/staphylococcal-scalded-skin-syndrome">Staphylococcal Scalded Skin Syndrome</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/steatocystoma-multiplex">Steatocystoma Multiplex</a></li>
+</ul><h2><a name="t" id="t"></a>T</h2>
+<ul><li><a href="//medicine.uiowa.edu/dermatology/tinea-capitis">Tinea Capitis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/tinea-corporis">Tinea Corporis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/tinea-faciale">Tinea Faciale</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/tinea-pedis">Tinea Pedis</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/tinea-versicolor">Tinea Versicolor</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/trichothiodystrophy-hair-shaft">Trichothiodystrophy- Hair Shaft</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/tuberculosis-cutaneous">Tuberculosis- Cutaneous</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/tuberous-sclerosis-koenens-tumor">Tuberous Sclerosis- Koenen's Tumor</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/tzanck-preparation">Tzanck Preparation</a></li>
+</ul><h2><a name="u" id="u"></a>U</h2>
+<ul><li><a href="//medicine.uiowa.edu/dermatology/urticaria-cold-induced">Urticaria- Cold Induced</a></li>
+</ul><h2><a name="v" id="v"></a>V</h2>
+<ul><li><a href="//medicine.uiowa.edu/dermatology/varicella-infection">Varicella Infection</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/varicella-zoster">Varicella Zoster</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/vasculitis-iga">Vasculitis- IgA</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/vasculitis-henoch-schonlein-purpura">Vasculitis- henoch-Schonlein Purpura</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/vitiligo">Vitiligo</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/verruca">Verruca</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/verruca-plana">Verruca Plana</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/vogt-koyanagi-harada-syndrome">Vogt-Koyanagi-Harada Syndrome</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/von-recklinghausens-disease">von Recklinghausen's Disease</a></li>
+</ul><h2><a name="w" id="w"></a>W</h2>
+<ul><li><a href="//medicine.uiowa.edu/dermatology/wart">Wart</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/wegeners-granulomatosis">Wegener's Granulomatosis</a></li>
+</ul><h2><a name="x" id="x"></a>X</h2>
+<ul><li><a href="//medicine.uiowa.edu/dermatology/xanthelasma">Xanthelasma</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/xanthomas-eruptive">Xanthomas (Eruptive)</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/xanthoma-palmar-striata">Xanthoma- Palmar Striata</a></li>
+<li><a href="//medicine.uiowa.edu/dermatology/xerosis">Xerosis</a></li>
+</ul></div></div></div>  </div>
+
+  
+  
+</article>
+  </div>
+                </div>
+                <div class="sidebar-section">
+                      <div class="region region-sidebar">
+    <div class="block block-menu-block block--">
+
+        <h4 class="block__title"><a href="/dermatology/education" class="active-trail">Education</a></h4>
+    
+  <div class="block__content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul class="menu"><li class="first leaf menu-mlid-2476 menu-link-medical-student-clerkship"><a href="/dermatology/education/medical-student-clerkship">Medical Student Clerkship</a></li>
+<li class="leaf menu-mlid-1101 menu-link-residency-program"><a href="https://gme.medicine.uiowa.edu/dermatology-residency">Residency Program</a></li>
+<li class="leaf menu-mlid-1216 menu-link-fellowship-program"><a href="https://gme.medicine.uiowa.edu/micrographic-surgery-and-dermatologic-oncology-fellowship">Fellowship Program</a></li>
+<li class="last leaf active-trail active menu-mlid-1161 active active menu-link-clinical-skin-disease-images"><a href="/dermatology/education/clinical-skin-disease-images" class="active-trail active">Clinical Skin Disease Images</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+                </div>
+            </div>
+        </div>
+    </div> <!-- /#main -->
+</div> <!-- /#main-wrapper -->
+<footer id="footer" class="footer" role="footer">
+    <div class="container">
+        <div>
+            <img src="/dermatology/sites/all/themes/ccom_base/assets/images/ccom-footer-logo.svg" alt="University of Iowa Carver College of Medicine Logo" title="University of Iowa Carver College of Medicine Logo" style="width: 50%;"/>
+            <address>
+                <p>University of Iowa<br> 
+Roy J. and Lucille A. Carver College of Medicine<br>
+	Department of Dermatology<br>
+	200 Hawkins Drive<br>
+40025 Pomerantz Family Pavilion<br>
+	Iowa City, IA 52242-1089<br>
+	<br>
+	Chair and Department Executive Officer: Janet A. Fairley, MD</p>
+            </address>
+        </div>
+        <div class="right-col">
+            <div class="social">
+                            </div>
+            <p>Copyright &copy; 2019 The University of Iowa. All Rights Reserved
+                <br/>
+                <a href="https://medcom.uiowa.edu/bugzilla/enter_bug.cgi" target="_blank">Report an issue with this page</a>
+                <br/>
+                <a href="http://www.uiowa.edu/homepage/online-privacy-information">Web Privacy Policy</a>
+                |
+                <a href="http://opsmanual.uiowa.edu/community-policies/nondiscrimination-statement">Nondiscrimination Statement</a>
+            </p>
+        </div>
+    </div>
+</footer>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"0d087e85bb","applicationID":"51794160","transactionName":"ZQNSZkZYXkBQAhVYW1xJcVFAUF9dHg8OVVFtFlFVUWZGWlQW","queueTime":0,"applicationTime":89,"atts":"SURREA5CTU4=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

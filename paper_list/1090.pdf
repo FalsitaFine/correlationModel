@@ -1,0 +1,682 @@
+﻿
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4746500-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-4746500-4');
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>The Medical Biochemistry Page</title>
+<link rel="shortcut icon" href="favicon.ico" />
+<link rel="stylesheet" type="text/css" href="css/centerstyle.css" />
+
+<meta name="keywords" content="biochemistry, medical biochemistry, disease, diabetes, medicine, physiology, pharmacology, pathology" />
+ 
+<meta name="description" content="The Medical Biochemistry Page is a portal for the understanding of biochemical, metabolic, and physiological processes with an emphasis on medical relevance" />
+<meta name="google-site-verification" content="BINMjmkvX0wHrB-4JXhAM8by_K5KcDQkJ7kqUjqKhYw" />
+<meta name="verify-v1" content="QclCznahh3TN6JYPo+SLX/zdkH0r8E/iMZzdTwIKBf0=" />
+<meta name="alexaVerifyID" content="mJ_77OwD8UBwWT4ppDgzpfwMFy4" />
+
+
+</head>
+<body>
+<script> google_analytics_domain_name=".themedicalbiochemistrypage.org"  </script>
+<div id="content">
+
+<div id="header">
+	
+<img style="text-align:center" src="/images/title.jpg" alt="The Medical Biochemistry Page" title="The Medical Biochemistry Page" />
+	
+<center>
+<span style="font-family: Arial, Helvetica, sans-serif"><span style="font-size: 10pt">copyright &#169; 1996-2019 themedicalbiochemistrypage, LLC</span></span>
+</center>
+</div>
+<br />
+<div id="header2">
+<form action="https://www.google.com" id="cse-search-box" target="_blank">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-0170489783089944:7561872190" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="40" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+
+<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=">
+</script>
+
+    </div>
+<div id="leftsponsors">
+<table border="0" cellpadding="0">
+<tr>
+<td align="left">
+
+<a href="https://twitter.com/medicalbiochem" target="_blank"><img style="text-align:center" src="/images/twitter-22x22.jpg" alt="Follow site on Twitter" title="Follow site on Twitter" /></a>
+&nbsp;
+<a href="https://www.facebook.com/medicalbiochem" target="_blank"><img style="text-align:center" src="/images/facebook-22x22.jpg" alt="Follow site on Facebook" title="Follow site on Facebook" /></a>
+&nbsp;
+<a href="https://therantingsofamadscientist.blogspot.com/" target="_blank"><img style="text-align:center" src="/images/blogspot-22x22.jpg" alt="madscientist blog" title="madscientist blog" /></a>
+&nbsp;
+<a href="http://www.dmca.com/Protection/Status.aspx?ID=48406b7d-c095-4e52-b0bc-aa303e76bd95" title="DMCA.com Protection Status" class="dmca-badge"> <img src="//images.dmca.com/Badges/dmca_copyright_protected150b.png?ID=48406b7d-c095-4e52-b0bc-aa303e76bd95" alt="DMCA.com Protection Status"></a> <script src="//images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
+<hr />
+</td>
+</tr>
+<tr>
+<td align="left">
+<span style="font-family: Arial, Helvetica, sans-serif"><span style="font-size: 10pt">
+<a href="https://themedicalbiochemistrypage.org/es" title="Version en Espa&#0241;ol">Version en Espa&#0241;ol</a>
+	<br />(no actualizado)</span></span>
+<hr />
+</td>
+</tr>
+<tr>
+<td align="left">
+<span style="font-family: Arial, Helvetica, sans-serif"><span style="font-size: 10pt">
+<a href="mailto:info@themedicalbiochemistrypage.org" title="Contact The Medical Biochemistry Page">Contact</a></span></span>
+<hr />
+</td>
+</tr>
+<tr>
+<td align="left">
+<span style="font-family: Arial, Helvetica, sans-serif"><span style="font-size: 10pt">
+<a href="https://plus.google.com/u/0/107936489087169812519#107936489087169812519/posts?rel=author">Author Validation</a>
+</span></span>
+<hr />
+</td>
+</tr>
+<tr>
+<td align="left">
+<span style="font-family: Arial, Helvetica, sans-serif"><span style="font-size: 10pt">
+<a href="privacypolicy.php" title="privacy policies for themedicalbiochemistrypage.org">Privacy Policies</a></span></span>
+<hr />
+</td>
+</tr>
+<tr>
+<td align="left">
+<span style="font-family: Arial, Helvetica, sans-serif"><span style="font-size: 10pt">
+<a href="termsofuse.php" title="terms of use for themedicalbiochemistrypage.org">Terms of Use</a></span></span>
+<hr />
+</td>
+</tr>
+<tr>
+<td align="left">
+<span style="font-family: Arial, Helvetica, sans-serif"><span style="font-size: 10pt">
+<a href="tmbp-advertising.php" title="advertising on themedicalbiochemistrypage.org">Advertise with us</a></span></span>
+<hr />
+</td>
+</tr>
+<tr>
+<td>
+<map name="mededportal">
+   <area shape="rect" coords="1, 3, 216, 56" href="http://www.aamc.org/mededportal" alt="MedEdPORTAL"/>
+  </map>
+<img src="/images/mededportal.jpg" usemap="#mededportal" alt="MedEdPortal logo" title="MedEdPortal logo" />
+<hr />
+</td>
+  </tr>
+<tr>
+<td>
+	<span style="font-family: Arial, Helvetica, sans-serif"><span style="font-size: 10pt">Dealing with Disease and Health issues? Learn the ins and outs of <a href="https://www.mymed.com/" target="_blank" title="common illness causes, symptoms and treatments at MyMed.com">common illness causes, symptoms and treatments at MyMed.com</a></span></span>
+<hr />
+</td>
+  </tr>
+</table>
+</div>
+<div id="subjects">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td style="width: 50%">
+<div class="menu">
+
+<ul style="left: 0px; top: 0px">
+     <li class="sub2"><a href="http://supplementscience.org" target="_blank" title="Supplement Science site">
+	Dietary Supplement Science</a></li>
+    <li class="sub2"><a href="tmbp-sitemap.php" title="Alphabetic listing of all pages in this site">
+	Site Map</a>
+    </li>
+<!-- start navigation -->
+<div id="navigation">
+<ul id="nav">
+<!-- main item 1 -->
+<li class="item1"><a href="#nogo" title="Links to abbreviations, clinical terms, etc. pages"><span>Resources Pages</span></a>
+<!-- dropdown or flyout 1 -->
+<ul>
+    <li class="sub"><a href="abbreviations.php" title="Abbreviations used in pages of site">
+	Abbreviations</a></li>
+    <li class="sub"><a href="alldiseases.php" title="Alphabetic list of all disease pages">
+	List of all Disease Pages</a></li>
+	<li class="sub"><a href="references.php" title="Listings of peer-reviewed papers for site reference">
+	Peer-Reviewed References for Site</a></li>
+	<li class="sub"><a href="glossary.php" title="Glossary of medical/clinical terms used in pages of site">
+	Glossary of Medical/Clinical Terms</a></li>
+	<li class="sub"><a href="bloodtests.php" title="Clinical laboratory data">
+	Clinical Lab Data: Blood Test Values</a></li>
+	<li class="sub"><a href="awards.php" title="Awards/honors site has received">
+	Website Awards</a></li>
+	</ul>
+</li>
+</ul>
+</div>
+<!-- end navigation -->
+ 
+<!-- start navigation -->
+<div id="navigation">
+<ul id="nav">
+<!-- main item 1 -->
+<li class="item1"><a href="#nogo" title="Foundational chemistry/biochemistry pages"><span>Foundational Subjects</span></a>
+<!-- dropdown or flyout 1 -->
+<ul>
+    <li class="sub"><a href="ionic-equilibrium.php" title="Ionic Equilibria">
+	Ionic Equilibria Review</a></li>
+    <li class="sub"><a href="thermodynamics.php" title="Thermodynamics">
+	Thermodynamics Review</a> </li>
+    <li class="sub"><a href="enzyme-kinetics.php" title="Enzyme Kinetics">
+	Enzyme Kinetics</a></li>
+	</ul>
+</li>
+</ul>
+</div>
+<!-- end navigation --> 
+
+<!-- start navigation -->
+<div id="navigation">
+<ul id="nav">
+<!-- main item 1 -->
+<li class="item1"><a href="#nogo" title="Nutrition related topics"><span>Nutrition Topics</span></a>
+<!-- dropdown or flyout 1 -->
+<ul>
+     <li class="sub"><a href="vitamins.php" title="Vitamins">
+    Vitamins: Micronutrients</a></li>
+    <li class="sub"><a href="minerals.php" title="Minerals: critical micronutrients">
+	Minerals: Micronutrients</a></li>
+	</ul>
+</li>
+</ul>
+</div>
+<!-- end navigation -->
+
+<!-- start navigation -->
+<div id="navigation">
+<ul id="nav">
+<!-- main item 1 -->
+<li class="item1"><a href="#nogo" title="Amino acids and Protein pages"><span>Amino Acids &amp; Proteins</span></a>
+<!-- dropdown or flyout 1 -->
+<ul>
+    <li class="sub"><a href="amino-acids.php" title="Basic chemistry of amino acids">
+	Basic Chemistry of Amino Acids</a></li>
+    <li class="sub"><a href="protein-structure.php" title="Protein Structure">
+	Protein Structure and Analysis</a></li>
+    <li class="sub"><a href="hemoglobin-myoglobin.php" title="Hemoglobin and Myoglobin">
+	Hemoglobin and Myoglobin</a></li>
+    <li class="sub"><a href="amino-acid-metabolism.php" title="Synthesis and metabolism of amino acids">
+	Amino Acid Metabolism</a></li>
+    <li class="sub"><a href="aminoacidderivatives.php" title="Neurotransmitters, nitric oxide, and more">
+	Amino Acid Derivatives</a></li>
+	</ul>
+</li>
+</ul>
+</div>
+<!-- end navigation -->  
+
+<!-- start navigation -->
+<div id="navigation">
+<ul id="nav">
+<!-- main item 1 -->
+<li class="item1"><a href="#nogo" title="Carbohydrate metabolism pages"><span>Carbohydrate Biochemistry</span></a>
+<!-- dropdown or flyout 1 -->
+<ul>
+    <li class="sub"><a href="carbohydrates.php" title="Basic chemistry of carbohydrates">
+	Basic Chemistry of Carbohydrates</a></li>
+    <li class="sub"><a href="glycolysis.php" title="Glycolysis and regulation of blood glucose">
+	Glycolysis: Regulating Blood Glucose</a></li>
+	<li class="sub"><a href="fructose.php" title="Metabolism of fructose, related dysfunctions">
+	Fructose Metabolism</a></li>
+  	<li class="sub"><a href="galactose.php" title="Metabolism of galactose, related dysfunctions">
+	Galactose Metabolism</a></li>
+    <li class="sub"><a href="gluconeogenesis.php" title="Gluconeogenesis, the synthesis of new glucose">
+	Gluconeogenesis</a></li>
+	<li class="sub"><a href="glycogen.php" title="Glycogen synthesis and metabolism">
+	Glycogen Metabolism</a></li>
+    <li class="sub"><a href="pentose-phosphate-pathway.php" title="Pentose phosphate pathway">
+	Pentose Phosphate Pathway</a></li>
+    <li class="sub"><a href="tca-cycle.php" title="Pyruvate dehydrogenase and the TCA cycle">The TCA Cycle 
+	and PDH</a></li>
+	<li class="sub"><a href="ethanol-metabolism.php" title="Metabolism of ethanol: acute &amp; chronic effects">
+	Ethanol (Alcohol) Metabolism</a></li>
+	</ul>
+</li>
+</ul>
+</div>
+<!-- end navigation --> 
+
+<!-- start navigation -->
+<div id="navigation">
+<ul id="nav">
+<!-- main item 1 -->
+<li class="item1"><a href="#nogo" title="Lipid metabolism pages"><span>Lipid Biochemistry</span></a>
+<!-- dropdown or flyout 1 -->
+<ul>
+     <li class="sub"><a href="lipids.php" title="Basic chemistry of lipids">
+	Basic Chemistry of Lipids</a></li>
+    <li class="sub"><a href="lipid-synthesis.php" title="Fatty acid, triglyceride, and phospholipid synthesis">
+	Fatty Acids, Triglycerides, Phospholipids</a></li>
+	<li class="sub"><a href="sphingolipids.php" title="Synthesis and metabolism of sphingolipids and ceramides">
+	Sphingolipid &amp; Ceramide Metabolism</a></li>
+	<li class="sub"><a href="eicosanoids.php" title="Synthesis and metabolism of prostaglandins, leukotrienes, thromboxanes">Eicosanoids: PGs, TXs, LTs, and LXs</a></li>
+    <li class="sub"><a href="fatty-acid-oxidation.php" title="Fat mobilization &amp; oxidation of fatty acids">
+	Lipolysis &amp; Fatty Acid Oxidation</a></li>
+    <li class="sub"><a href="cholesterol.php" title="Synthesis and metabolism of cholesterol">
+	Cholesterol Metabolism</a></li>
+    <li class="sub"><a href="bileacids.php" title="Synthesis and metabolism of bile acids">
+	Bile Acid Synthesis &amp; Functions</a></li>
+    <li class="sub"><a href="lipoproteins.php" title="Lipoproteins, metabolism and diseases">
+	Lipoproteins</a></li>
+    <li class="sub"><a href="ethanol-metabolism.php" title="Metabolism of ethanol: acute &amp; chronic effects">
+	Ethanol (Alcohol) Metabolism</a></li>
+	<li class="sub"><a href="omegafats.php" title="Biological activities of the omega-3 and -6 PUFAs">
+	Omega-3 &amp; -6 Fatty Acid Functions</a></li>
+    <li class="sub"><a href="bioactivelipids.php" title="Bioactive lipids and lipid-sensing receptors">
+	Bioactive Lipids &amp; Lipid Receptors</a></li>
+	<li class="sub"><a href="aspirin.php" title="Bioactive lipids and the actions of aspirin">
+	Lipid-Derived Inflammatory Modulators</a></li>
+	<li class="sub"><a href="endocannabinoids.php" title="biological actions of endocannabinoids">
+	The Endocannabinoids</a></li>
+	<li class="sub"><a href="krilloil.php" title="Clinical benefits of Krill oil">
+	Krill oils: Clinical Benefits</a></li>
+	</ul>
+</li>
+</ul>
+</div>
+<!-- end navigation -->  
+    
+<!-- start navigation -->
+<div id="navigation">
+<ul id="nav">
+<!-- main item 1 -->
+<li class="item1"><a href="#nogo" title="Pathways of energy generation"><span>Production of Energy</span></a>
+<!-- dropdown or flyout 1 -->
+<ul>
+    <li class="sub"><a href="mitochondria.php" title="Mitochondria: Functions and Biogenesis">
+	Mitochondria</a></li>
+	<li class="sub"><a href="tca-cycle.php" title="Pyruvate dehydrogenase and the TCA cycle">The TCA Cycle 
+	and PDH</a></li>
+	<li class="sub"><a href="oxidative-phosphorylation.php" title="Oxidative phospharylation">
+	Oxidative Phosphorylation</a></li>
+	</ul>
+</li>
+</ul>
+</div>
+<!-- end navigation -->  
+
+<!-- start navigation -->
+<div id="navigation">
+<ul id="nav">
+<!-- main item 1 -->
+<li class="item1"><a href="#nogo" title="Nucleic acid metabolism pages"><span>Nucleic Acid Biochemistry</span></a>
+<!-- dropdown or flyout 1 -->
+<ul>
+    <li class="sub"><a href="nucleic-acids.php" title="Basic chemistry of nucleic acids">
+	Basic Chemistry of Nucleic Acids</a></li>
+	<li class="sub"><a href="nucleotide-metabolism.php" title="Synthesis and metabolism of the nucleotides">
+	Nucleotide Metabolism</a></li>
+	</ul>
+</li>
+</ul>
+</div>
+<!-- end navigation --> 
+    
+<!-- start navigation -->
+<div id="navigation">
+<ul id="nav">
+<!-- main item 1 -->
+<li class="item1"><a href="#nogo" title="Nitrogen and Metal (iron and copper) Biochemistry"><span>Nitrogen and Metal Biochemistry</span></a>
+<!-- dropdown or flyout 1 -->
+<ul>
+	<li class="sub"><a href="iron-copper.php" title="Iron and Copper homeostasis">
+    Iron and Copper Metabolism</a></li>
+    <li class="sub"><a href="nitrogen-metabolism.php" title="Nitrogen homeostasis and waste removal as urea">
+	Nitrogen Metabolism &amp; the Urea Cycle</a></li>
+    <li class="sub"><a href="heme-porphyrin.php" title="Synthesis and metabolism of porphyrins and heme">
+	Heme &amp; Porphyrin Metabolism</a></li>
+	</ul>
+</li>
+</ul>
+</div>
+<!-- end navigation -->   
+
+<!-- start navigation -->
+<div id="navigation">
+<ul id="nav">
+<!-- main item 1 -->
+<li class="item1"><a href="#nogo" title="Topics of cellular organization"><span>Cellular Structure &amp; Organization</span></a>
+<!-- dropdown or flyout 1 -->
+<ul>
+    <li class="sub"><a href="membranes.php" title="Membranes and Membrane Transport">
+	Biological Membranes and Transport</a> </li>
+    <li class="sub"><a href="mitochondria.php" title="Mitochondria: Functions and Biogenesis">
+	Mitochondria</a></li>
+	<li class="sub"><a href="glycoproteins.php" title="Synthesis of glycoproteins and clinical implications">
+	Glycoproteins: Clinical Correlations</a></li>
+    <li class="sub"><a href="glycans.php" title="Glycosaminoglycans and proteoglycans">
+	Glycosaminoglycans and Proteoglycans</a></li>
+    <li class="sub"><a href="extracellularmatrix.php" title="Extracellular matrix">
+	The Extracellular Matrix</a></li>
+	<li class="sub"><a href="cell-turnover.php" title="processes of protein, organelle, and cell turnover">
+	Protein, Organelle, and Cell Turnover</a></li>
+	</ul>
+</li>
+</ul>
+</div>
+<!-- end navigation -->   
+
+<!-- start navigation -->
+<div id="navigation">
+<ul id="nav">
+<!-- main item 1 -->
+<li class="item1"><a href="#nogo" title="Links to pages on EtOH metablism, PPARs, LXR, FXR, PGC-1&#945;, DPP4, Nuclear Receptors"><span>Specialized Subjects</span></a>
+<!-- dropdown or flyout 1 -->
+<ul>
+    <li class="sub"><a href="cell-turnover.php" title="processes of protein, organelle, and cell turnover">
+	Protein, Organelle, and Cell Turnover</a></li>
+	<li class="sub"><a href="renal-transporters.php" title="biochemistry, physiology, pharmacology, pathology of renal transport">
+	Biochemistry of Renal Transport</a></li>
+	<li class="sub"><a href="ethanol-metabolism.php" title="Metabolism of ethanol: acute &amp; chronic effects">
+	Ethanol (Alcohol) Metabolism</a></li>
+    <li class="sub"><a href="ampk.php" title="AMP-regulated protein kinase and metabolic regulation">
+	AMPK: Master Metabolic Regulator</a></li>
+	<li class="sub"><a href="mitochondria.php" title="Mitochondria: Functions and Biogenesis">
+	Mitochondria</a></li>
+    <li class="sub"><a href="endocannabinoids.php" title="biological actions of endocannabinoids">
+	The Endocannabinoids</a></li>
+    <li class="sub"><a href="cytochromep450.php" title="Cytochrome P450 metabolizing enzymes">
+	Cytochrome P450 Metabolizing Enzymes</a></li>
+    <li class="sub"><a href="dpp4.php" title="Dipeptidylpeptidase 4, DPP4">
+	Dipeptidylpeptidase 4, DPP4</a></li>
+	<li class="sub"><a href="nuclear.php" title="Nuclear receptors and metabolism">
+	Nuclear Receptors in Metabolism</a></li>
+	<li class="sub"><a href="ppar.php" title="Peroxisome proliferator-activated receptors: PPARs">
+	PPAR&#945;, PPAR&#946;/&#948;, PPAR&#947;</a></li>
+	<li class="sub"><a href="lxr.php" title="Liver X receptors, LXRs">
+	Liver X receptors, LXRs</a></li>
+	<li class="sub"><a href="fxr.php" title="Farnesoid X receptors, FXRs">
+	Farnesoid X receptors, FXRs</a></li>
+	<li class="sub"><a href="pgc1.php" title="Peroxisome proliferator-activated receptor-&#947; co-activator 1 &#945;, PGC-1&#945;">PGC-1&#945;</a></li>
+    <li class="sub"><a href="wnts-tgfs-bmps.php" title="Wnt, TGF&#946;, and BMP Signaling">
+	Wnt, TGF&#946;, and BMP Signaling</a></li>
+    </ul>
+	
+</li>
+</ul>
+</div>
+<!-- end navigation -->
+
+ 
+	</ul>
+</div>
+</td>
+<td style="width: 50%">
+<div class="menu" style="z-index:400;">
+<ul style="left: -8px; top: 0px">
+	<li class="sub2"><a href="index.php" title="most recent update to page"><span style="color: black">Last updated 
+		August 9, 2019</span></a></li>
+    <li class="sub2"><a href="updates.php" title="recent updates to site pages">
+	Recent Updates: August 2019</a></li>
+       
+
+    <li class="sub"><a href="inborn.php" title="Links to pages covering inborn errors in metabolism">
+	Diseases and Disorders Pages</a></li>
+    
+<!-- start navigation -->
+<div id="navigation">
+<ul id="nav">
+<!-- main item 1 -->
+<li class="item1"><a href="#nogo" title="Links to pages on DNA, RNA, &amp; Protein Metabolism"><span>DNA, RNA, &amp; Protein Metabolism</span></a>
+<!-- dropdown or flyout 1 -->
+<ul>
+    <li class="sub"><a href="dna.php" title="Structure of chromosomal DNA and its synthesis and metabolism">
+	DNA: Replication &amp; Repair</a></li>
+    <li class="sub"><a href="rna.php" title="Transcription and processing of RNA">
+	RNA: Transcription &amp; Processing</a></li>
+    <li class="sub"><a href="protein-synthesis.php" title="Translation: the processes of protein synthesis">Protein 
+		Synthesis: Translation</a></li>
+    <li class="sub"><a href="protein-modifications.php" title="Post-translational modification of proteins">
+	Protein Modifications and Targeting</a></li>
+    <li class="sub"><a href="glycoproteins.php" title="Synthesis of glycoproteins and clinical implications">
+	Glycoproteins: Clinical Correlations</a></li>
+    <li class="sub"><a href="cell-turnover.php" title="Processes of protein, organelle, and cell turnover">
+	Protein, Organelle, and Cell Turnover</a></li>
+    </ul>
+</li>
+</ul>
+</div>
+<!-- end navigation -->
+
+<!-- start navigation -->
+<div id="navigation">
+<ul id="nav">
+<!-- main item 1 -->
+<li class="item1"><a href="#nogo" title="Links to pages on insulin function and diabetes"><span>Insulin &amp; Diabetes</span></a>
+<!-- dropdown or flyout 1 -->
+<ul>
+    <li class="sub"><a href="insulin.php" title="Actions and functions of insulin">
+	Insulin Action</a></li>
+	<li class="sub"><a href="diabetes.php" title="Type 1 and 2 diabetes mellitus">
+	Diabetes: Type 1 and Type 2</a></li>
+	<li class="sub"><a href="diabetic-ketoacidosis.php" title="Diabetic ketoacidosis, DKA">
+	Diabetic Ketoacidosis</a></li>
+    </ul>
+</li>
+</ul>
+</div>
+<!-- end navigation -->
+	<li class="sub"><a href="gut-brain.php" title="Gastrointestinal system and brain interactions in the control of feeding behavior">Gut-Brain: Control of Feeding Behaviors</a></li>
+    <!-- start navigation -->
+<div id="navigation">
+<ul id="nav">
+<!-- main item 1 -->
+<li class="item1"><a href="#nogo" title="Links to pages on obesity and related matabolic disorder"><span>Adipose Tissue &amp; Obesity</span></a>
+<!-- dropdown or flyout 1 -->
+<ul>
+    <li class="sub"><a href="adipose-tissue.php" title="Adipose tissue: metabolism and inflammation">
+	Adipose Tissue: Not Just Fat</a></li>
+	<li class="sub"><a href="obesity.php" title="Obesity: The Emerging Epidemic">
+	Obesity: Metabolic Consequences</a></li>
+    <li class="sub"><a href="metabolic-syndrome.php" title="The Metabolic Syndrome">
+	The Metabolic Syndrome: MetS</a></li>
+    </ul>
+</li>
+</ul>
+</div>
+<!-- end navigation -->
+
+<!-- start navigation -->
+<div id="navigation">
+<ul id="nav">
+<!-- main item 1 -->
+<li class="item1"><a href="#nogo" title="Links to pages on steroid and peptide hormones"><span>Hormones: Steroid &amp; Peptide</span></a>
+<!-- dropdown or flyout 1 -->
+<ul>
+    <li class="sub"><a href="hormone-table.php" title="A table listing numerous hormones">
+	Table of Common Vertebrate Hormones</a></li>
+    <li class="sub"><a href="steroid-hormones.php" title="Synthesis and metabolism of steroid hormones">
+	Steroid Hormones and Receptors</a></li>
+    <li class="sub"><a href="peptide-hormones.php" title="Synthesis and metabolism of peptide hormones">
+	Peptide Hormones and Receptors</a></li>
+    </ul>
+</li>
+</ul>
+</div>
+<!-- end navigation -->
+
+<!-- start navigation -->
+<div id="navigation">
+<ul id="nav">
+<!-- main item 1 -->
+<li class="item1"><a href="#nogo" title="Links to pages on cellular and molecular biology"><span>Cellular &amp; Molecular Biology</span></a>
+<!-- dropdown or flyout 1 -->
+<ul>
+    <li class="sub"><a href="gene-regulation.php" title="Mechanisms used to control the expression of genes">
+	Control of Gene Expression</a></li>
+    <li class="sub"><a href="cell-cycle.php" title="The eukaryotic cell cycle">
+	The Cell Cycle</a></li>
+    <li class="sub"><a href="growth-factors.php" title="Growth factors & tissue-derived modulators">
+	Growth Factors and Tissue "kines"</a></li>
+    <li class="sub"><a href="signal-transduction.php" title="Signal transduction">
+	Signal Transduction</a></li>
+   <li class="sub"><a href="cell-turnover.php" title="processes of protein, organelle, and cell turnover">
+	Protein, Organelle, and Cell Turnover</a></li>
+    <li class="sub"><a href="molecular-medicine.php" title="Molecular biology tools: use in diagnosis &amp; treatment of disease">Molecular Tools of Medicine</a></li>
+    </ul>
+</li>
+</ul>
+</div>
+<!-- end navigation -->
+
+<!-- start navigation -->
+<div id="navigation">
+<ul id="nav">
+<!-- main item 1 -->
+<li class="item1"><a href="#nogo" title="Links to pages on biochemical processes of the nervous systems"><span>Nervous System Biochemistry</span></a>
+<!-- dropdown or flyout 1 -->
+<ul>
+    <li class="sub"><a href="nerves.php" title="Synthesis and actions of several neurotransmitters">
+	Biochemistry of Nerve Transmission</a></li>
+    <li class="sub"><a href="opioids.php" title="Opioids and Opioid Receptors">
+	Opioids and Opioid Receptors</a></li>
+   <li class="sub"><a href="endocannabinoids.php" title="biological actions of endocannabinoids">
+	The Endocannabinoids</a></li> 
+    </ul>
+</li>
+</ul>
+</div>
+<!-- end navigation -->
+  
+    <li class="sub"><a href="renal-transporters.php" title="biochemistry, physiology, pharmacology, pathology of renal transport">
+	Biochemistry of Renal Transport</a></li>
+       <li class="sub"><a href="muscle.php" title="Biochemistry of muscle proteins">
+	Muscle Biochemistry</a></li>
+<li class="sub"><a href="blood-coagulation.php" title="Hemostasis: the process of blood coagulation">
+	Blood Coagulation</a></li>
+<!-- start navigation -->
+<div id="navigation">
+<ul id="nav">
+<!-- main item 1 -->
+<li class="item1"><a href="#nogo" title="Links to pages on topics of cancer"><span>Cancer</span></a>
+<!-- dropdown or flyout 1 -->
+<ul>
+     <li class="sub"><a href="oncogene.php" title="Oncogenes and cancer">
+	Oncogenes and Cancer</a></li>
+    <li class="sub"><a href="tumor-suppressors.php" title="Tumor suppressor genes and cancer">
+	Tumor Suppressors and Cancer</a></li>
+    </ul>
+</li>
+</ul>
+</div>
+<!-- end navigation -->
+    
+   </li>
+   </ul>
+</div>
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+	<br />
+	<br />
+	<h4 class="h-ridge"><span style="font-size: 10pt"><strong>Partner Links:</strong></span></h4>
+
+
+	</td>
+	</tr>
+	<tr>
+	<td>&nbsp;
+	</td></tr>
+	<tr>
+	<td colspan="2">
+	<div style="float:left" class="rectangleLeft">
+		<span style="font-family: Arial, Helvetica, sans-serif"><span style="font-size: 10pt"><a href="https://www.topbrainenhancements.com" target="_blank" title="2019 Best Supplements for Focus, Memory and Concentration"><img src="https://www.topbrainenhancements.com/wp-content/uploads/2019/05/topbrainenhanements.com_-e1558580421772.png" title="2019 Best Supplements for Focus, Memory and Concentration" /></a></span></span>
+		</div>
+	<div style="float:right" class="rectangleRight">
+	<span style="font-family: Arial, Helvetica, sans-serif"><span style="font-size: 10pt"><a href="https://www.topmalenhancement.com/" target="_blank" title="Does Male Enhancement Really Work That Fast" /><img src="https://www.topmalenhancement.com/wp-content/uploads/2019/05/ez-bottle.png" title="Does Male Enhancement Really Work That Fast" /></a></span></span>
+	</div>
+		</td>
+	</tr>
+	
+</table>
+
+</div>
+<div id="rightsponsors">
+<table border="0" cellpadding="0">
+
+<tr>
+<td align="center">
+<a href="http://www.amazon.com/Integrative-Medical-Biochemistry-Examination-Review/dp/0071786120"  target="_blank">Buy Now!!!</a>
+<h3><img src="images/king-textbook.jpg" 
+alt="Integrative Medical Biochemistry" title="Integrative Medical Biochemistry" />
+</h3>
+<h4><a href="firsteditioncorrections.php" title="listing of errors found in 1st edition, 1st printing">Minor errors 1<sup>st</sup> edition</a>	
+	</h4>
+<hr />
+</td>
+</tr>
+<tr>
+<td align="left">
+<h4><span style="font-size: 10pt">Partner Links: </span></h4>
+	<br />
+<span style="font-family: Arial, Helvetica, sans-serif"><span style="font-size: 10pt">Top health and fitness supplement reviews for 2019 at <a href="http://supplementyouneed.com/">Supplementyouneed.com</a></span></span>
+	<br /><br />
+<span style="font-family: Arial, Helvetica, sans-serif"><span style="font-size: 10pt">Customize your research papers with experts from <a href="https://www.advancedwriters.com/custom-research-paper/">AdvancedWriters.com</a></span></span>
+</h4>
+	
+<hr />
+</td>
+</tr>
+</table>
+  
+</div>
+<h3>
+	
+</h3>
+<h3>	
+	
+</h3>
+<h3>
+<div style="float:left" class="rectangleLeft">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+</script>
+<!-- TMBP large rectangle -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-0170489783089944"
+     data-ad-slot="3940934043"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div style="float:right" class="rectangleRight">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+</script>
+<!-- TMBP large rectangle -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-0170489783089944"
+     data-ad-slot="3940934043"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</h3>
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</body>
+
+</html>

@@ -1,0 +1,395 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- CMS Strata (c)2003-2019 AMA DataSet Limited (www.ama.uk.com) [CONTENT MANAGEMENT SYSTEM 0.9.39-alpha-web50-glowm_www2] start:0.022}-->
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="en">    
+        <head>
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1130.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+            <meta http-equiv="Page-Enter" content="blendTrans(Duration=0.1)" />
+            <meta http-equiv="Page-Exit" content="blendTrans(Duration=0.1)" />
+            <meta http-equiv="Reply-to" content="support@ama.uk.com" />
+            <meta name="generator" content="CMS Strata - AMA DataSet Limited" />
+            <meta name="description" content="" />
+            <meta name="keywords" content="" />
+            <meta name="robots" content="index, follow" />
+            <meta property="og:url" content="https://www.glowm.com/resource_type/resource/textbook/title/a-textbook-of-gynecology-for-less-resourced-locations/resource_doc/35"/>
+        <meta name='viewport' content='width=device-width, initial-scale=1'>
+                
+            <title>A Textbook of Gynecology for Less-Resourced Locations | Resource: Textbook | GLOWM</title>        
+            <link rel="icon" href="/images/favicon.ico" type="image/vnd.microsoft.icon"/>
+            <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+            <link rel="apple-touch-icon" href="/images/favicon.ico"/>
+            <!--[if lt IE 9]><link type="text/css" rel="stylesheet" href="/css/IE8.css?1441200076" media="all" /><![endif]-->
+            <link type="text/css" rel="stylesheet" href="/cms/css/bootstrap/bootstrap.css?1486648792" media="all" />
+            <link type="text/css" rel="stylesheet" href="/css/glowm3.css?1565606640" media="all" />
+            <script type="text/javascript" src="/cms/includes/js/jquery/jquery-1.9.1.js?1486642036"></script>
+            <script type="text/javascript" src="/cms/includes/js/bootstrap/bootstrap.min.js?1486642060"></script>
+            <script type="text/javascript" src="/js/ajax/jqueryui/1.9.1/googleapis.jquery-ui.min.js?1486642038"></script>
+            <script type="text/javascript" src="/scripts/flex.js?1490186638"></script>
+            <script type="text/javascript" src="/scripts/flex-init.js?1490186303"></script>
+            <script type="text/javascript" src="/scripts/glowm.js?1486640808"></script>
+            <script type="text/javascript" src="/scripts/pop_up.js?1487084650"></script>
+            <script type="text/javascript" src="/script/resource_hover.js?1559918969"></script>
+            <script type="text/javascript" src="/script/resource_cookie.js?1563183248"></script>
+        </head>
+        <body id='ama-page-21695'>
+                    <div id='ama-layout-22925' class='site_container ama-level-0'>
+                        <div id='ama-layout-11865' class='header_container ama-level-1'>
+                            <div id='ama-layout-21055' class='header ama-level-2'>
+                                    <div id='ama-section-14735' class='ama-section'>
+                                        <div id='ama-section-body-14735'class='sectionbody'>
+<div id='ama-field-63445' class='ama-field-html-text'><div class="logo">
+<a href="/"><img src="/img/Glowm_website[q:50].png" alt="GLOWM" width="100%"></a>
+<p class="charity_code small">ISSN: 1756-2228</p>
+</div>
+
+<div class="head_text hidden-xs ">
+<img src="/img/Glowm_website Text2[q:10].png" width="100%">
+</div>
+
+<div class="figo_banner">
+<a href="/figo_resources">
+<img class="blink_me" src="/img/figo_head[q:50].png" width="100%" alt="FIGO" style="display: inline;">
+</a>
+
+</div></div><div id='ama-field-64295' class='ama-field-html-text'><div class="navigation col-sm-12">
+<ul>
+<li class="first_link"><a href="/">Home</a></li>
+<li><a href="/editorial_board">Editors</a></li>
+<li><a href="/authors">Authors</a></li>
+<li><a class="" href="/glowm_ambassadors" style="display: inline;">Ambassadors</a></li>
+<li><a href="/publishers">Contact</a></li>
+<li><a href="/pdf/News Report May 2017 V6.pdf">News</a></li>
+
+<li class="donation"><a href="/help_us">Can you help us?</a></li>
+
+<li class="last_link"><a href="/search">Search</a></li>
+</ul>
+
+</div></div><div id='ama-field-64305' class='ama-field-html-php'></div><div class="responsive">
+<p class="mobile_show">Menu</p>
+
+<div class="mobile_nav">
+<div class="navigation col-sm-12">
+<ul>
+<li class="first_link"><a href="/">Home</a></li>
+<li><a href="/editorial_board">Editors</a></li>
+<li><a href="/authors">Authors</a></li>
+<li><a class="" href="/glowm_ambassadors" style="display: inline;">Ambassadors</a></li>
+<li><a href="/publishers">Contact</a></li>
+<li><a href="/pdf/News Report May 2017 V6.pdf">News</a></li>
+
+<li class="donation"><a href="/help_us">Can you help us?</a></li>
+
+<li class="last_link"><a href="/search">Search</a></li>
+</ul>
+
+</div>
+</div>
+
+</div><div id='ama-field-72115' class='ama-field-html-text'><div class="mobile_app">
+<a href="/mobile/app">
+<img src="/img/safer-motherhood-dowload-icon.png ">
+</a>
+</div></div>                                        </div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div id='ama-layout-22935' class='content_wrap ama-level-1'>
+                            <div id='ama-layout-22945' class='col-sm-12 content_box ama-level-2'>
+                                <div id='ama-layout-22955' class='col-sm-12 ama-level-3'>
+                                        <div id='ama-section-16095' class='ama-section'>
+                                            <div id='ama-section-body-16095'class='sectionbody'>
+                                                <form style='display:inline;' method='post' action='/resource_type/resource/textbook/title/a-textbook-of-gynecology-for-less-resourced-locations/resource_doc/35' id='section16095' name='section16095'>
+                                                </form>
+                                            </div>
+                                        </div>
+                                </div>
+                                <div id='ama-layout-22965' class='col-sm-12 resource_window ama-level-3'>
+                                        <div id='ama-section-16105' class='ama-section'>
+                                            <div id='ama-section-body-16105'class='sectionbody'>
+<div id='ama-field-74218' class='ama-field-html-php'><div class="modal fade pro_films_form" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Surgical films on Fistula Surgery and Caesarean Section</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p><b>Important note</b></p>
+                <p>Whilst the first film in this series is openly available  because it only demonstrates basic principles, the subsequent films give specific and detailed surgical guidance. They are not intended, therefore, for general viewing but are being made freely  available only to those medical professionals who already have specific experience of the surgery involved and who can thus benefit from the specialist techniques that these films demonstrate.</p>
+                
+                <p>To view these films please register your name and professional status (you only need to register once and will then  have repeated access)</p>
+                
+                <p><span style="color:red;font-size:12px;">* required</span></p>
+
+                <form id="qualification_form" name="qual_form" class="qual_form" method="POST" action="/resource_type/resource/textbook/title/a-textbook-of-gynecology-for-less-resourced-locations/resource_doc/35">
+                    <div>
+                        <label for="name">Name:</label>
+                        <input type="text" name="name" value="">
+                    </div>
+
+                    <div>
+                        <label for="name">Email address*:</label>
+                        <input required="required" type="text" name="email" value="">
+                    </div>
+
+                    <div>
+                        <label for="name">Professional position:</label>
+                        <input type="text" name="position" value="">
+                    </div>
+
+                    <div>
+                        <label for="name">Affiliation or position:</label>
+                        <input type="text" name="affiliation" value="">
+                    </div>
+
+                    <div>
+                        <label for="name">Country:</label>
+                        <input type="text" name="country" value="">
+                    </div>
+                    
+                    <div>
+                        <input required="required" style="width: 30px;float: left;margin-top: 13px;" type="checkbox" name="surgical" value="">
+                        <label style="color:red;width: auto;" for="name">I confirm that I have relevant surgical experience of this subject area*</label>
+                    </div>
+                   
+                    <button class="btn btn-primary" id='cookie_trigger' type="Submit" name="Submit1" value="true">Submit</button>
+                    
+                </form>
+
+            </div>            
+            
+        </div>
+    </div>
+</div></div><div id='ama-field-65495' class='ama-field-html-php'>  
+<div id="contents">
+    <div id="wrap">
+        <div class="motherhood_resource_background"></div>
+        <div id="mainContent">
+            <div class="specific_resource"><div class="specific_resource"><h3>A Textbook of Gynecology for Less-Resourced Locations</h3>
+
+
+<p class=" col-sm-7 links alpha omega">
+
+<a href="/pdf/Gynecology_Less_Resourced_Title_Pages.pdf">Prelims</a>, Title pages, Contents, List of contributors <br><br>
+Chapter 1:
+<a href="/pdf/Chap-01_Unkels.pdf">Gynecological History Taking and Examination</a> <br><br>
+
+<u>Section 1: Symptoms</u><br>
+Chapter 2:
+<a href="/pdf/Chap-02_Jager.pdf">Vaginal Bleeding in the First Trimester of Pregnancy </a> <br>
+Chapter 3:
+<a href="/pdf/Chap-03_Moshi.pdf">Lower Abdominal Pain in the First Trimester of Pregnancy </a> <br>
+Chapter 4:
+<a href="/pdf/Chap-04_Sonkusare.pdf">Hyperemesis Gravidarum </a> <br>
+Chapter 5:
+<a href="/pdf/Chap-05_Danladi.pdf">Acute Pelvic Pain in a Limited-resource Setting </a> <br>
+Chapter 6:
+<a href="/pdf/Chap-06_Sangala.pdf">Chronic Pelvic Pain </a> <br>
+Chapter 7:
+<a href="/pdf/Chap-07_Unkels.pdf">Painful Menstrual Period: Dysmenorrhea </a> <br>
+Chapter 8:
+<a href="/pdf/Chap-08_Lagro.pdf">Amenorrhea </a> <br>
+Chapter 9:
+<a href="/pdf/Chap-09_Beekhuizen.pdf">Abnormal Uterine Bleeding in thePremenopausal Period </a> <br>
+Chapter 10:
+<a href="/pdf/Chap-10_Beekhuizen.pdf">Uterine Bleeding in the Postmenopausal Period </a> <br>
+Chapter 11:
+<a href="/pdf/Chap-11_Pathiraja.pdf">Abdominal Masses in Gynecology </a> <br><br>
+
+<u>Section 2: Specific benign conditions</u><br>
+Chapter 12:
+<a href="/pdf/Chap-12_Kolk.pdf">Ectopic pregnancy </a> <br>
+Chapter 13:
+<a href="/pdf/Chap-13_Ameh.pdf">Abortion </a> <br>
+Chapter 14:
+<a href="/pdf/Chap-14_Yeung and Regan.pdf">Recurrent Miscarriage including Cervical Incompetence </a> <br>
+Chapter 15:
+<a href="/pdf/Chap-15_Verkuyl.pdf">Contraception </a> <br>
+Chapter 16:
+<a href="/pdf/Chap-16_Beekhuizen and Sharma.pdf">Subfertility </a> <br>
+Chapter 17:
+<a href="/pdf/Chap-17_Hanson and Delvaux.pdf">Sexually Transmitted Infections and Reproductive Tract Infections </a> <br>
+Chapter 18:
+<a href="/pdf/Chap-18_Unkels.pdf">HIV/AIDS-related Problems in Gynecology </a> <br>
+Chapter 19:
+<a href="/pdf/Chap-19_Unkels.pdf">Uterine Fibroids </a> <br>
+Chapter 20:
+<a href="/pdf/Chap-20_Beekhuizen.pdf">Treatment of Dysfunctional Abnormal Uterine Bleeding </a> <br>
+Chapter 21:
+<a href="/pdf/Chap-21_Hancock.pdf">Vesico-vaginal and Recto-vaginal Fistula </a> <br>
+Chapter 22:
+<a href="/pdf/Chap-22_Azadeh and Tour.pdf">Female Genital Mutilation </a> <br>
+Chapter 23:
+<a href="/pdf/Chap-23_Vierhout and Kluivers.pdf">Pelvic Organ Prolapse and Incontinence </a> <br>
+Chapter 24:
+<a href="/pdf/Chap-24_Beekhuizen.pdf">Gynecology in Children and Adolescents </a> <br>
+Chapter 25:
+<a href="/pdf/Chap-25_Kantelhardt.pdf">Benign Disease of the Breast </a> <br><br>
+
+<u>Section 3: Specific malignant conditions</u><br>
+Chapter 26:
+<a href="/pdf/Chap-26_Denny.pdf">Cervical Cancer Prevention and Treatment in Low-Resource Settings </a> <br>
+Chapter 27:
+<a href="/pdf/Chap-27_Beekhuizen.pdf">Molar Pregnancy and other Gestational Trophoblastic Diseases </a> <br>
+Chapter 28:
+<a href="/pdf/Chap-28_Mbatani.pdf">Ovarian Cancer </a> <br>
+Chapter 29:
+<a href="/pdf/Chap-29_Soeters.pdf">Cancer of the Uterine Corpus </a> <br>
+Chapter 30:
+<a href="/pdf/Chap-30_Unkels and Kantelhardt.pdf">Breast Cancer </a> <br>
+Chapter 31:
+<a href="/pdf/Chap-31_Kumarasamy.pdf">Basic Oncology including Treatment in Less-resourced Locations </a> <br>
+Chapter 32:
+<a href="/pdf/Chap-32_Merriman and Kiwanuka.pdf">Palliative Care</a> <br><br>
+
+<u>Section 4: Basic program skills</u><br>
+Chapter 33:
+<a href="/pdf/Chap-33_Moshi.pdf">Epidemiology in Gynecological Diseases </a> <br>
+Chapter 34:
+<a href="/pdf/Chap-34_Ngoli.pdf">Quality Improvement and Clinical Audits </a> <br>
+Chapter 35:
+<a href="/pdf/Chap-35_Werder.pdf">Management of Low-cost Drugs and Equipment </a> <br>
+Chapter 36:
+<a href="/pdf/Chap-36_Hanson.pdf">Gynecological Care and the Health System </a> <br><br>
+
+<a href="/pdf/Gynecology_Less_Resourced_Index.pdf">Index</a> <br>
+</p>
+
+<div class="col-sm-4 book_image alpha omega">
+<div class="resourcewrap resourcealigninline"><div class="positionwrap" style="margin: 0px;"><img src="/img/less_resourced_book.jpg" contenteditable="false"></div></div>
+</div>
+</div>
+                            </div>        </div>
+    </div>
+</div>
+<div class="clear"></div></div>                                            </div>
+                                        </div>
+                                </div>
+                            </div>
+                            <div id='ama-layout-2815' class='col-sm-12 footer_wrap ama-level-2'>
+                                    <div id='ama-section-4455' class='ama-section'>
+                                        <div id='ama-section-body-4455'class='sectionbody'>
+<div id='ama-field-46245' class='ama-field-html-php'><div class="f_info col-sm-12">
+
+  <div class="f_info_text col-sm-7">    
+      <p class="purple founders">Founders and Publisher: <a href="/david_bloomer">Paula and David Bloomer</a>&nbsp;<font color="#000000"><br/><i>In memory of</i> <a href="/abigail_bloomer">Abigail</a></font></p>
+      <p class="editors"><b>Editor-in-Chief:&nbsp;</b><strong>Peter von Dadelszen</strong>, FRANZCOG, FRCSC, FRCOG,&nbsp;<br/><em>Professor of Global Women’s Medicine, Kings College, London<br/>Supported by a distinguished <a href="/int_editorial_board">International Editorial Board</a><br/><br/>
+      </p>
+
+      <ul class="footer_links">
+        <li><a href="/">Home</a></li>
+        <li><a href="/policies">Policies</a></li>
+        <li><a href="/contact">Contact</a></li>
+        <li></li>
+      </ul>
+  </div>
+  
+  <div class="f_editor_info col-sm-5">
+      
+     
+    <div id="honLogo">
+        <a href="https://www.healthonnet.org/HONcode/Conduct.html?HONConduct478934" onclick="window.open(this.href); return false;"> <img src="/img/HONConduct478934_s.gif" width="100%" title="This website is certified by Health On the Net Foundation. Click to verify." alt="This website is certified by Health On the Net Foundation."/></a>
+    </div>
+    
+    <div class="figo_home">
+        <a href="https://www.figo.org/" target="_blank">
+            <img src="/img/figo.png" alt="FIGO - International Federation of Gynecology and Obstetrics" width="100%"/>
+        </a>
+    </div>
+
+   
+    <div class="social_links"> 
+
+        <div class="social-home facebook">
+            <div id="fb-root"></div>
+
+            <script>(function(d, s, id) {
+              var js, fjs = d.getElementsByTagName(s)[0];
+              if (d.getElementById(id)) return;
+              js = d.createElement(s); js.id = id;
+              js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+              fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));</script>
+
+            <div class="fb-like" data-href="https://www.glowm.com/" data-send="false" data-layout="button_count" data-width="450" data-show-faces="true"></div>
+
+        </div>
+
+        <div class="twitter_share">
+            <a href="https://twitter.com/share" class="twitter-share-button" data-text="Check out this website" data-via="glowmglobal" data-related="glowmglobal">Tweet</a>
+        </div>
+
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+        <div class="share"> 
+          <div class="addthis_toolbox addthis_32x32_style addthis_default_style left">
+            <a class="addthis_button_google_follow" addthis:userid="114901161066107567532/posts?cfem=1"></a>
+          </div>
+          
+          <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-5093e409413ed340"></script>
+          <div class="addthis_toolbox addthis_default_style addthis_32x32_style left">
+            <div class="addthis_toolbox addthis_32x32_style addthis_default_style">
+              <a class="addthis_button_youtube_follow" addthis:userid="glowmglobal"></a>
+            </div>
+          </div>
+          <div class="addthis_toolbox addthis_default_style addthis_32x32_style left">
+            <a class="addthis_button_compact"></a>
+          </div>
+          <script type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script> 
+          <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f730ce1150b5ed0"></script> 
+        </div>
+        
+        <p><i>The objectives of this site – <a href="/objectives">view here</a></i></p>    
+    </div>
+  </div>
+</div>
+
+<script src="//static.getclicky.com/js" type="text/javascript"></script>
+<script type="text/javascript">try{ clicky.init(100643430); }catch(e){}</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100643430ns.gif" /></p></noscript>
+<script>
+var _prum = [['id', '51544d09abe53d0a3f000000'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+(function() {
+    var s = document.getElementsByTagName('script')[0]
+      , p = document.createElement('script');
+    p.async = 'async';
+    p.src = '//rum-static.pingdom.net/prum.min.js';
+    s.parentNode.insertBefore(p, s);
+})();
+</script>
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', ' UA-5570853-1', 'auto');
+ga('send', 'pageview');
+setInterval("ga('send','event','15_seconds','read')",15000);
+
+</script>
+<!-- End Google Analytics -->
+</div><div id='ama-field-72458' class='ama-field-html-php'>
+<div id = "cookie-policy" class = "">
+    <div id = "cookie-policy-text">
+    <p><img src = "/img/glowm.jpg" width = "70px" alt="GLOWM logo" /></p>
+        <p>We use cookies to ensure you get the best experience from our website.<br>By using the website or clicking OK we will assume you are happy to receive all cookies from us.</p>
+<p><a title='View more information about cookies on this site' href='/policies'>More info on cookies</a></p>
+    </div>
+    <div id = "cookie-policy-close">
+        <a class = "close-cookie">OK</a>
+    </div>
+</div>
+
+</div>                                        </div>
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
+</div>        <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"154740f801","applicationID":"14826849,14829380,14865896","transactionName":"NldbbUJZV0tXAEFRXQ8dbEtZF1BWUgZNFloVX1U=","queueTime":0,"applicationTime":33,"atts":"GhBYGwpDREU=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>   </html>
+<!-- Loadtime:0.0299; Lang:en; Page:21695; Access Level:; CMS calls: bb_query:36; bb_fetch_array:; bb_fetch_assoc:67; sections:4; fields:9 -->

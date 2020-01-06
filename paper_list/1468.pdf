@@ -1,0 +1,1184 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html  xml:lang="en-US" lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head">
+	<script type="text/javascript" src="//nexus.ensighten.com/dellsoftwaregroup/statsoft/Bootstrap.js"></script>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" /><title>
+	Big Data, Data Mining, Predictive Analytics, Statistics, StatSoft Electronic Textbook
+</title><meta content="text/html; charset=UTF-8" http-equiv="Content-Type" /><meta content="text/javascript" http-equiv="Content-Script-Type" /><meta content="text/css" http-equiv="Content-Style-Type" /><meta id="MetaDescription" name="DESCRIPTION" content="StatSoft Electronic Statistics Textbook is free and provided as a service to the public. " /><meta id="MetaKeywords" name="KEYWORDS" content="statistics,help,online,example,learn,teach,easy,credit scorecard" /><meta id="MetaCopyright" name="COPYRIGHT" content="Copyright &amp;copy; 2019 TIBCO Software Inc All Rights Reserved." /><meta id="MetaAuthor" name="AUTHOR" content="www.statsoft.com" /><meta name="RESOURCE-TYPE" content="DOCUMENT" /><meta name="DISTRIBUTION" content="GLOBAL" /><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW" /><meta name="REVISIT-AFTER" content="1 DAYS" /><meta name="RATING" content="GENERAL" /><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)" /><style id="StylePlaceholder" type="text/css"></style><link href="/DependencyHandler.axd/5083b3fa7bf243f4b28d23c992fd5694.248.css" type="text/css" rel="stylesheet"/><script src="https://code.jquery.com/jquery-1.8.3.js" type="text/javascript"></script><script src="/DependencyHandler.axd/5fe9dcaf007ddd862e38f3ec71e36074.248.js" type="text/javascript"></script><script src="https://code.jquery.com/ui/1.9.2/jquery-ui.js" type="text/javascript"></script><!--[if LT IE 9]><link id="IE9Minus" rel="stylesheet" type="text/css" href="/Portals/_default/Skins/Greytness2/ie.css" /><![endif]--><link rel="canonical" href="http://documents.software.dell.com/Statistics/"><link rel='SHORTCUT ICON' href='/Portals/0/favicon2.ico' type='image/x-icon' /></head>
+<body id="Body">
+    
+    <form method="post" action="/Textbook" id="Form" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="StylesheetManager_TSSM" id="StylesheetManager_TSSM" value="" />
+<input type="hidden" name="ScriptManager_TSM" id="ScriptManager_TSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwNjk5NzcxNzgPZBYIZg8WAh4EVGV4dAV6PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBYSFRNTCAxLjAgVHJhbnNpdGlvbmFsLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL1RSL3hodG1sMS9EVEQveGh0bWwxLXRyYW5zaXRpb25hbC5kdGQiPiBkAgIPFgIfAAVDIHhtbDpsYW5nPSJlbi1VUyIgbGFuZz0iZW4tVVMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sImQCBA9kFg4CBw8WAh4HVmlzaWJsZWhkAggPFgIeB2NvbnRlbnQFWVN0YXRTb2Z0IEVsZWN0cm9uaWMgU3RhdGlzdGljcyBUZXh0Ym9vayBpcyBmcmVlIGFuZCBwcm92aWRlZCBhcyBhIHNlcnZpY2UgdG8gdGhlIHB1YmxpYy4gZAIJDxYCHwIFQHN0YXRpc3RpY3MsaGVscCxvbmxpbmUsZXhhbXBsZSxsZWFybix0ZWFjaCxlYXN5LGNyZWRpdCBzY29yZWNhcmRkAgoPFgIfAgU9Q29weXJpZ2h0ICZjb3B5OyAyMDE5IFRJQkNPIFNvZnR3YXJlIEluYyBBbGwgUmlnaHRzIFJlc2VydmVkLmQCCw8WBB8CZB8BaGQCDA8WAh8CBRB3d3cuc3RhdHNvZnQuY29tZAIPDxYCHwIFDUlOREVYLCBGT0xMT1dkAgYPZBYCAgEPZBYCAgcPZBYCZg9kFi4CBg9kFghmDxYCHwAFHjxkaXYgY2xhc3M9Imxhbmd1YWdlLW9iamVjdCIgPmQCAg8QDxYCHwFoZGQWAGQCBA8WAh8BaGQCBg8WAh8ABQY8L2Rpdj5kAgoPEA8WAh4LXyFEYXRhQm91bmRnZBAVGgxHbG9iYWwgU2l0ZXMLRmluZCBPZmZpY2UQU3RhdFNvZnQgQmVuZWx1eBZTdGF0U29mdCBCdWxnYXJpYSBMdGQuDlN0YXRTb2Z0IENoaW5hHlN0YXRTb2Z0IEN6ZWNoIFJlcHVibGljIHMuci5vLhRTdGF0U29mdCBFdXJvcGUgR21iSA9TdGF0U29mdCBGcmFuY2UlU3RhdFNvZnQgSG9sZGluZ3MsIEluYy4gVGFpd2FuIEJyYW5jaBZTdGF0U29mdCBIdW5nYXJ5LCBMdGQuEFN0YXRTb2Z0IEliZXJpY2EcU3RhdFNvZnQgSW5jLiAoSGVhZHF1YXJ0ZXJzKRhTdGF0U29mdCBJbmRpYSBQdnQuIEx0ZC4UU3RhdFNvZnQgSXNyYWVsIEx0ZC4TU3RhdFNvZnQgSXRhbGlhIHNybBNTdGF0U29mdCBKYXBhbiBJbmMuHFN0YXRTb2Z0IEx0ZC4gKFVLICYgSXJlbGFuZCkcU3RhdFNvZnQgTWlkZGxlIEVhc3QgKFNTTUUpLhJTdGF0U29mdCBOb3J3YXkgQVMaU3RhdFNvZnQgUGFjaWZpYyBQdHkgTHRkLiAaU3RhdFNvZnQgUG9sc2thIFNwLiB6IG8uby4PU3RhdFNvZnQgUnVzc2lhF1N0YXRTb2Z0IFNjYW5kaW5hdmlhIEFCL1N0YXRTb2Z0IFNvdXRoZXJuIEFmcmljYSAtIEVudGVycHJpc2UgU29sdXRpb25zI1N0YXRTb2Z0IFNvdXRoZXJuIEFmcmljYSAtIFJlc2VhcmNoFFN0YXRTb2Z0IFNvdXRoIEtvcmVhFRoBIxQvY29tcGFueS9jb250YWN0LXVzLyAvY29tcGFueS9jb250YWN0LXVzLyNOZXRoZXJsYW5kcx0vY29tcGFueS9jb250YWN0LXVzLyNCdWxnYXJpYRovY29tcGFueS9jb250YWN0LXVzLyNDaGluYRovY29tcGFueS9jb250YWN0LXVzLyNDemVjaBwvY29tcGFueS9jb250YWN0LXVzLyNHZXJtYW55Gy9jb21wYW55L2NvbnRhY3QtdXMvI0ZyYW5jZRsvY29tcGFueS9jb250YWN0LXVzLyNUYWl3YW4cL2NvbXBhbnkvY29udGFjdC11cy8jSHVuZ2FyeRovY29tcGFueS9jb250YWN0LXVzLyNTcGFpbhcvY29tcGFueS9jb250YWN0LXVzLyNVUxovY29tcGFueS9jb250YWN0LXVzLyNJbmRpYRsvY29tcGFueS9jb250YWN0LXVzLyNJc3JlYWwaL2NvbXBhbnkvY29udGFjdC11cy8jSXRhbHkaL2NvbXBhbnkvY29udGFjdC11cy8jSmFwYW4XL2NvbXBhbnkvY29udGFjdC11cy8jVUsaL2NvbXBhbnkvY29udGFjdC11cy8jRWd5cHQbL2NvbXBhbnkvY29udGFjdC11cy8jTm9yd2F5Hi9jb21wYW55L2NvbnRhY3QtdXMvI0F1c3RyYWxpYRsvY29tcGFueS9jb250YWN0LXVzLyNQb2xhbmQbL2NvbXBhbnkvY29udGFjdC11cy8jUnVzc2lhGy9jb21wYW55L2NvbnRhY3QtdXMvI1N3ZWRlbhgvY29tcGFueS9jb250YWN0LXVzLyNTQTEYL2NvbXBhbnkvY29udGFjdC11cy8jU0EyGi9jb21wYW55L2NvbnRhY3QtdXMvI0tvcmVhFCsDGmdnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnFgFmZAIOD2QWAmYPDxYEHgdUb29sVGlwBRB3d3cuc3RhdHNvZnQuY29tHgtOYXZpZ2F0ZVVybAUYaHR0cDovL3d3dy5zdGF0c29mdC5jb20vZGQCEA8WAh4FY2xhc3MFHEhlYWRlclBhbmUgbGVmdCBETk5FbXB0eVBhbmVkAhIPFgIfBgUYQmFubmVyUGFuZTEgRE5ORW1wdHlQYW5lZAIUD2QWBGYPZBYGZg8QDxYGHghDc3NDbGFzcwULU2VhcmNoRmllbGQeBF8hU0ICAh8BaGRkZGQCAQ8QDxYGHwcFC1NlYXJjaEZpZWxkHwgCAh8BaGRkZGQCAw8PFgYfBwULU2VhcmNoRmllbGQfAAVpPGltZyBzcmM9Ii9Qb3J0YWxzL19kZWZhdWx0L1NraW5zL0dyZXl0bmVzczIvZ3JhcGhpY3Mvc2VhcmNoLWJ1dHRvbi5wbmciIGFsdD0iU2VhcmNoIiBjbGFzcz0iYnRuU2VhcmNoIi8+HwgCAmRkAgEPZBYCAgIPDxYGHwcFC1NlYXJjaEZpZWxkHwAFaTxpbWcgc3JjPSIvUG9ydGFscy9fZGVmYXVsdC9Ta2lucy9HcmV5dG5lc3MyL2dyYXBoaWNzL3NlYXJjaC1idXR0b24ucG5nIiBhbHQ9IlNlYXJjaCIgY2xhc3M9ImJ0blNlYXJjaCIvPh8IAgJkZAIaDxYCHwYFGEJhbm5lclBhbmUzIEROTkVtcHR5UGFuZWQCHA8WAh8GBRRUb3BQYW5lIEROTkVtcHR5UGFuZWQCHg8WAh8GBR1Ub3BMZWZ0UGFuZSBsZWZ0IEROTkVtcHR5UGFuZWQCIA8WAh8GBR9Ub3BSaWdodFBhbmUgcmlnaHQgRE5ORW1wdHlQYW5lZAIiDxYCHwYFJ0NvbnRlbnRQYW5lIENvbnRlbnRQYW5lRGl2IEROTkVtcHR5UGFuZWQCJg9kFgJmDxYCHwYFK0Rubk1vZHVsZSBEbm5Nb2R1bGUtRE5OX0hUTUwgRG5uTW9kdWxlLTEzNzkWAgIBD2QWDAIDDw8WAh8BaGRkAgUPZBYCZg8PFgIfBAUITWluaW1pemVkFgJmDw8WBh4ISW1hZ2VVcmwFOi9Qb3J0YWxzL19kZWZhdWx0L0NvbnRhaW5lcnMvU3RhdFNvZnQvaW1hZ2VzL0ROTi1taW51cy5naWYeDUFsdGVybmF0ZVRleHQFCE1pbmltaXplHwQFCE1pbmltaXplZGQCCQ8WAh8GBSFOb3JtYWwgY19jb250ZW50cGFuZSBETk5BbGlnbmxlZnQWAgICDw9kFgIfBgUcRE5OTW9kdWxlQ29udGVudCBNb2RETk5IVE1MQxYCAgEPZBYCAgQPFgIfAWhkAgsPZBYCZg8PFgIfAWhkZAIND2QWAmYPDxYCHwFoZGQCDw9kFgJmDw8WAh8BaGRkAigPFgIfBgUeQ29udGVudFBhbmUzIGxlZnQgRE5ORW1wdHlQYW5lZAIqDxYCHwYFHFJpZ2h0UGFuZSByaWdodCBETk5FbXB0eVBhbmVkAiwPFgIfBgUgTWlkZGxlTGVmdFBhbmUgbGVmdCBETk5FbXB0eVBhbmVkAi4PFgIfBgUcTWlkZGxlUGFuZSBsZWZ0IEROTkVtcHR5UGFuZWQCMA8WAh8GBSJNaWRkbGVSaWdodFBhbmUgcmlnaHQgRE5ORW1wdHlQYW5lZAIyDxYCHwYFH0JvdHRvbUNvbHVtbjEgbGVmdCBETk5FbXB0eVBhbmVkAjQPFgIfBgUfQm90dG9tQ29sdW1uMiBsZWZ0IEROTkVtcHR5UGFuZWQCNg8WAh8GBR9Cb3R0b21Db2x1bW4zIGxlZnQgRE5ORW1wdHlQYW5lZAI4DxYCHwYFIEJvdHRvbUNvbHVtbjQgcmlnaHQgRE5ORW1wdHlQYW5lZAI6DxYCHwYFF0JvdHRvbVBhbmUgRE5ORW1wdHlQYW5lZAI+DxYCHwYFGlN1YkZvb3RlclBhbmUgRE5ORW1wdHlQYW5lZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgUQZG5uJEltYWdlQnV0dG9uMQUuZG5uJGN0cjEzNzkkZG5uQUNUSU9OQlVUVE9OMyRjdGwwMCRjdGwwMCRjdGwwMINIEs9gQflEvldQnwRRoA93u36F" />
+</div>
+
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ScriptManager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3a50b12c66-1dd3-4ebf-87e6-55014086ad94%3aea597d4b%3ab25378d2" type="text/javascript"></script>
+<script src="/js/dnn.js" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWIgKnybp4AuH2/6AHAtfS5bkHAvL1qrIGAsz7rd4NAtHw3rkMAsS/w8YKAu+s4agKAvix6MoKAp2zt9wKAo28wZgOAuyGtK0LAoiyn8QMAo6Oof8JAq+h8bEKApvimOoDAt+D4fMLAvDr7foDAuDQtfkBAv6s7/4FAp6sqFoC15Tf4gIC9OHRiwICyI2nyA8CkvOS6AsCkvOOzwICpeeU0AcC8/Cl3wcCw6rC1AIC7NWYgAQC5aKtmA0Ct53QnQUC/uTxsgIC0fWJ2A7NJCmOs1fkQU+C+w8mVzEfS4w84g==" />
+</div><script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 90, '');
+//]]>
+</script>
+
+        <script src="/DependencyHandler.axd/5099e73d80229de1d7f18d7bd33310bd.248.js" type="text/javascript"></script>
+        
+        <style>
+  .offices select {
+    width: 200px;
+  }
+</style>
+<link rel="stylesheet" href="/Portals/_default/Skins/Greytness2/Rebranding/header-footer.css" type="text/css" media="screen">
+<script src="/Portals/_default/Skins/Greytness2/js/header-footer.js"></script>
+
+<!--
+
++========================================================+
+|                                                        |
+|              DotNetNuke Skin - Greytness               |
+|               Developed by Adammer LLC                 |
+|                http://www.adammer.com                  |
+|                                                        |
+|                Adammer menu technology                 |
+|                   licensed through                     |
+|                http://www.snapsis.com                  |
+|                                                        |
+|                       July 2009                        |
+|                                                        |
++========================================================+
+
+Version     : 2.6
+Released    : May 2012
+Style       : Standard
+DNN Version : 5 & 6
+
+-->
+<!--
+<script>
+  (function() {
+    var cx = '007567903656622132862:thxll3owxz8';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+-->
+
+
+<!-- Slide Out Tab Begin -->
+<script src="/js/jquery.tabSlideOut.v1.3.js"></script>
+<script>
+  $(function () {
+    $('.slide-out-div').tabSlideOut({
+      tabHandle: '.handle',                              //class of the element that will be your tab
+      pathToTabImage: '/Portals/0/images/contact-tab.jpg',          //path to the image for the tab (optionaly can be set using css)
+      imageHeight: '122px',                              //height of tab image
+      imageWidth: '40px',                                //width of tab image
+      tabLocation: 'right',                               //side of screen where tab lives, top, right, bottom, or left
+      speed: 300,                                        //speed of animation
+      action: 'click',                                   //options: 'click' or 'hover', action to trigger animation
+      topPos: '200px',                                   //position from the top
+      fixedPosition: true                               //options: true makes it stick(fixed position) on scroll
+    });
+  });
+
+</script>
+<!-- Slide Out Tab End -->
+
+<div class="greytnessCP">
+  <div id="dnn_ControlPanel">
+    <!-- control -->
+  </div>
+</div>
+<div id="greytness">
+  <div class="language-object" >
+
+
+</div>
+  <div class="skinBG">
+    <div class="TopDiv"></div>
+    <div class="contentWrapper">
+      <div class="fullWidth">
+        <div class="HeaderDiv center-content" style="padding:0px!important;">
+        <a href="http://www.statistica.io/">
+            <img width="300" height="42" style="padding:5px;" title="www.statsoft.com" alt="www.statsoft.com" src="http://statistica.io/wordpress/wp-content/uploads/tibco-statistica-300x42.png" border="0">
+          </a>
+
+ <!--         <div class="offices">
+          
+
+            <select name="dnn$ddl" id="dnn_ddl">
+	<option selected="selected" value="#">Global Sites</option>
+	<option value="/company/contact-us/">Find Office</option>
+	<option value="/company/contact-us/#Netherlands">StatSoft Benelux</option>
+	<option value="/company/contact-us/#Bulgaria">StatSoft Bulgaria Ltd.</option>
+	<option value="/company/contact-us/#China">StatSoft China</option>
+	<option value="/company/contact-us/#Czech">StatSoft Czech Republic s.r.o.</option>
+	<option value="/company/contact-us/#Germany">StatSoft Europe GmbH</option>
+	<option value="/company/contact-us/#France">StatSoft France</option>
+	<option value="/company/contact-us/#Taiwan">StatSoft Holdings, Inc. Taiwan Branch</option>
+	<option value="/company/contact-us/#Hungary">StatSoft Hungary, Ltd.</option>
+	<option value="/company/contact-us/#Spain">StatSoft Iberica</option>
+	<option value="/company/contact-us/#US">StatSoft Inc. (Headquarters)</option>
+	<option value="/company/contact-us/#India">StatSoft India Pvt. Ltd.</option>
+	<option value="/company/contact-us/#Isreal">StatSoft Israel Ltd.</option>
+	<option value="/company/contact-us/#Italy">StatSoft Italia srl</option>
+	<option value="/company/contact-us/#Japan">StatSoft Japan Inc.</option>
+	<option value="/company/contact-us/#UK">StatSoft Ltd. (UK &amp; Ireland)</option>
+	<option value="/company/contact-us/#Egypt">StatSoft Middle East (SSME).</option>
+	<option value="/company/contact-us/#Norway">StatSoft Norway AS</option>
+	<option value="/company/contact-us/#Australia">StatSoft Pacific Pty Ltd. </option>
+	<option value="/company/contact-us/#Poland">StatSoft Polska Sp. z o.o.</option>
+	<option value="/company/contact-us/#Russia">StatSoft Russia</option>
+	<option value="/company/contact-us/#Sweden">StatSoft Scandinavia AB</option>
+	<option value="/company/contact-us/#SA1">StatSoft Southern Africa - Enterprise Solutions</option>
+	<option value="/company/contact-us/#SA2">StatSoft Southern Africa - Research</option>
+	<option value="/company/contact-us/#Korea">StatSoft South Korea</option>
+
+</select>
+            <input type="image" name="dnn$ImageButton1" id="dnn_ImageButton1" onmouseover="this.src=&#39;/portals/_default/skins/greytness2/graphics/globehover.png&#39;" onmouseout="this.src=&#39;/portals/_default/skins/greytness2/graphics/globe.png&#39;" src="/portals/_default/skins/greytness2/graphics/globe.png" />
+          </div>-->
+          <div class="dnnLogo">
+            <!--<a id="dnn_dnnLOGO_hypLogo" title="www.statsoft.com" href="http://www.statsoft.com/"><img id="dnn_dnnLOGO_imgLogo" src="/Portals/0/Dell-StatSoft-Logo.png" alt="www.statsoft.com" style="border-width:0px;" /></a>-->
+            
+          </div>
+
+          <style>
+            .gsc-clear-button {
+              display: none !important;
+            }
+          </style>
+          <div id="dnn_HeaderPane" class="HeaderPane left DNNEmptyPane"></div>
+        </div>
+        <div id="dnn_BannerPane1" class="BannerPane1 DNNEmptyPane"></div>
+        <div class="menu-bg clearfix">
+          <div class="center-content">
+            <div class="Search" style="width: 150px;">
+              <!--                        <gcse:searchbox-only resultsUrl="http://www.statsoft.com/SearchResults/tabid/39/Default.aspx" newWindow="false"> -->
+
+              <span id="dnn_dnnSEARCH_ClassicSearch">
+    
+    
+    <span class="searchInputContainer" data-moreresults="See More Results" data-noresult="No Results Found">
+        <input name="dnn$dnnSEARCH$txtSearch" type="text" maxlength="255" size="20" id="dnn_dnnSEARCH_txtSearch" class="NormalTextBox" autocomplete="off" placeholder="Search..." />
+        <a class="dnnSearchBoxClearText"></a>
+    </span>
+    <a id="dnn_dnnSEARCH_cmdSearch" class="SearchField" href="javascript:__doPostBack(&#39;dnn$dnnSEARCH$cmdSearch&#39;,&#39;&#39;)"><img src="/Portals/_default/Skins/Greytness2/graphics/search-button.png" alt="Search" class="btnSearch"/></a>
+</span>
+
+
+<script type="text/javascript">
+    $(function() {
+        if (typeof dnn != "undefined" && typeof dnn.searchSkinObject != "undefined") {
+            var searchSkinObject = new dnn.searchSkinObject({
+                delayTriggerAutoSearch : 400,
+                minCharRequiredTriggerAutoSearch : 2,
+                searchType: 'S',
+                enableWildSearch: true,
+                cultureCode: 'en-US',
+                portalId: -1
+                }
+            );
+            searchSkinObject.init();
+            
+            
+            // attach classic search
+            var siteBtn = $('#dnn_dnnSEARCH_SiteRadioButton');
+            var webBtn = $('#dnn_dnnSEARCH_WebRadioButton');
+            var clickHandler = function() {
+                if (siteBtn.is(':checked')) searchSkinObject.settings.searchType = 'S';
+                else searchSkinObject.settings.searchType = 'W';
+            };
+            siteBtn.on('change', clickHandler);
+            webBtn.on('change', clickHandler);
+            
+            
+        }
+    });
+</script>
+
+            </div>
+            
+            
+                    <!--Menu Start-->
+        <div class="menu">
+
+          <ul class="megaCSS3menu">
+<li>
+              <a href="http://statistica.io/products/" class="drop">
+                Products
+              </a>
+            </li>
+ <!--           <li>
+              <a href="javascript:void(0)" class="drop">
+                Products
+              </a>
+              <div class="Megadrop width60">
+                <div class="col_1 firstcolumn">
+                  <a href="/Products/STATISTICA-Features">
+                    <span>
+                      Statistica Features
+                    </span>
+                  </a><ul class="levels">
+                    <li>
+                      <a href="/Products/STATISTICA-Features/Visual-Introduction-to-STATISTICA">
+                        Visual Introduction to Statistica
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Products/STATISTICA-Features/Analytic-Modules">
+                        Analytic Modules
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Products/STATISTICA-Features/Data-Visualization">
+                        Data Visualization
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Products/STATISTICA-Features/Connectivity-Integration">
+                        Connectivity &amp; Integration
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Products/STATISTICA-Features/Flexible-Output">
+                        Flexible Output
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Products/STATISTICA-Features/Visual-Basic">
+                        Visual Basic
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Products/STATISTICA-Features/Numerical-Precision">
+                        Numerical Precision
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Products/STATISTICA-Features/Document-Types">
+                        Document Types
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Products/STATISTICA-Features/SAP-Certified">
+                        SAP Certified
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Products/STATISTICA-Features/Big-Data">
+                        Big Data
+                      </a>
+                    </li>
+                  </ul>
+                </div><div class="col_1">
+                  <a href="/Products/STATISTICA/Product-Index">
+                    <span>
+                      Featured Products
+                    </span>
+                  </a><ul class="levels">
+                    <li>
+                      <a href="/Products/STATISTICA/Data-Miner">
+                        Data Miner
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Products/STATISTICA/Text-Miner">
+                        Text Miner
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Products/STATISTICA/Enterprise-Server">
+                        Enterprise Server
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Products/STATISTICA/Decisioning-Platform">
+                        Decisioning Platform
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Products/STATISTICA/Product-Index">
+                        Product Index A-Z
+                      </a>
+                    </li>
+                  </ul>
+                </div><div class="col_1">
+                  <a href="/Products/STATISTICA/Product-Index">
+                    <span>
+                      Store
+                    </span>
+                  </a><ul class="levels">
+                    <li>
+                      <a href="/Request-a-Quote">
+                        Request A Quote
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Products/Store/Upgrade-STATISTICA">
+                        Upgrade Statistica
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Products/Store/Try-Before-You-Buy">
+                        Try Before You Buy
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Products/Store/In-The-Classroom">
+                        In The Classroom
+                      </a>
+                    </li>
+                </ul>
+                </div><div class="col_1">
+                  <a href="/Products/Services">
+                    <span>
+                      Services
+                    </span>
+                  </a><ul class="levels">
+                    <li>
+                      <a href="/Products/Services/Custom-Development">
+                        Custom Development
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Products/Services/Consulting">
+                        Consulting
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Products/Services/Training">
+                        Training
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Products/Services/Systems-Validation">
+                        Systems Validation
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </li>
+ -->
+<li>
+                      <a href="http://statistica.io/uses/">
+                        Solutions
+                      </a>
+                    </li>
+
+ <!--          <li>
+              <a href="javascript:void(0)" class="drop">
+                Solutions
+              </a>
+              <div class="Megadrop width90">
+                <div class="col_1 firstcolumn">
+                  <a href="/Solutions/Cross-Industry">
+                    <span>
+                      Cross-Industry
+                    </span>
+                  </a><ul class="levels">
+                    <li>
+                      <a href="/Solutions/Cross-Industry/Big-Data">
+                        Big Data
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Cross-Industry/Customer-Analytics">
+                        Customer Analytics
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Cross-Industry/Data-Mining">
+                        Data Mining
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Cross-Industry/Demand-Forecasting">
+                        Demand Forecasting
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Cross-Industry/Predictive-Analytics">
+                        Predictive Analytics
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Cross-Industry/Real-Time-Scoring">
+                        Real Time Scoring
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Cross-Industry/R-Integration">
+                        R Integration
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Cross-Industry/Sentiment-Analysis">
+                        Sentiment Analysis
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Cross-Industry/Text-Mining">
+                        Text Mining
+                      </a>
+                    </li>
+                  </ul><a href="/Solutions/Energy-Oil-and-Gas">
+                    <span>
+                      Energy, Oil and Gas
+                    </span>
+                  </a><ul class="levels">
+                    <li>
+                      <a href="/Solutions/Energy-Oil-and-Gas/Demand-Forecasting">
+                        Demand Forecasting
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Energy-Oil-and-Gas/Emissions-Reduction">
+                        Emissions Reduction
+                      </a>
+                    </li>
+                    <li>
+                      <a href="http://power.statsoft.com/">
+                        Power Generation
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Energy-Oil-and-Gas/Process-Optimization">
+                        Process Optimization
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Energy-Oil-and-Gas/Risk-Management">
+                        Risk Management
+                      </a>
+                    </li>
+                  </ul>
+                </div><div class="col_1">
+                  <a href="/Solutions/Financial">
+                    <span>
+                      Financial
+                    </span>
+                  </a><ul class="levels">
+                    <li>
+                      <a href="/Solutions/Financial/Churn-Analysis">
+                        Churn Analysis
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Financial/Credit-Scoring">
+                        Credit Scoring
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Financial/Customer-Analytics">
+                        Customer Analytics
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Financial/Fraud-Detection">
+                        Fraud Detection
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Financial/Risk-Management">
+                        Risk Management
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Financial/Sarbanes-Oxley">
+                        Sarbanes-Oxley
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Financial/Scorecard">
+                        Scorecard
+                      </a>
+                    </li>
+                  </ul><a href="/Solutions/Healthcare">
+                    <span>
+                      Healthcare
+                    </span>
+                  </a><ul class="levels">
+                    <li>
+                      <a href="/Solutions/Healthcare/Fraud-Detection">
+                        Fraud Detection
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Healthcare/Patient-Safety">
+                        Patient Safety
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Healthcare/Risk-Mitigation">
+                        Risk Mitigation
+                      </a>
+                    </li>
+                  </ul>
+                </div><div class="col_1">
+                  <a href="/Solutions/Hospitality-Gaming">
+                    <span>
+                      Hospitality/Gaming
+                    </span>
+                  </a><ul class="levels">
+                    <li>
+                      <a href="/Solutions/Hospitality-Gaming/Churn-Analysis">
+                        Churn Analysis
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Hospitality-Gaming/Customer-Loyalty">
+                        Customer Loyalty
+                      </a>
+                    </li>
+                  </ul><a href="/Solutions/Insurance">
+                    <span>
+                      Insurance
+                    </span>
+                  </a><ul class="levels">
+                    <li>
+                      <a href="/Solutions/Insurance/Claims-Management">
+                        Claims Management
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Insurance/Customer-Analytics">
+                        Customer Analytics
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Insurance/Fraud-Detection">
+                        Fraud Detection
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Insurance/Health">
+                        Health
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Insurance/Life">
+                        Life
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Insurance/Property-Casualty">
+                        Property &amp; Casualty
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Insurance/Rate-Making">
+                        Rate Making
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Insurance/Risk-Management">
+                        Risk Management
+                      </a>
+                    </li>
+                  </ul>
+                </div><div class="col_1">
+                  <a href="/Solutions/Manufacturing">
+                    <span>
+                      Manufacturing
+                    </span>
+                  </a><ul class="levels">
+                    <li>
+                      <a href="/Solutions/Manufacturing/Automotive">
+                        Automotive
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Manufacturing/Consumer-Product">
+                        Consumer Product
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Manufacturing/Customer-Insight">
+                        Customer Insight
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Manufacturing/Demand-Forecasting">
+                        Demand Forecasting
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Manufacturing/Food-Beverage">
+                        Food &amp; Beverage
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Manufacturing/Heavy-Equipment">
+                        Heavy Equipment
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Manufacturing/Predictive-Maintenance">
+                        Predictive Maintenance
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Manufacturing/Predictive-Quality-Control">
+                        Predictive Quality Control
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Manufacturing/Product-Traceability">
+                        Product Traceability
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Manufacturing/Quality-Control">
+                        Quality Control
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Manufacturing/Semiconductors">
+                        Semiconductors
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Manufacturing/Six-Sigma">
+                        Six Sigma
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Pharmaceutical/Stability-Shelf-Life-Analysis">
+                        Stability &amp; Shelf Life Analysis
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Manufacturing/Validated-Reporting">
+                        Validated Reporting
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Manufacturing/Warranty-Analytics">
+                        Warranty Analytics
+                      </a>
+                    </li>
+                  </ul>
+                </div><div class="col_1">
+                  <a href="/Solutions/Marketing">
+                    <span>
+                      Marketing
+                    </span>
+                  </a><ul class="levels">
+                    <li>
+                      <a href="/Solutions/Marketing/Customer-Insight">
+                        Customer Insight
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Marketing/Customer-Retention">
+                        Customer Retention
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Marketing/Market-Basket-Analysis">
+                        Market Basket Analysis
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Marketing/Media-Mix-Optimization">
+                        Media Mix Optimization
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Marketing/Price-Optimization">
+                        Price Optimization
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Marketing/Propensity">
+                        Propensity
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Marketing/Revenue-Optimization">
+                        Revenue Optimization
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Marketing/Sentiment-Analysis">
+                        Sentiment Analysis
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Marketing/Telecommunications">
+                        Telecommunications
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Marketing/Up-lift-Net-lift">
+                        Up-lift/Net-lift
+                      </a>
+                    </li>
+                  </ul><a href="/Solutions/Pharmaceutical">
+                    <span>
+                      Pharmaceutical
+                    </span>
+                  </a><ul class="levels">
+                    <li>
+                      <a href="/Solutions/Pharmaceutical/Compliance">
+                        Compliance
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Pharmaceutical/Manufacturing">
+                        Manufacturing
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Pharmaceutical/Product-Traceability">
+                        Product Traceability
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Pharmaceutical/Stability-Shelf-Life-Analysis">
+                        Stability &amp; Shelf Life Analysis
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/Solutions/Pharmaceutical/Validated-Reporting">
+                        Validated Reporting
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </li>
+-->            <li>
+              <a href="http://statistica.io/contact-us/sales/" class="drop">
+                Buy
+              </a>
+            </li>
+            <li>
+              <a href="http://statistica.io/resources/trial-download/" class="drop">
+                Trials
+              </a>
+            </li>
+<li>
+              <a href="https://support.tibco.com/s/" class="drop">
+                Support
+              </a>
+            </li>
+  <!--          <li>
+              <a href="http://support.software.dell.com" class="drop">
+                Support
+              </a>
+              <div class="Megadrop width1423">
+                <div class="col_1 firstcolumn">
+                  <a href="https://support.software.dell.com/statistica/">
+                    <span>
+                      Statistica Support
+                    </span>
+                  </a><ul class="levels">
+                    <li>
+                      <a href="https://support.software.dell.com/statistica/kb">
+                        Q&amp;A / Knowledge Base
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://support.software.dell.com/Statistica/download-new-releases">
+                        Software Updates
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://support.software.dell.com/Statistica/training">
+                        Training
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://support.software.dell.com/statistica/release-notes-guides">
+                        Installation Instructions
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://support.software.dell.com/licensing-assistance">
+                        Certificate of Deinstallation
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </li>
+ -->         </ul>
+        </div>
+            
+            
+            
+          </div>
+        </div>
+        <div class="BorderBgDiv">
+            <div class="breadcrumb-row">
+              <div class="breadcrumbdiv">
+				<a id="home" href="http://www.statistica.io"><span class="icon home"></span></a><span class='sep'></span>
+                <span id="dnn_dnnBREADCRUMB_lblBreadCrumb"><a href="http://www.statsoft.com/Textbook" class="breadcrumb">Textbook</a></span>
+
+              </div>
+            </div>
+          <div id="dnn_BannerPane2" class="BannerPane2">
+	          <p><img alt="Electronic statistics textbook banner" src="/portals/0/Images/banners/fp-banners-dnn-greytness-EST.jpg" style="width: 960px; height: 200px; " /></p>
+	          </div>
+
+          <div id="dnn_BannerPane3" class="BannerPane3 DNNEmptyPane"></div>
+          <div class="contentBg">
+            <div class="content">
+              <div id="dnn_TopPane" class="TopPane DNNEmptyPane"></div>
+              <div id="TopPaneDiv" class="TopPaneDiv">
+                <div id="dnn_TopLeftPane" class="TopLeftPane left DNNEmptyPane"></div>
+                <div id="dnn_TopRightPane" class="TopRightPane right DNNEmptyPane"></div>
+              </div>
+              <div id="dnn_ContentPane" class="ContentPane ContentPaneDiv DNNEmptyPane"></div>
+              <div id="ContentPane2Div" class="ContentPaneDiv">
+                <div id="dnn_LeftPane" class="LeftPane left">
+	                        
+
+<script src="/images/flash/loadFlash.js" language="Javascript" type="text/javascript"></script>
+
+<div class="est2">
+	
+<style>
+.buttons ul li {  list-style-type:none; }
+.buttons ul { padding-left:0px; margin-left:0px; }
+</style>
+	
+<div class="estcontent2">
+
+
+<div class="buttons">
+		<ul class="leftbutton" id="leftbutton">
+        	<li><a href="/textbook/elementary-concepts-in-statistics/"><img src="/textbook/images/b1.png" alt="" align="top"/> Elementary Concepts</a></li>
+			<li><a href="/textbook/statistics-glossary/" target="_blank"><img src="/textbook/images/b42.png" alt="" align="top"/> Statistics Glossary</a></li>
+			<li><a href="/textbook/basic-statistics/"><img src="/textbook/images/b2.png" alt="" align="top"/> Basic Statistics</a></li>
+			<li><a href="/textbook/anova-manova/"><img src="/textbook/images/b3.png" alt="" align="top"/> ANOVA / MANOVA</a></li>
+			<li><a href="/textbook/association-rules/"><img src="/textbook/images/b4.png" alt="" align="top"/> Association Rules</a></li>
+			<li><a href="/textbook/boosting-trees-regression-classification/"><img src="/textbook/images/b5.png" alt="" align="top"/> Boosting Trees</a></li>
+			<li><a href="/textbook/canonical-analysis/"><img src="/textbook/images/b6.png" alt="" align="top"/> Canonical Analysis</a></li>
+			<li><a href="/textbook/chaid-analysis/"><img src="/textbook/images/b7.png" alt="" align="top"/> CHAID Analysis</a></li>
+			<li><a href="/textbook/classification-and-regression-trees/"><img src="/textbook/images/b8.png" alt="" align="top"/> C &#38; R Trees</a></li>
+			<li><a href="/textbook/classification-trees/"><img src="/textbook/images/b9.png" alt="" align="top"/> Classification Trees</a></li>
+			<li><a href="/textbook/cluster-analysis/"><img src="/textbook/images/b10.png" alt="" align="top"/> Cluster Analysis</a></li>
+			<li><a href="/textbook/correspondence-analysis/"><img src="/textbook/images/b11.png" alt="" align="top"/> Correspondence Analysis</a></li>
+			<li><a href="/textbook/data-mining-techniques/"><img src="/textbook/images/b12.png" alt="" align="top"/> Data Mining Techniques</a></li>
+			<li><a href="/textbook/discriminant-function-analysis/"><img src="/textbook/images/b13.png" alt="" align="top"/> Discriminant Analysis</a></li>
+			<li><a href="/textbook/distribution-fitting/"><img src="/textbook/images/b14.png" alt="" align="top"/> Distribution Fitting</a></li>
+			<li><a href="/textbook/experimental-design/"><img src="/textbook/images/b15.png" alt="" align="top"/> Experimental Design</a></li>
+			<li><a href="/textbook/principal-components-factor-analysis/"><img src="/textbook/images/b16.png" alt="" align="top"/> Factor Analysis</a></li>
+			<li><a href="/textbook/general-discriminant-analysis/"><img src="/textbook/images/b17.png" alt="" align="top"/> General Discrim. Analysis</a></li>
+			<li><a href="/textbook/general-linear-models/"><img src="/textbook/images/b18.png" alt="" align="top"/> General Linear Models</a></li>
+			<li><a href="/textbook/generalized-additive-models/"><img src="/textbook/images/b19.png" alt="" align="top"/> Generalized Additive Mod.</a></li>
+			<li><a href="/textbook/generalized-linear-models/"><img src="/textbook/images/b20.png" alt="" align="top"/> Generalized Linear Mod.</a></li>
+			<li><a href="/textbook/general-regression-models/"><img src="/textbook/images/b21.png" alt="" align="top"/> General Regression Mod.</a></li>
+			<li><a href="/textbook/graphical-analytic-techniques/"><img src="/textbook/images/b22.png" alt="" align="top"/> Graphical Techniques</a></li>
+			<li><a href="/textbook/independent-components-analysis/"><img src="/textbook/images/b23.png" alt="" align="top"/> Ind.Components Analysis</a></li>
+			<li><a href="/textbook/multiple-regression/"><img src="/textbook/images/b24.png" alt="" align="top"/> Linear Regression</a></li>
+			<li><a href="/textbook/log-linear-analysis-frequency-tables/"><img src="/textbook/images/b25.png" alt="" align="top"/> Log-Linear Analysis</a></li>
+			<li><a href="/textbook/multivariate-adaptive-regression-splines/"><img src="/textbook/images/b26.png" alt="" align="top"/> MARSplines</a></li>
+			<li><a href="/textbook/machine-learning/"><img src="/textbook/images/b27.png" alt="" align="top"/> Machine Learning</a></li>
+			<li><a href="/textbook/multidimensional-scaling/"><img src="/textbook/images/b28.png" alt="" align="top"/> Multidimensional Scaling</a></li>
+			<li><a href="/textbook/neural-networks/"><img src="/textbook/images/b29.png" alt="" align="top"/> Neural Networks</a></li>
+			<li><a href="/textbook/nonlinear-estimation/"><img src="/textbook/images/b30.png" alt="" align="top"/> Nonlinear Estimation</a></li>
+			<li><a href="/textbook/nonparametric-statistics/"><img src="/textbook/images/b31.png" alt="" align="top"/> Nonparametric Statistics</a></li>
+			<li><a href="/textbook/partial-least-squares/"><img src="/textbook/images/b32.png" alt="" align="top"/> Partial Least Squares</a></li>
+			<li><a href="/textbook/power-analysis/"><img src="/textbook/images/b33.png" alt="" align="top"/> Power Analysis</a></li>
+			<li><a href="/textbook/process-analysis/"><img src="/textbook/images/b34.png" alt="" align="top"/> Process Analysis</a></li>
+			<li><a href="/textbook/quality-control-charts/"><img src="/textbook/images/b35.png" alt="" align="top"/> Quality Control Charts</a></li>
+			<li><a href="/textbook/reliability-and-item-analysis/"><img src="/textbook/images/b36.png" alt="" align="top"/> Reliability / Item Analysis</a></li>
+			<li><a href="/textbook/structural-equation-modeling/"><img src="/textbook/images/b37.png" alt="" align="top"/> SEPATH (Structural eq.)</a></li>
+			<li><a href="/textbook/survival-failure-time-analysis/"><img src="/textbook/images/b38.png" alt="" align="top"/> Survival Analysis</a></li>
+			<li><a href="/textbook/text-mining/"><img src="/textbook/images/b39.png" alt="" align="top"/> Text Mining</a></li>
+			<li><a href="/textbook/time-series-analysis/"><img src="/textbook/images/b40.png" alt="" align="top"/> Time Series / Forecasting</a></li>
+			<li><a href="/textbook/variance-components-mixed-model-anova-ancova/"><img src="/textbook/images/b41.png" alt="" align="top"/> Variance Components</a></li>
+			<li><a href="/textbook/statistical-advisor/"><img src="/textbook/images/b43.png" alt="" align="top"/> Statistical Advisor</a></li>
+			<li><a href="/textbook/distribution-tables/"><img src="/textbook/images/b44.png" alt="" align="top"/> Distribution Tables</a></li>
+			<li><a href="/textbook/references-cited/"><img src="/textbook/images/b45.png" alt="" align="top"/> References Cited</a></li>
+            <li><a href="mailto:info@statsoft.com?subject=Electronic%20Statistics%20Textbook%20Comment"><img src="/textbook/images/b46.png" alt="" align="top"/> Send Comments</a></li>
+			<li><a href="/textbook/business-solutions/"><img src="/textbook/images/business.png" alt="" align="top"/> Business Solutions</a></li>
+			<li><a href="/textbook/free-resources/"><img src="/textbook/images/free.png" alt="" align="top"/> Free Resources</a></li>
+			<li><a href="/textbook/about-textbook/"><img src="/textbook/images/about.png" alt="" align="top"/> About Textbook</a></li>
+</ul>
+
+</div>
+
+</div>
+</div>
+
+
+	                </div>
+                <div id="dnn_ContentPane2" class="ContentPane2 right"><div class="DnnModule DnnModule-DNN_HTML DnnModule-1379"><a name="1379"></a>
+<div class="c_head c_head_blue">
+    <div class="head_title">
+        <!--div class="c_actions">
+            
+        </div-->
+        <div class="c_icon">
+            
+        </div>
+ 
+    </div>
+    <!--div class="title_vis">
+        <a id="dnn_ctr1379_dnnVISIBILITY_cmdVisibility" title="Minimize" href="javascript:__doPostBack(&#39;dnn$ctr1379$dnnVISIBILITY$cmdVisibility&#39;,&#39;&#39;)"><img id="dnn_ctr1379_dnnVISIBILITY_imgVisibility" title="Minimize" src="/Portals/_default/Containers/StatSoft/images/DNN-minus.gif" alt="Minimize" /></a>    <span><span><input type="image" name="dnn$ctr1379$dnnACTIONBUTTON3$ctl00$ctl00$ctl00" title="Print" src="/images/action_print.gif" alt="Print" /></span>&nbsp;&nbsp;</span>
+    </div-->
+
+</div>
+<div class="c_content">
+    <div id="dnn_ctr1379_ContentPane" class="Normal c_contentpane DNNAlignleft">
+    <!-- Start_Module_1379 --><div id="dnn_ctr1379_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	
+<div id="dnn_ctr1379_HtmlModule_lblContent" class="Normal">
+		<div style="clear:both"><!--TESTIMONIAL BLOCK ON RIGHT SIDE -->
+<div style="clear: right; border-width: 1px; border-style: solid; padding: 10px; width: 250px; height: auto; margin-bottom: 5px; margin-top: 15px; margin-left: 15px; float: right; display: block; background-color: rgb(255, 255, 255);">
+<p><span style="font-size: medium;"><span class="textheader">Testimonials</span></span></p>
+<p><span style="font-size: small;">&quot;Thank you and thank you again for providing a complete, well-structured, and easy-to-understand online resource. Every other website or snobbish research paper has not deigned to explain things in words consisting of less than four syllables. I was tossed to and fro like a man holding on to a frail plank that he calls his determination until I came across your electronic textbook...You have cleared the air for me. You have enlightened. You have illuminated. You have educated me.&quot;</span></p>
+<p align="right"><span style="font-size: small;"><em>&mdash;&nbsp;Mr.&nbsp;Daniel Chen Kwok Lee</em></span><br />
+<span style="font-size: x-small;"><em>October 2013</em></span></p>
+<!-- NEXT TESTIMONIAL INSIDE THE BLOCK -->
+<hr align="center" width="75%" />
+<p><br />
+<span style="font-size: small;">&quot;As a professional medical statistician of some 40 years standing, I can unreservedly recommend this textbook as a resource for self-education, teaching and on-the-fly illustration of specific statistical methodology in one-to-one statistical consulting. The topic area coverage is unparalleled in a single textbook, drawing in the usual suspects, but many not-so-usual: Classification trees, Neural networks, Structural equation modeling, to name but a few. This book is an absolute friend-in-need when you need to get to the point fast, without fuss, in a way that anyone can understand.&quot;</span></p>
+<p align="right"><span style="font-size: small;"><em>&mdash;&nbsp;Mr.&nbsp;Paul W. Strike</em></span><br />
+<span style="font-size: x-small;"><em>November 2012</em></span></p>
+<!-- NEXT TESTIMONIAL INSIDE THE BLOCK -->
+<hr align="center" width="75%" />
+<p><br />
+<span style="font-size: small;">&quot;Excellent book. Should come in hardcover and quality paper. The best companion for researcher in industry and academic alike.&quot;</span></p>
+<p align="right"><span style="font-size: small;"><em>&mdash;&nbsp;Dr.&nbsp;Jauhari Dahalan</em></span><br />
+<span style="font-size: x-small;"><em>Universiti Utara Malaysia<br />
+Spring, 2012</em></span></p>
+<!-- NEXT TESTIMONIAL INSIDE THE BLOCK -->
+<hr align="center" width="75%" />
+<p><br />
+<span style="font-size: small;">&quot;Just wanted to congratulate whoever wrote the &#39;Experimental Design&#39; page. It seems very clear and complete. I haven&#39;t found another summary on the internet that&#39;s close to as good. Kudos!&quot;</span></p>
+<p align="right"><span style="font-size: small;"><em>&mdash;&nbsp;James A. Cherry</em></span><br />
+<span style="font-size: x-small;"><em>Canada<br />
+March, 2012</em></span></p>
+<!-- NEXT TESTIMONIAL INSIDE THE BLOCK -->
+<hr align="center" width="75%" />
+<p><br />
+<span style="font-size: small;"><a href="/products/statistics-methods-and-applications-book/#comments">Read More Testimonials &gt;&gt;</a></span></p>
+<!-- FINAL DIV TAG INSIDE THE BLOCK --></div>
+<!--END TESTIMONIAL BLOCK ON RIGHT SIDE -->
+<p>
+<p><span style="font-size: medium;">StatSoft has freely provided the <em>Electronic Statistics Textbook</em> as a public service since 1995.</span></p>
+<p><span style="font-size: medium;">This textbook offers training in the understanding and application of statistics and data mining. The material was developed at the <a href="/company/">StatSoft</a> R&amp;D department based on many years of teaching undergraduate and graduate statistics courses. It covers a wide variety of applications, including laboratory research (biomedical, agricultural, etc.), business statistics, credit scoring, forecasting, social science statistics and survey research, data mining, engineering and quality control applications, and many others.<br />
+<br />
+The <em>Electronic Statistics Textbook</em> begins with an overview of the relevant elementary (pivotal) concepts and continues with a more in depth exploration of specific areas of statistics, organized by &quot;modules&quot; and accessible by buttons, representing classes of analytic techniques. A glossary of statistical terms and a list of references for further study are included.</span></p>
+<hr size="1" style="clear: none;" />
+<p>Proper citation:</p>
+<ul>
+<li><font color="#000080">(Electronic Version): StatSoft, Inc. (2013). Electronic Statistics Textbook. Tulsa, OK: StatSoft. WEB: http://www.statsoft.com/textbook/.</font></li>
+<li><font color="#000080">(Printed Version): Hill, T. &amp; Lewicki, P. (2007). STATISTICS: Methods and Applications. StatSoft, Tulsa, OK.</font></li>
+</ul>
+<hr size="1" style="clear: none;" />
+<p><span style="font-size: medium;"><font color="#000080">Overview of Elementary Concepts in Statistics. </font>In this introduction, we will briefly discuss those elementary statistical concepts that provide the necessary foundations for more specialized expertise in any area of statistical data analysis. The selected topics illustrate the basic assumptions of most statistical methods and/or have been demonstrated in research to be necessary components of one&#39;s general understanding of the &quot;quantitative nature&quot; of reality (Nisbet, et al., 1987). Because of space limitations, we will focus mostly on the functional aspects of the concepts discussed and the presentation will be very short.<br />
+<br />
+Further information on each of those concepts can be found in the Introductory Overview and Examples sections of this manual and in statistical textbooks. Recommended introductory textbooks are: Kachigan (1986), and Runyon and Haber (1976); for a more advanced discussion of elementary theory and assumptions of statistics, see the classic books by Hays (1988), and Kendall and Stuart (1979).</span></p>
+<hr size="1" style="clear: none;" />
+<table>
+<tbody>
+<tr>
+<td width="45%"><span style="font-size: medium;"><a name="Topical Index"></a></span>
+<ul>
+<li><a href="/textbook/elementary-concepts-in-statistics/#What are variables"><span style="font-size: medium;">What are variables?</span></a></li>
+<li><a href="/textbook/elementary-concepts-in-statistics/#Correlational vs. experimental research"><span style="font-size: medium;">Correlational vs. experimental research</span></a></li>
+<li><a href="/textbook/elementary-concepts-in-statistics/#Dependent vs. independent variables"><span style="font-size: medium;">Dependent vs. independent variables</span></a></li>
+<li><a href="/textbook/elementary-concepts-in-statistics/#Measurement scales"><span style="font-size: medium;">Measurement scales</span></a></li>
+<li><a href="/textbook/elementary-concepts-in-statistics/#Relations between variables"><span style="font-size: medium;">Relations between variables</span></a></li>
+<li><a href="/textbook/elementary-concepts-in-statistics/#Why relations between variables are important"><span style="font-size: medium;">Why relations between variables are important</span></a></li>
+<li><a href="/textbook/elementary-concepts-in-statistics/#Two basic features of every relation between variables"><span style="font-size: medium;">Two basic features of every relation between variables</span></a></li>
+<li><a href="/textbook/elementary-concepts-in-statistics/#What is &quot;statistical significance&quot; (p-level)"><span style="font-size: medium;">What is &quot;statistical significance&quot; (p-value)</span></a></li>
+<li><a href="/textbook/elementary-concepts-in-statistics/#How to determine that a result is &quot;really&quot; significant"><span style="font-size: medium;">How to determine that a result is &quot;really&quot; significant</span></a></li>
+<li><a href="/textbook/elementary-concepts-in-statistics/#Statistical significance and the number of analyses performed"><span style="font-size: medium;">Statistical significance and the number of analyses performed</span></a></li>
+<li><a href="/textbook/elementary-concepts-in-statistics/#Strength vs. reliability of a relation between variables"><span style="font-size: medium;">Strength vs. reliability of a relation between variables</span></a></li>
+<li><a href="/textbook/elementary-concepts-in-statistics/#Why stronger relations between variables are more significant"><span style="font-size: medium;">Why stronger relations between variables are more significant</span></a></li>
+</ul>
+</td>
+<td width="1%"><span style="font-size: medium;">&nbsp;</span></td>
+<td width="54%">
+<ul>
+<li><a href="/textbook/elementary-concepts-in-statistics/#Why significance of a relation between variables depends on the size of the sample"><span style="font-size: medium;">Why significance of a relation between variables depends on the size of the sample</span></a></li>
+<li><a href="/textbook/elementary-concepts-in-statistics/#Example: &quot;Baby boys to baby girls ratio&quot;"><span style="font-size: medium;">Example: &quot;Baby boys to baby girls ratio&quot;</span></a></li>
+<li><a href="/textbook/elementary-concepts-in-statistics/#Why small relations can be proven significant only in large samples"><span style="font-size: medium;">Why small relations can be proven significant only in large samples</span></a></li>
+<li><a href="/textbook/elementary-concepts-in-statistics/#Can &quot;no relation&quot; be a significant result"><span style="font-size: medium;">Can &quot;no relation&quot; be a significant result?</span></a></li>
+<li><a href="/textbook/elementary-concepts-in-statistics/#How to measure the magnitude (strength) of relations between variables"><span style="font-size: medium;">How to measure the magnitude (strength) of relations between variables</span></a></li>
+<li><a href="/textbook/elementary-concepts-in-statistics/#Common &quot;general format&quot; of most statistical tests"><span style="font-size: medium;">Common &quot;general format&quot; of most statistical tests</span></a></li>
+<li><a href="/textbook/elementary-concepts-in-statistics/#How the &quot;level of statistical significance&quot; is calculated"><span style="font-size: medium;">How the &quot;level of statistical significance&quot; is calculated</span></a></li>
+<li><a href="/textbook/elementary-concepts-in-statistics/#Why the &quot;Normal distribution&quot; is important"><span style="font-size: medium;">Why the &quot;Normal distribution&quot; is important</span></a></li>
+<li><a href="/textbook/elementary-concepts-in-statistics/#Illustration of how the normal distribution is used in statistical reasoning (induction)"><span style="font-size: medium;">Illustration of how the normal distribution is used in statistical reasoning (induction)</span></a></li>
+<li><a href="/textbook/elementary-concepts-in-statistics/#Are all test statistics normally distributed"><span style="font-size: medium;">Are all test statistics normally distributed?</span></a></li>
+<li><a href="/textbook/elementary-concepts-in-statistics/#How do we know the consequences of violating the normality assumption"><span style="font-size: medium;">How do we know the consequences of violating the normality assumption?</span></a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>
+
+	</div>
+
+</div><!-- End_Module_1379 --></div>
+</div>
+<div class="c_footer">
+<!--    
+    
+
+     -->
+</div>
+</div></div>
+              </div>
+              <div id="ContentPaneDiv" class="ContentPaneDiv">
+                <div id="dnn_ContentPane3" class="ContentPane3 left DNNEmptyPane"></div>
+                <div id="dnn_RightPane" class="RightPane right DNNEmptyPane"></div>
+              </div>
+              <div id="MiddlePaneDiv" class="MiddlePaneDiv">
+                <div id="dnn_MiddleLeftPane" class="MiddleLeftPane left DNNEmptyPane"></div>
+                <div id="dnn_MiddlePane" class="MiddlePane left DNNEmptyPane"></div>
+                <div id="dnn_MiddleRightPane" class="MiddleRightPane right DNNEmptyPane"></div>
+              </div>
+              <div id="BottomPaneDiv" class="BottomPaneDiv">
+                <div id="dnn_BottomColumn1" class="BottomColumn1 left DNNEmptyPane"></div>
+                <div id="dnn_BottomColumn2" class="BottomColumn2 left DNNEmptyPane"></div>
+                <div id="dnn_BottomColumn3" class="BottomColumn3 left DNNEmptyPane"></div>
+                <div id="dnn_BottomColumn4" class="BottomColumn4 right DNNEmptyPane"></div>
+              </div>
+              <div id="dnn_BottomPane" class="BottomPane DNNEmptyPane"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+    <div class="BottomDiv">
+      <div class="footer">
+
+
+        <div class="footer-wrapper">
+
+          <div id="copyright-container">
+            <ul>
+              <li>
+                <span id="dnn_dnnCOPYRIGHT_lblCopyright" class="copyright">Copyright &copy; 2019 TIBCO Software Inc All Rights Reserved.</span>
+
+              </li>
+              <li>
+                | <a href="http://statistica.io/privacy-policy/">Privacy Policy</a>
+              </li>
+
+            </ul>
+          </div>
+        </div>
+        <!--<div class="copyrightdiv">
+
+        </div>-->
+      </div>
+    </div>
+    <div id="dnn_SubFooterPane" class="SubFooterPane DNNEmptyPane"></div>
+    <div class="designBy">
+      <!--<a href="http://skinsbyadammer.com/greytness">Greytness</a> by <a href="http://www.adammer.com/">Adammer</a>&trade;-->
+    </div>
+  </div>
+
+  <!-- Slide Out Tab HTML Begin 
+  <div class="slide-out-div">
+    <a class="handle" href="http://link-for-non-js-users">Content</a>
+    <h2>Contact Us</h2>
+    <div id="slide-out-div-content">
+      <p>
+        <strong>Statistica</strong><br />
+        2300 East 14th Street<br />
+        Tulsa, Oklahoma, 74104<br />
+        (918) 749-1119<br />
+      </p>
+      <div class="social-icon-container">
+        <div class="social-icon-row">
+          <a href="http://www.facebook.com/pages/StatSoft-Inc/78024732826">
+            <img class="social-icon-menu" src="/portals/0/images/social/social-icons-01.png" />
+          </a>
+          <a href="http://www.youtube.com/user/StatSoft">
+            <img class="social-icon-menu" src="/portals/0/images/social/social-icons-02.png" />
+          </a>
+          <a href="http://twitter.com/statsoft">
+            <img class="social-icon-menu" src="/portals/0/images/social/social-icons-03.png" />
+          </a>
+
+          <a href="http://plus.google.com/103844338441741405659/posts">
+            <img class="social-icon-menu" src="/portals/0/images/social/social-icons-04.png" />
+          </a>
+          <a href="http://www.linkedin.com/company/statsoft">
+            <img class="social-icon-menu" src="/portals/0/images/social/social-icons-05.png" />
+          </a>
+          <a href="http://pinterest.com/statsoft/">
+            <img class="social-icon-menu" src="/portals/0/images/social/social-icons-06.png" />
+          </a>
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+    <div class="clear"></div>
+
+  </div>
+   Slide Out Tab HTML End -->
+
+</div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-385206-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function () {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+  if (document.referrer.match(/google\.com/gi) && document.referrer.match(/cd/gi)) {
+    var myString = document.referrer;
+    var r = myString.match(/cd=(.*?)&/);
+    var rank = parseInt(r[1]);
+    var kw = myString.match(/q=(.*?)&/);
+
+    if (kw[1].length > 0) {
+      var keyWord = decodeURI(kw[1]);
+    } else {
+      keyWord = "(not provided)";
+    }
+
+    var p = document.location.pathname;
+    _gaq.push(['_trackEvent', 'RankTracker', keyWord, p, rank, true]);
+  }
+
+</script>
+<script>
+  $("a[href$='pdf']").each(function (index) {
+    pdfLabel = $(this).attr('href');
+    pdfOnClick = "_gaq.push(['_trackEvent', 'PDF', 'Download', '" + pdfLabel + "']);";
+    $(this).attr("onClick", pdfOnClick);
+  });
+</script>
+<!--CDF(Javascript|/Portals/_default/Skins/Greytness2/js/charcool.js)-->
+
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" value="`{`__scdoff`:`1`,`sf_siteRoot`:`/`,`sf_tabId`:`349`}" />
+        <input name="__RequestVerificationToken" type="hidden" value="tqcsO7px-4upQyvxuRcpgjaPqlm_CvxRy5-13I0M_2RXnBvBBP2Cwm6JWIsMtKkdX8ndUENm7k0U-FyjFbv4ojMky0FK3OvuZd-S3nsvTMcb_1AjSSh2m88BPDg1" />
+    
+<script type="text/javascript" src="/Resources/Shared/scripts/initWidgets.js" ></script></form>
+    
+    
+</body>
+</html>

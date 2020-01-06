@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>IPLab - Pathology Education Instructional Resource</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21.4" />
+<link rel="shortcut icon" href="/wiki/peir.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="Pathology Education Instructional Resource (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://peir.path.uab.edu/wiki/api.php?action=rsd" />
+<link rel="copyright" href="/wiki/Pathology_Education_Instructional_Resource:License" />
+<link rel="alternate" type="application/atom+xml" title="Pathology Education Instructional Resource Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://peir.path.uab.edu/wiki/load.php?debug=false&amp;lang=en&amp;modules=ext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://peir.path.uab.edu/wiki/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: wikidb:resourceloader:filter:minify-css:7:7a3748d34e6456ae8d0f053363f745f7 */</style>
+
+<script src="http://peir.path.uab.edu/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"IPLab","wgTitle":"IPLab","wgCurRevisionId":2247,"wgArticleId":11,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IPLab"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"IPLab","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFPhotoUploadEndpoint":"","wgUseFormatCookie":{"name":"mf_mobileFormat","duration":-1,"path":"/","domain":"peir.path.uab.edu"},"wgStopMobileRedirectCookie":{"name":"stopMobileRedirect","duration":180,"domain":".uab.edu","path":"/"},"wgPhotoUploadAppendToDesc":null,"wgImagesDisabled":false,"wgMFMode":"stable","wgIsPageEditable":false,"wgPreferredVariant":"en"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});;},{},{});
+/* cache key: wikidb:resourceloader:filter:minify-js:7:5e9d6f662546365d82558dd92b2a2224 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/wiki/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-IPLab skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">IPLab</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Pathology Education Instructional Resource</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script language="JavaScript">
+
+function getStyleObject(objectId) {
+    // checkW3C DOM, then MSIE 4, then NN 4.
+    //
+    if(document.getElementById) {
+      if (document.getElementById(objectId)) {
+            return document.getElementById(objectId).style;
+      }
+    } else if (document.all) {
+      if (document.all(objectId)) {
+            return document.all(objectId).style;
+      }
+    } else if (document.layers) { 
+      if (document.layers[objectId]) { 
+            return document.layers[objectId];
+      }
+    } else {
+          return false;
+    }
+}
+
+function toggleObjectVisibility(objectId) {
+    // first get the object's stylesheet
+    var styleObject = getStyleObject(objectId);
+
+    // then if we find a stylesheet, set its visibility
+    // as requested
+    //
+    if (styleObject) {
+        if (styleObject.display == 'none') {
+            styleObject.display = 'block';
+        } else {
+            styleObject.display = 'none';
+        }
+        return true;
+    } else {
+        return false;
+    }
+}
+</script>
+<style type="text/css"><!--
+div.spoiler {border: 1px dashed #000000; background-color: #EEEEF2; padding: 3px;}
+span.spoilerHeader {font-size:135%; color:#ff0000;}
+a.spoilerLink {background-color:#EEEEF2; color:#0000FF; padding:2px 4px 2px 4px; border:solid black 1px; text-decoration: underline;}
+--></style>
+<p>The Interactive Pathology Laboratory offers an interactive, case-based approach for learning the concepts of Pathology. The program consists of approximately 100 cases outlining clinical and laboratory findings along with gross photographs and photomicrographs accompanied by descriptive text. The program has been designed to complement Robbins <i>Pathologic Basis of Disease</i> with groups of cases organized into laboratory modules that follow the sequence of chapters in the textbook.
+</p><p>This web site integrates discussion pages where students can post questions that either faculty or other students can answer. The Web site also contains links for other on-line resources related to the specific topic areas of interest. Quick and efficient access to high quality image files and built-in links to Internet based discussion forums and resource sites make the Interactive Pathology Laboratory program a unique and powerful educational tool. In addition to providing content, this program also encourages and facilitates communication and "information seeking" behavior - traits we would like to encourage in our medical students.
+</p><p>As of 3 January 2014, whole slide imaging (virtual microscopy) is fully integrated into IPLab.  Students now have the opportunity to explore entire slides on their own, as if they were in a traditional pathology laboratory with a microscope.  For further information (as well as a normal histology slidebox), please refer to <a rel="nofollow" class="external text" href="http://peir-vm.path.uab.edu/">PEIR-VM</a>.
+</p>
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Lab_1:_Cell_Injury_and_Death"><span class="tocnumber">1</span> <span class="toctext">Lab 1: Cell Injury and Death</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Lab_2:_Cell_Adaptations"><span class="tocnumber">2</span> <span class="toctext">Lab 2: Cell Adaptations</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Lab_3:_Inflammation_and_Repair"><span class="tocnumber">3</span> <span class="toctext">Lab 3: Inflammation and Repair</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Lab_4:_Hemodynamic_Disorders"><span class="tocnumber">4</span> <span class="toctext">Lab 4: Hemodynamic Disorders</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Lab_5:_Genetic_Disorders"><span class="tocnumber">5</span> <span class="toctext">Lab 5: Genetic Disorders</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Lab_6:_Immunopathology"><span class="tocnumber">6</span> <span class="toctext">Lab 6: Immunopathology</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Lab_7:_Neoplasia"><span class="tocnumber">7</span> <span class="toctext">Lab 7: Neoplasia</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Lab_8:_Viral_Diseases"><span class="tocnumber">8</span> <span class="toctext">Lab 8: Viral Diseases</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Lab_9:_Bacterial_Diseases"><span class="tocnumber">9</span> <span class="toctext">Lab 9: Bacterial Diseases</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Lab_10:_Fungal_Diseases"><span class="tocnumber">10</span> <span class="toctext">Lab 10: Fungal Diseases</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Lab_11:_Parasitic_Diseases"><span class="tocnumber">11</span> <span class="toctext">Lab 11: Parasitic Diseases</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Lab_12:_Environmental_Pathology"><span class="tocnumber">12</span> <span class="toctext">Lab 12: Environmental Pathology</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Lab_13:_Diseases_of_Infancy"><span class="tocnumber">13</span> <span class="toctext">Lab 13: Diseases of Infancy</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Lab_1:_Cell_Injury_and_Death"> <a href="/wiki/IPLab:Lab_1" title="IPLab:Lab 1">Lab 1: Cell Injury and Death</a> </span></h2>
+<ul><li> <a href="/wiki/IPLab:Lab_1:Objectives" title="IPLab:Lab 1:Objectives">Objectives</a>
+</li><li> <a href="/wiki/IPLab:Lab_1:Myocardial_Infarction" title="IPLab:Lab 1:Myocardial Infarction">Heart: Myocardial Infarction (Coagulative Necrosis)</a>
+</li><li> <a href="/wiki/IPLab:Lab_1:Kidney_Infarction" title="IPLab:Lab 1:Kidney Infarction">Kidney: Infarction (Coagulative Necrosis)</a>
+</li><li> <a href="/wiki/IPLab:Lab_1:Lung_Abscess" title="IPLab:Lab 1:Lung Abscess">Lung: Abscess (Liquefactive Necrosis)</a>
+</li><li> <a href="/wiki/IPLab:Lab_1:Fat_Necrosis" title="IPLab:Lab 1:Fat Necrosis">Pancreas: Fat Necrosis (Enzymatic Necrosis)</a>
+</li><li> <a href="/wiki/IPLab:Lab_1:Tuberculosis" title="IPLab:Lab 1:Tuberculosis">Lung: Tuberculosis (Caseous Necrosis)</a>
+</li><li> <a href="/wiki/IPLab:Lab_1:Prostate" title="IPLab:Lab 1:Prostate">Prostate: Apoptosis</a>
+</li><li> <a href="/wiki/IPLab:Lab_1:Additional_Resources" title="IPLab:Lab 1:Additional Resources">Additional Resources</a>
+</li></ul>
+<h2> <span class="mw-headline" id="Lab_2:_Cell_Adaptations"> <a href="/wiki/IPLab:Lab_2" title="IPLab:Lab 2">Lab 2: Cell Adaptations</a> </span></h2>
+<ul><li> <a href="/wiki/IPLab:Lab_2:Objectives" title="IPLab:Lab 2:Objectives">Objectives</a>
+</li><li> <a href="/wiki/IPLab:Lab_2:Hypertrophy" title="IPLab:Lab 2:Hypertrophy">Heart: Myocardial Hypertrophy</a>
+</li><li> <a href="/wiki/IPLab:Lab_2:Hyperplasia" title="IPLab:Lab 2:Hyperplasia">Prostate: Nodular Hyperplasia</a>
+</li><li> <a href="/wiki/IPLab:Lab_2:Metaplasia" title="IPLab:Lab 2:Metaplasia">Kidney: Squamous Metaplasia</a>
+</li><li> <a href="/wiki/IPLab:Lab_2:Atrophy" title="IPLab:Lab 2:Atrophy">Testis: Atrophy</a>
+</li><li> <a href="/wiki/IPLab:Lab_2:Metastatic_Calcification" title="IPLab:Lab 2:Metastatic Calcification">Lung: Metastatic Calcification</a>
+</li><li> <a href="/wiki/IPLab:Lab_2:Fatty_Change_and_Cirrhosis" title="IPLab:Lab 2:Fatty Change and Cirrhosis">Liver: Fatty Change &amp; Cirrhosis</a>
+</li><li> <a href="/wiki/IPLab:Lab_2:Additional_Resources" title="IPLab:Lab 2:Additional Resources">Additional Resources</a>
+</li></ul>
+<h2> <span class="mw-headline" id="Lab_3:_Inflammation_and_Repair"> <a href="/wiki/IPLab:Lab_3" title="IPLab:Lab 3">Lab 3: Inflammation and Repair</a> </span></h2>
+<ul><li> <a href="/wiki/IPLab:Lab_3:Objectives" title="IPLab:Lab 3:Objectives">Objectives</a>
+</li><li> <a href="/wiki/IPLab:Lab_3:Acute_Appendicitis" title="IPLab:Lab 3:Acute Appendicitis">Appendix: Acute Appendicitis</a>
+</li><li> <a href="/wiki/IPLab:Lab_3:Lobar_Pneumonia" title="IPLab:Lab 3:Lobar Pneumonia">Lung: Lobar Pneumonia</a>
+</li><li> <a href="/wiki/IPLab:Lab_3:Bronchopneumonia" title="IPLab:Lab 3:Bronchopneumonia">Lung: Bronchopneumonia</a>
+</li><li> <a href="/wiki/IPLab:Lab_3:Sarcoidosis" title="IPLab:Lab 3:Sarcoidosis">Lymph Node: Sarcoidosis</a>
+</li><li> <a href="/wiki/IPLab:Lab_3:Tuberculosis" title="IPLab:Lab 3:Tuberculosis">Lung: Tuberculosis</a>
+</li><li> <a href="/wiki/IPLab:Lab_3:Foreign_Body_Granuloma" title="IPLab:Lab 3:Foreign Body Granuloma">Lung: Foreign Body Granuloma</a>
+</li><li> <a href="/wiki/IPLab:Lab_3:Fibrinous_Pericarditis" title="IPLab:Lab 3:Fibrinous Pericarditis">Heart: Fibrinous Pericarditis</a>
+</li><li> <a href="/wiki/IPLab:Lab_3:Chronic_Peptic_Ulcer" title="IPLab:Lab 3:Chronic Peptic Ulcer">Stomach: Chronic Peptic Ulcer</a>
+</li><li> <a href="/wiki/IPLab:Lab_3:Brain_Infarction" title="IPLab:Lab 3:Brain Infarction">Brain: Healed Infarction</a>
+</li><li> <a href="/wiki/IPLab:Lab_3:Acute_Myocardial_Infarction" title="IPLab:Lab 3:Acute Myocardial Infarction">Heart: Acute Myocardial Infarction</a>
+</li><li> <a href="/wiki/IPLab:Lab_3:Healed_Myocardial_Infarction" title="IPLab:Lab 3:Healed Myocardial Infarction">Heart: Healed Myocardial Infarction</a>
+</li><li> <a href="/wiki/IPLab:Lab_3:Additional_Resources" title="IPLab:Lab 3:Additional Resources">Additional Resources</a>
+</li></ul>
+<h2> <span class="mw-headline" id="Lab_4:_Hemodynamic_Disorders"> <a href="/wiki/IPLab:Lab_4" title="IPLab:Lab 4">Lab 4: Hemodynamic Disorders</a> </span></h2>
+<ul><li> <a href="/wiki/IPLab:Lab_4:Objectives" title="IPLab:Lab 4:Objectives">Objectives</a>
+</li><li> <a href="/wiki/IPLab:Lab_4:Pulmonary_Congestion_and_Edema" title="IPLab:Lab 4:Pulmonary Congestion and Edema">Lung: Pulmonary Congestion and Edema</a>
+</li><li> <a href="/wiki/IPLab:Lab_4:Chronic_Passive_Congestion" title="IPLab:Lab 4:Chronic Passive Congestion">Liver: Chronic Passive Congestion</a>
+</li><li> <a href="/wiki/IPLab:Lab_4:Mural_Thrombus" title="IPLab:Lab 4:Mural Thrombus">Heart: Mural Thrombus</a>
+</li><li> <a href="/wiki/IPLab:Lab_4:Thrombosis" title="IPLab:Lab 4:Thrombosis">Coronary Artery: Thrombosis</a>
+</li><li> <a href="/wiki/IPLab:Lab_4:Thromboembolus" title="IPLab:Lab 4:Thromboembolus">Lung: Thromboembolus</a>
+</li><li> <a href="/wiki/IPLab:Lab_4:Septic_Emboli" title="IPLab:Lab 4:Septic Emboli">Lung and Heart: Septic Emboli</a>
+</li><li> <a href="/wiki/IPLab:Lab_4:Atheromatous_Emboli" title="IPLab:Lab 4:Atheromatous Emboli">Kidney: Atheromatous Emboli</a>
+</li><li> <a href="/wiki/IPLab:Lab_4:Additional_Resources" title="IPLab:Lab 4:Additional Resources">Additional Resources</a>
+</li></ul>
+<h2> <span class="mw-headline" id="Lab_5:_Genetic_Disorders"> <a href="/wiki/IPLab:Lab_5" title="IPLab:Lab 5">Lab 5: Genetic Disorders</a> </span></h2>
+<ul><li> <a href="/wiki/IPLab:Lab_5:Objectives" title="IPLab:Lab 5:Objectives">Objectives</a>
+</li><li> <a href="/wiki/IPLab:Lab_5:Neurofibromatosis" title="IPLab:Lab 5:Neurofibromatosis">Skin: Neurofibromatosis</a>
+</li><li> <a href="/wiki/IPLab:Lab_5:Polycystic_Kidney_Disease" title="IPLab:Lab 5:Polycystic Kidney Disease">Kidney: Polycystic Kidney Disease</a>
+</li><li> <a href="/wiki/IPLab:Lab_5:%CE%B11_Antitrypsin_Deficiency" title="IPLab:Lab 5:α1 Antitrypsin Deficiency">Lung: &#945;1-Antitrypsin Deficiency</a>
+</li><li> <a href="/wiki/IPLab:Lab_5:Hemochromatosis" title="IPLab:Lab 5:Hemochromatosis">Liver: Hemochromatosis</a>
+</li><li> <a href="/wiki/IPLab:Lab_5:Gaucher_Disease" title="IPLab:Lab 5:Gaucher Disease">Spleen: Gaucher Disease</a>
+</li><li> <a href="/wiki/IPLab:Lab_5:Gout" title="IPLab:Lab 5:Gout">Gout</a>
+</li><li> <a href="/wiki/IPLab:Lab_5:Nodular_Intercapillary_Glomerulosclerosis" title="IPLab:Lab 5:Nodular Intercapillary Glomerulosclerosis">Kidney: Nodular Intercapillary Glomerulosclerosis</a>
+</li><li> <a href="/wiki/IPLab:Lab_5:Trisomy_21" title="IPLab:Lab 5:Trisomy 21">Trisomy 21</a>
+</li><li> <a href="/wiki/IPLab:Lab_5:Additional_Resources" title="IPLab:Lab 5:Additional Resources">Additional Resources</a>
+</li></ul>
+<h2> <span class="mw-headline" id="Lab_6:_Immunopathology"> <a href="/wiki/IPLab:Lab_6" title="IPLab:Lab 6">Lab 6: Immunopathology</a> </span></h2>
+<ul><li> <a href="/wiki/IPLab:Lab_6:Objectives" title="IPLab:Lab 6:Objectives">Objectives</a>
+</li><li> <a href="/wiki/IPLab:Lab_6:Rheumatoid_Arthritis" title="IPLab:Lab 6:Rheumatoid Arthritis">Rheumatoid Arthritis</a>
+</li><li> <a href="/wiki/IPLab:Lab_6:Graves_Disease" title="IPLab:Lab 6:Graves Disease">Thyroid: Graves Disease</a>
+</li><li> <a href="/wiki/IPLab:Lab_6:Hashimoto%27s_Thyroiditis" title="IPLab:Lab 6:Hashimoto's Thyroiditis">Thyroid: Hashimoto's Thyroiditis</a>
+</li><li> <a href="/wiki/IPLab:Lab_6:PAN" title="IPLab:Lab 6:PAN">Polyarteritis Nodosa</a>
+</li><li> <a href="/wiki/IPLab:Lab_6:Scleroderma" title="IPLab:Lab 6:Scleroderma">Lung: Scleroderma</a>
+</li><li> <a href="/wiki/IPLab:Lab_6:Tuberculosis" title="IPLab:Lab 6:Tuberculosis">Lung: Tuberculosis</a>
+</li><li> <a href="/wiki/IPLab:Lab_6:Glomerulonephritis" title="IPLab:Lab 6:Glomerulonephritis">Kidney: Glomerulonephritis</a>
+</li><li> <a href="/wiki/IPLab:Lab_6:Acute_Rejection" title="IPLab:Lab 6:Acute Rejection">Kidney: Acute Transplant Rejection</a>
+</li><li> <a href="/wiki/IPLab:Lab_6:Chronic_Rejection" title="IPLab:Lab 6:Chronic Rejection">Kidney: Chronic Transplant Rejection</a>
+</li><li> <a href="/wiki/IPLab:Lab_6:Multiple_Myeloma" title="IPLab:Lab 6:Multiple Myeloma">Multiple Myeloma with Amyloid</a>
+</li><li> <a href="/wiki/IPLab:Lab_6:Amyloidosis" title="IPLab:Lab 6:Amyloidosis">Liver: Amyloidosis</a>
+</li><li> <a href="/wiki/IPLab:Lab_6:Senile_Amyloidosis" title="IPLab:Lab 6:Senile Amyloidosis">Heart: Senile Amyloidosis</a>
+</li><li> <a href="/wiki/IPLab:Lab_6:Additional_Resources" title="IPLab:Lab 6:Additional Resources">Additional Resources</a>
+</li></ul>
+<h2> <span class="mw-headline" id="Lab_7:_Neoplasia"> <a href="/wiki/IPLab:Lab_7" title="IPLab:Lab 7">Lab 7: Neoplasia</a> </span></h2>
+<ul><li> <a href="/wiki/IPLab:Lab_7:Objectives" title="IPLab:Lab 7:Objectives">Objectives</a>
+</li><li> <a href="/wiki/IPLab:Lab_7:Adenoma" title="IPLab:Lab 7:Adenoma">Thyroid: Adenoma</a>
+</li><li> <a href="/wiki/IPLab:Lab_7:Fibroadenoma" title="IPLab:Lab 7:Fibroadenoma">Breast: Fibroadenoma</a>
+</li><li> <a href="/wiki/IPLab:Lab_7:Lip_SCC" title="IPLab:Lab 7:Lip SCC">Lip: Squamous Cell Carcinoma</a>
+</li><li> <a href="/wiki/IPLab:Lab_7:Esophagus_SCC" title="IPLab:Lab 7:Esophagus SCC">Esophagus: Squamous Cell Carcinoma</a>
+</li><li> <a href="/wiki/IPLab:Lab_7:Adenocarcinoma" title="IPLab:Lab 7:Adenocarcinoma">Colon: Adenocarcinoma</a>
+</li><li> <a href="/wiki/IPLab:Lab_7:Metastatic_Adenocarcinoma" title="IPLab:Lab 7:Metastatic Adenocarcinoma">Lung &amp; Liver: Metastatic Adenocarcinoma</a>
+</li><li> <a href="/wiki/IPLab:Lab_7:IDC" title="IPLab:Lab 7:IDC">Breast: Infiltrating Ductal Carcinoma</a>
+</li><li> <a href="/wiki/IPLab:Lab_7:Malignant_Melanoma" title="IPLab:Lab 7:Malignant Melanoma">Skin: Malignant Melanoma</a>
+</li><li> <a href="/wiki/IPLab:Lab_7:Bronchogenic_Carcinoma" title="IPLab:Lab 7:Bronchogenic Carcinoma">Lung: Bronchogenic Carcinoma</a>
+</li><li> <a href="/wiki/IPLab:Lab_7:Carcinoid" title="IPLab:Lab 7:Carcinoid">Ileocecal Valve: Carcinoid</a>
+</li><li> <a href="/wiki/IPLab:Lab_7:Osteosarcoma" title="IPLab:Lab 7:Osteosarcoma">Femur: Osteosarcoma</a>
+</li><li> <a href="/wiki/IPLab:Lab_7:Additional_Resources" title="IPLab:Lab 7:Additional Resources">Additional Resources</a>
+</li></ul>
+<h2> <span class="mw-headline" id="Lab_8:_Viral_Diseases"> <a href="/wiki/IPLab:Lab_8" title="IPLab:Lab 8">Lab 8: Viral Diseases</a> </span></h2>
+<ul><li> <a href="/wiki/IPLab:Lab_8:Objectives" title="IPLab:Lab 8:Objectives">Objectives</a>
+</li><li> <a href="/wiki/IPLab:Lab_8:HSV_Glossitis" title="IPLab:Lab 8:HSV Glossitis">Tongue: Herpes Glossitis</a>
+</li><li> <a href="/wiki/IPLab:Lab_8:HSV_Encephalitis" title="IPLab:Lab 8:HSV Encephalitis">Brain: Herpes Encephalitis</a>
+</li><li> <a href="/wiki/IPLab:Lab_8:Rabies" title="IPLab:Lab 8:Rabies">Brain: Rabies</a>
+</li><li> <a href="/wiki/IPLab:Lab_8:Poliomyelitis" title="IPLab:Lab 8:Poliomyelitis">Spinal Cord: Poliomyelitis</a>
+</li><li> <a href="/wiki/IPLab:Lab_8:Hepatitis_B" title="IPLab:Lab 8:Hepatitis B">Liver: Hepatitis B</a>
+</li><li> <a href="/wiki/IPLab:Lab_8:Additional_Resources" title="IPLab:Lab 8:Additional Resources">Additional Resources</a>
+</li></ul>
+<h2> <span class="mw-headline" id="Lab_9:_Bacterial_Diseases"> <a href="/wiki/IPLab:Lab_9" title="IPLab:Lab 9">Lab 9: Bacterial Diseases</a> </span></h2>
+<ul><li> <a href="/wiki/IPLab:Lab_9:Objectives" title="IPLab:Lab 9:Objectives">Objectives</a>
+</li><li> <a href="/wiki/IPLab:Lab_9:RMSF" title="IPLab:Lab 9:RMSF">Skin: Rocky Mountain Spotted Fever</a>
+</li><li> <a href="/wiki/IPLab:Lab_9:Bacterial_Meningitis" title="IPLab:Lab 9:Bacterial Meningitis">Brain: Bacterial Meningitis</a>
+</li><li> <a href="/wiki/IPLab:Lab_9:Diphtheria" title="IPLab:Lab 9:Diphtheria">Trachea: Diphtheria</a>
+</li><li> <a href="/wiki/IPLab:Lab_9:ARF" title="IPLab:Lab 9:ARF">Heart: Acute Rheumatic Myocarditis</a>
+</li><li> <a href="/wiki/IPLab:Lab_9:Clostridial_Myonecrosis" title="IPLab:Lab 9:Clostridial Myonecrosis">Clostridial Myonecrosis</a>
+</li><li> <a href="/wiki/IPLab:Lab_9:Actinomycosis" title="IPLab:Lab 9:Actinomycosis">Actinomycosis</a>
+</li><li> <a href="/wiki/IPLab:Lab_9:Additional_Resources" title="IPLab:Lab 9:Additional Resources">Additional Resources</a>
+</li></ul>
+<h2> <span class="mw-headline" id="Lab_10:_Fungal_Diseases"> <a href="/wiki/IPLab:Lab_10" title="IPLab:Lab 10">Lab 10: Fungal Diseases</a> </span></h2>
+<ul><li> <a href="/wiki/IPLab:Lab_10:Objectives" title="IPLab:Lab 10:Objectives">Objectives</a>
+</li><li> <a href="/wiki/IPLab:Lab_10:Candidiasis" title="IPLab:Lab 10:Candidiasis">Kidney: Candidiasis</a>
+</li><li> <a href="/wiki/IPLab:Lab_10:Histoplasmosis" title="IPLab:Lab 10:Histoplasmosis">Adrenal Gland: Histoplasmosis</a>
+</li><li> <a href="/wiki/IPLab:Lab_10:Cryptococcosis" title="IPLab:Lab 10:Cryptococcosis">Lung: Cryptococcosis</a>
+</li><li> <a href="/wiki/IPLab:Lab_10:Blastomycosis" title="IPLab:Lab 10:Blastomycosis">Lung: Blastomycosis</a>
+</li><li> <a href="/wiki/IPLab:Lab_10:Mucormycosis" title="IPLab:Lab 10:Mucormycosis">Carotid Artery: Mucormycosis</a>
+</li><li> <a href="/wiki/IPLab:Lab_10:Additional_Resources" title="IPLab:Lab 10:Additional Resources">Additional Resources</a>
+</li></ul>
+<h2> <span class="mw-headline" id="Lab_11:_Parasitic_Diseases"> <a href="/wiki/IPLab:Lab_11" title="IPLab:Lab 11">Lab 11: Parasitic Diseases</a> </span></h2>
+<ul><li> <a href="/wiki/IPLab:Lab_11:Objectives" title="IPLab:Lab 11:Objectives">Objectives</a>
+</li><li> <a href="/wiki/IPLab:Lab_11:Malaria" title="IPLab:Lab 11:Malaria">Malaria</a>
+</li><li> <a href="/wiki/IPLab:Lab_11:Leishmaniasis" title="IPLab:Lab 11:Leishmaniasis">Leishmaniasis</a>
+</li><li> <a href="/wiki/IPLab:Lab_11:Ascariasis" title="IPLab:Lab 11:Ascariasis">Ascariasis</a>
+</li><li> <a href="/wiki/IPLab:Lab_11:Cysticercosis" title="IPLab:Lab 11:Cysticercosis">Cysticercosis</a>
+</li><li> <a href="/wiki/IPLab:Lab_11:Schistosomiasis" title="IPLab:Lab 11:Schistosomiasis">Schistosomiasis</a>
+</li><li> <a href="/wiki/IPLab:Lab_11:Chagas_Disease" title="IPLab:Lab 11:Chagas Disease">Chagas Disease</a>
+</li><li> <a href="/wiki/IPLab:Lab_11:Additional_Resources" title="IPLab:Lab 11:Additional Resources">Additional Resources</a>
+</li></ul>
+<h2> <span class="mw-headline" id="Lab_12:_Environmental_Pathology"> <a href="/wiki/IPLab:Lab_12" title="IPLab:Lab 12">Lab 12: Environmental Pathology</a> </span></h2>
+<ul><li> <a href="/wiki/IPLab:Lab_12:Objectives" title="IPLab:Lab 12:Objectives">Objectives</a>
+</li><li> <a href="/wiki/IPLab:Lab_12:Alcoholic_Cirrhosis" title="IPLab:Lab 12:Alcoholic Cirrhosis">Liver: Alcoholic Cirrhosis</a>
+</li><li> <a href="/wiki/IPLab:Lab_12:Acetaminophen_Toxicity" title="IPLab:Lab 12:Acetaminophen Toxicity">Liver: Acetaminophen Toxicity</a>
+</li><li> <a href="/wiki/IPLab:Lab_12:Radiation_Fibrosis" title="IPLab:Lab 12:Radiation Fibrosis">Lung: Radiation Fibrosis</a>
+</li><li> <a href="/wiki/IPLab:Lab_12:Radiation_Changes" title="IPLab:Lab 12:Radiation Changes">Ileum: Radiation Changes</a>
+</li><li> <a href="/wiki/IPLab:Lab_12:Thoracic_Mesothelioma" title="IPLab:Lab 12:Thoracic Mesothelioma">Thoracic Mesothelioma</a>
+</li><li> <a href="/wiki/IPLab:Lab_12:Burns" title="IPLab:Lab 12:Burns">Burns</a>
+</li><li> <a href="/wiki/IPLab:Lab_12:COPD" title="IPLab:Lab 12:COPD">Lung: Chronic Obstructive Pulmonary Disease</a>
+</li><li> <a href="/wiki/IPLab:Lab_12:Additional_Resources" title="IPLab:Lab 12:Additional Resources">Additional Resources</a>
+</li></ul>
+<h2> <span class="mw-headline" id="Lab_13:_Diseases_of_Infancy"> <a href="/wiki/IPLab:Lab_13" title="IPLab:Lab 13">Lab 13: Diseases of Infancy</a> </span></h2>
+<ul><li> <a href="/wiki/IPLab:Lab_13:Objectives" title="IPLab:Lab 13:Objectives">Objectives</a>
+</li><li> <a href="/wiki/IPLab:Lab_13:Myelomeningocele" title="IPLab:Lab 13:Myelomeningocele">Spine: Myelomeningocele</a>
+</li><li> <a href="/wiki/IPLab:Lab_13:Biliary_Atresia" title="IPLab:Lab 13:Biliary Atresia">Liver: Biliary Atresia</a>
+</li><li> <a href="/wiki/IPLab:Lab_13:Hyaline_Membrane_Disease" title="IPLab:Lab 13:Hyaline Membrane Disease">Lung: Hyaline Membrane Disease</a>
+</li><li> <a href="/wiki/IPLab:Lab_13:Wilms_Tumor" title="IPLab:Lab 13:Wilms Tumor">Kidney: Wilms Tumor</a>
+</li><li> <a href="/wiki/IPLab:Lab_13:Cystic_Fibrosis" title="IPLab:Lab 13:Cystic Fibrosis">Cystic Fibrosis</a>
+</li><li> <a href="/wiki/IPLab:Lab_13:Meningococcemia" title="IPLab:Lab 13:Meningococcemia">Meningococcemia</a>
+</li><li> <a href="/wiki/IPLab:Lab_13:Additional_Resources" title="IPLab:Lab 13:Additional Resources">Additional Resources</a>
+</li></ul>
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 51/1000000
+Preprocessor generated node count: 56/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key wikidb:pcache:idhash:11-0!*!0!!en!*!* and timestamp 20190831210846 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://peir.path.uab.edu/wiki/index.php?title=IPLab&amp;oldid=2247">http://peir.path.uab.edu/wiki/index.php?title=IPLab&amp;oldid=2247</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/wiki/Category:IPLab" title="Category:IPLab">IPLab</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<!-- header -->
+			<div id="mw-head">
+				
+<!-- 0 -->
+<div id="p-personal" role="navigation" class="">
+	<h3>Personal tools</h3>
+	<ul>
+<li id="pt-login"><a href="/wiki/index.php?title=Special:UserLogin&amp;returnto=IPLab" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+
+<!-- /0 -->
+				<div id="left-navigation">
+					
+<!-- 0 -->
+<div id="p-namespaces" role="navigation" class="vectorTabs">
+	<h3>Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/IPLab"  title="View the content page [c]" accesskey="c">Page</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/wiki/index.php?title=Talk:IPLab&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+				</div>
+				<div id="right-navigation">
+					
+<!-- 0 -->
+<div id="p-views" role="navigation" class="vectorTabs">
+	<h3>Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/IPLab" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/wiki/index.php?title=IPLab&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/wiki/index.php?title=IPLab&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet">
+	<h3><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/wiki/index.php" id="searchform">
+				<div>
+			<input type="search" name="search" title="Search Pathology Education Instructional Resource [f]" accesskey="f" id="searchInput" />			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />					<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+				</div>
+			</div>
+			<!-- /header -->
+			<!-- panel -->
+			<div id="mw-panel">
+				<!-- logo -->
+					<div id="p-logo" role="banner"><a style="background-image: url(UAB.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" role="navigation" id='p-navigation'>
+	<h3>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-Digital-library"><a href="http://peir.path.uab.edu/library" rel="nofollow">Digital library</a></li>
+			<li id="n-Virtual-microscopy"><a href="http://peir-vm.path.uab.edu" rel="nofollow">Virtual microscopy</a></li>
+			<li id="n-About-PEIR"><a href="/wiki/Pathology_Education_Instructional_Resource:About">About PEIR</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- Teaching -->
+<div class="portal" role="navigation" id='p-Teaching'>
+	<h3>Teaching</h3>
+	<div class="body">
+		<ul>
+			<li id="n-IPLab"><a href="/wiki/IPLab">IPLab</a></li>
+			<li id="n-Histologic"><a href="/wiki/Histologic">Histologic</a></li>
+			<li id="n-Cytology"><a href="/wiki/Cytologically_Yours">Cytology</a></li>
+			<li id="n-Informatics"><a href="/wiki/This_Is_Your_Brain_On_Informatics">Informatics</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /Teaching -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- TOOLBOX -->
+<div class="portal" role="navigation" id='p-tb'>
+	<h3>Toolbox</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/IPLab" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/IPLab" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-print"><a href="/wiki/index.php?title=IPLab&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+			<li id="t-permalink"><a href="/wiki/index.php?title=IPLab&amp;oldid=2247" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/wiki/index.php?title=IPLab&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+
+<!-- /LANGUAGES -->
+			</div>
+			<!-- /panel -->
+		</div>
+		<!-- footer -->
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 3 January 2014, at 12:03.</li>
+											<li id="footer-info-viewcount">This page has been accessed 373,447 times.</li>
+											<li id="footer-info-copyright">Content is available under <a href="/wiki/Pathology_Education_Instructional_Resource:License" title="Pathology Education Instructional Resource:License">the PEIR License</a>.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Pathology_Education_Instructional_Resource:Privacy_policy" title="Pathology Education Instructional Resource:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Pathology_Education_Instructional_Resource:About" title="Pathology Education Instructional Resource:About">About Pathology Education Instructional Resource</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Pathology_Education_Instructional_Resource:General_disclaimer" title="Pathology Education Instructional Resource:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://peir.path.uab.edu/wiki/index.php?title=IPLab&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="http://peir.path.uab.edu/wiki/Pathology_Education_Instructional_Resource:License"><img src="peir_88x31.png" alt="&amp;copy; 1999-2013 University of Alabama at Birmingham" width="88" height="31" /></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/wiki/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"missing","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","skins.vector.js"], null, true);
+}</script>
+<script src="http://peir.path.uab.edu/wiki/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 0.058 secs. -->
+	</body>
+</html>

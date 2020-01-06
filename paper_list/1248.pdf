@@ -1,0 +1,533 @@
+<HTML>
+<HEAD>
+   <TITLE>A First Course in Pharmacokinetics and
+   Biopharmaceutics</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+
+<center>
+<H1>A First Course in Pharmacokinetics and Biopharmaceutics</H1>
+
+<h2><a href="mailto:david@boomer.org">David Bourne, Ph.D.</a></h2>
+</center>
+
+<h1 align="center">A much more up-to-date version of this course is available at <a href="https://www.boomer.org/c/p4/">Basic Pharmacokinetics</a></h1>
+<table align="center">
+	<tr>
+		<td width = "75%" align = "center">&nbsp;
+</td>
+	</tr>
+</table>
+
+<HR>
+
+
+<UL>
+   <LI><A HREF="Ch01/Ch0101.html">1. Introduction to Course</A>
+   
+   <UL>
+      <LI><A HREF="Ch01/Ch0101.html">Staff</A>
+      
+      <LI><A HREF="Ch01/Ch0102.html">Grading</A>
+      
+      <LI><A HREF="Ch01/Ch0103.html">Coursework</A>
+      
+      <LI><A HREF="Ch01/Ch0104.html">Laboratory
+      Experiments</A>
+      
+      <LI><A HREF="Ch01/Ch0104.html">Textbook</A>
+      
+      <LI><A HREF="Ch01/Ch0105.html">Other References</A>
+      
+      <LI><A HREF="Ch01/Ch0106.html">Journals</A>
+   </UL>
+   
+   <LI><A HREF="Ch02/Ch0201.html">2. Background Material</A>
+   
+   <UL>
+      <LI><A HREF="Ch02/Ch0201.html">Exponents</A>
+      
+      <LI><A HREF="Ch02/Ch0202.html">Logarithms</A>
+      
+      <UL>
+         <LI><A HREF="Ch02/Ch0203.html">Semi-log graph
+         paper</A>
+      </UL>
+      
+      <LI><A HREF="Ch02/Ch0204.html">Calculus</A>
+      
+      <UL>
+         <LI><A HREF="Ch02/Ch0204.html">Differential
+         Calculus</A>
+         
+         <LI><A HREF="Ch02/Ch0205.html">Integral
+         Calculus</A>
+      </UL>
+      
+      <LI><A HREF="Ch02/Ch0206.html">Spreadsheet
+      Calculations</A>
+      
+      <LI><A HREF="Ch02/Ch0207.html">Spectrophotometric
+      Analysis</A>
+   </UL>
+   
+   <LI><A HREF="Ch03/Ch0301.html">3. Pharmacokinetic
+   Introduction</A>
+   
+   <LI><A HREF="Ch04/Ch0401.html">4. One Compartment I.V.
+   Bolus</A>
+   
+   <UL>
+      <LI><A HREF="Ch04/Ch0402.html">Assumptions</A>
+      
+      <LI><A HREF="Ch04/Ch0403.html">First-order
+      kinetics</A>
+      
+      <LI><A HREF="Ch04/Ch0404.html">Plasma data</A>
+      
+      <LI><A HREF="Ch04/Ch0410.html">Area under the
+      Curve</A>
+      
+      <LI><A HREF="Ch04/Ch0411.html">Half-life</A>
+   </UL>
+   
+   <LI><A HREF="Ch05/Ch0501.html">5. Analysis of Urine
+   Data</A>
+   
+   <UL>
+      <LI><A HREF="Ch05/Ch0502.html">Excretion Unchanged
+      - No Metabolism</A>
+      
+      <LI><A HREF="Ch05/Ch0504.html">Metabolism and
+      Excretion - Parallel Pathways</A>
+      
+      <LI><A HREF="Ch05/Ch0508.html">Clearance, CL</A>
+   </UL>
+   
+   <LI><A HREF="Ch06/Ch0601.html">6. Intravenous
+   Infusion</A>
+   
+   <UL>
+      <LI><A HREF="Ch06/Ch0602.html">Continuous infusion
+      - steady state</A>
+      
+      <LI><A HREF="Ch06/Ch0605.html">Combined Infusion
+      and bolus administration</A>
+      
+      <LI><A HREF="Ch06/Ch0606.html">Combined slow and
+      fast infusion</A>
+      
+      <LI><A HREF="Ch06/Ch0607.html">Post infusion</A>
+   </UL>
+   
+   <LI><A HREF="Ch07/Ch0701.html">7. Routes of Drug
+   Administration</A>
+   
+   <UL>
+      <LI><A HREF="Ch07/Ch0701.html">Oral</A>
+      
+      <LI><A HREF="Ch07/Ch0703.html">Buccal/Sublingual</A>
+      
+      <LI><A HREF="Ch07/Ch0703.html">Rectal</A>
+      
+      <LI><A HREF="Ch07/Ch0704.html">Intravenous</A>
+      
+      <LI><A HREF="Ch07/Ch0705.html">Subcutaneous</A>
+      
+      <LI><A HREF="Ch07/Ch0705.html">Intramuscular</A>
+      
+      <LI><A HREF="Ch07/Ch0706.html">Inhalation</A>
+      
+      <LI><A HREF="Ch07/Ch0706.html">Topical</A>
+      
+      <LI><A HREF="Ch07/Ch0706.html">Other ROA's</A>
+   </UL>
+   
+   <LI><A HREF="Ch08/Ch0801.html">8. Pharmacokinetics of
+   Oral Administration</A>
+   
+   <UL>
+      <LI><A HREF="Ch08/Ch0802.html">Differential
+      equation</A>
+      
+      <LI><A HREF="Ch08/Ch0803.html">Integrated
+      equation</A>
+      
+      <LI><A HREF="Ch08/Ch0804.html">Absorption rate
+      constant, ka</A>
+      
+      <LI><A HREF="Ch08/Ch0804.html">Extent of
+      absorption</A>
+   </UL>
+   
+   <LI><A HREF="Ch09/Ch0901.html">9. Calculation of
+   Bioavailability Parameters</A>
+   
+   <UL>
+      <LI><A HREF="Ch09/Ch0902.html">Calculation of
+      ka</A>
+      
+      <LI><A HREF="Ch09/Ch0904.html">Calculation of F</A>
+   
+   </UL>
+   
+   <LI><A HREF="Ch10/Ch1001.html">10. Bioavailability
+   Studies</A>
+   
+   <UL>
+      <LI><A HREF="Ch10/Ch1002.html">Definitions</A>
+      
+      <LI><A HREF="Ch10/Ch1003.html">Past bioavailability
+      problems</A>
+      
+      <LI><A HREF="Ch10/Ch1003.html">Reasons for
+      bioequivalence requirements</A>
+      
+      <LI><A HREF="Ch10/Ch1004.html">Bioavailability
+      study characteristics</A>
+   </UL>
+   
+   <LI><A HREF="Ch11/Ch1101.html">11. Physiological
+   Factors Affecting Oral Absorption</A>
+   
+   <UL>
+      <LI><A HREF="Ch11/Ch1102.html">Membrane
+      physiology</A>
+      
+      <LI><A HREF="Ch11/Ch1103.html">Gastrointestinal
+      physiology</A>
+   </UL>
+   
+   <LI><A HREF="Ch12/Ch1201.html">12. Physical-Chemical
+   Factors Affecting Oral Absorption</A>
+   
+   <UL>
+      <LI><A HREF="Ch12/Ch1202.html">pH - partition</A>
+      
+      <LI><A HREF="Ch12/Ch1203.html">Drug dissolution</A>
+   
+   </UL>
+   
+   <LI><A HREF="Ch13/Ch1301.html">13. Formulation
+   Factors</A>
+   
+   <UL>
+      <LI><A HREF="Ch13/Ch1301.html">Solutions</A>
+      
+      <LI><A HREF="Ch13/Ch1302.html">Suspensions</A>
+      
+      <LI><A HREF="Ch13/Ch1302.html">Capsules</A>
+      
+      <LI><A HREF="Ch13/Ch1302.html">Tablets</A>
+      
+      <LI><A HREF="Ch13/Ch1303.html">Sustained release
+      tablets</A>
+      
+      <LI><A HREF="Ch13/Ch1304.html">In vitro dosage form
+      testing</A>
+   </UL>
+   
+   <LI><A HREF="Ch14/Ch1401.html">14. Multiple IV Bolus
+   Dose Administration</A>
+   
+   <UL>
+      <LI><A HREF="Ch14/Ch1402.html">Single dose
+      summary</A>
+      
+      <UL>
+         <LI><A HREF="Ch14/Ch1402.html">IV bolus</A>
+         
+         <LI><A HREF="Ch14/Ch1403.html">IV infusion</A>
+         
+         <LI><A HREF="Ch14/Ch1404.html">Oral
+         administration</A>
+      </UL>
+      
+      <LI><A HREF="Ch14/Ch1405.html">Multiple IV
+      bolus</A>
+      
+      <UL>
+         <LI><A HREF="Ch14/Ch1405.html">Independent
+         doses</A>
+         
+         <LI><A HREF="Ch14/Ch1406.html">Accumulating
+         doses</A>
+         
+         <LI><A HREF="Ch14/Ch1407.html">Development of
+         general equation</A>
+         
+         <LI><A HREF="Ch14/Ch1408.html">Cpmax and Cpmin
+         equations</A>
+      </UL>
+   </UL>
+   
+   <LI><A HREF="Ch15/Ch1501.html">15. Multiple Oral Dose
+   Administration</A>
+   
+   <UL>
+      <LI><A HREF="Ch15/Ch1502.html">Cpmin equation</A>
+      
+      <LI><A HREF="Ch15/Ch1503.html">Average Cp
+      equation</A>
+      
+      <LI><A HREF="Ch15/Ch1504.html">Non-uniform dosing
+      intervals</A>
+   </UL>
+   
+   <LI><A HREF="Ch16/Ch1601.html">16. Routes of
+   Excretion</A>
+   
+   <UL>
+      <LI><A HREF="Ch16/Ch1602.html">Renal excretion</A>
+      
+      <LI><A HREF="Ch16/Ch1603.html">Hemodialysis</A>
+      
+      <LI><A HREF="Ch16/Ch1603.html">Biliary
+      excretion</A>
+      
+      <LI><A HREF="Ch16/Ch1604.html">Pulmonary
+      excretion</A>
+      
+      <LI><A HREF="Ch16/Ch1604.html">Salivary
+      excretion</A>
+      
+      <LI><A HREF="Ch16/Ch1605.html">Renal disease
+      considerations</A>
+      
+      <UL>
+         <LI><A HREF="Ch16/Ch1605.html">Dose
+         adjustment</A>
+         
+         <LI><A HREF="Ch16/Ch1606.html">Average Cp
+         calculations</A>
+         <LI><A HREF="Ch16/Ch1607.html">Cpmax/Cpmin
+         calculations</A>
+      </UL>
+   </UL>
+   
+   <LI><A HREF="Ch17/Ch1701.html">17. Metabolism</A>
+   
+   <UL>
+      <LI><A HREF="Ch17/Ch1702.html">Metabolic
+      reactions</A>
+      
+      <UL>
+         <LI><A HREF="Ch17/Ch1702.html">Phase I</A>
+         
+         <LI><A HREF="Ch17/Ch1703.html">Phase II</A>
+      </UL>
+      
+      <LI><A HREF="Ch17/Ch1703.html">Induction</A>
+      
+      <LI><A HREF="Ch17/Ch1703.html">Inhibition</A>
+      
+      <LI><A HREF="Ch17/Ch1704.html">Hepatic
+      clearance</A>
+      
+      <LI><A HREF="Ch17/Ch1705.html">Systemic
+      availability</A>
+   </UL>
+   
+   <LI><A HREF="Ch18/Ch1801.html">18. Drug
+   Distribution</A>
+   
+   <UL>
+      <LI><A HREF="Ch18/Ch1802.html">Drug distribution
+      patterns</A>
+      
+      <LI><A HREF="Ch18/Ch1803.html">Factors affecting
+      drug distribution</A>
+      
+      <UL>
+         <LI><A HREF="Ch18/Ch1803.html">Rate of
+         distribution</A>
+         
+         <LI><A HREF="Ch18/Ch1804.html">Extent of
+         distribution</A>
+      </UL>
+      
+      <LI><A HREF="Ch18/Ch1805.html">Weight
+      considerations</A>
+      
+      <LI><A HREF="Ch18/Ch1805.html">Protein binding
+      interactions</A>
+   </UL>
+   
+   <LI><A HREF="Ch19/Ch1901.html">19. Multi-Compartment
+   Pharmacokinetic Models</A>
+   
+   <UL>
+      <LI><A HREF="Ch19/Ch1902.html">Intravenous
+      administration</A>
+      
+      <UL>
+         <LI><A HREF="Ch19/Ch1902.html">Scheme or
+         diagram</A>
+         
+         <LI><A HREF="Ch19/Ch1902.html">Differential
+         equation</A>
+         
+         <LI><A HREF="Ch19/Ch1902.html">Integrated
+         equation</A>
+         
+         <LI><A HREF="Ch19/Ch1903.html">Parameter
+         determination</A>
+         
+         <LI><A HREF="Ch19/Ch1904.html">Effect of k12 and
+         k21</A>
+         
+         <LI><A HREF="Ch19/Ch1905.html">Apparent volumes
+         of distribution</A>
+         
+         <LI><A HREF="Ch19/Ch1906.html">Dosage
+         calculations</A>
+      </UL>
+      
+      <LI><A HREF="Ch19/Ch1907.html">Oral
+      administration</A>
+      
+      <LI><A HREF="Ch19/Ch1908.html">Non Compartmental
+      Analysis</A>
+   </UL>
+   
+   <LI><A HREF="Ch20/Ch2001.html">20. Non-Linear
+   Pharmacokinetic Models</A>
+   
+   <UL>
+      <LI><A HREF="Ch20/Ch2002.html">Scheme or
+      diagram</A>
+      
+      <LI><A HREF="Ch20/Ch2003.html">Differential
+      equation</A>
+      
+      <LI><A HREF="Ch20/Ch2004.html">Parallel pathway</A>
+      
+      <LI><A HREF="Ch20/Ch2005.html">Dosing
+      approaches</A>
+   </UL>
+   
+   <LI><A HREF="Ch21/Ch2101.html">21. Clinical
+   Applications of Pharmacokinetics</A>
+   
+   <UL>
+      <LI><A HREF="Ch21/Ch2102.html">Therapeutic drug
+      monitoring</A>
+      
+      <LI><A HREF="Ch21/Ch2103.html">Pediatric
+      considerations</A>
+      
+      <LI><A HREF="Ch21/Ch2104.html">Geriatric
+      considerations</A>
+   </UL>
+   
+   <LI><A HREF="Ch22/Ch2201.html">22. Laboratory
+   Assignments</A>
+   
+   <UL>
+      <LI><A HREF="Ch22/Ch2201.html">Introduction</A>
+      
+      <LI><A HREF="Ch22/Ch2202.html">Analysis of drugs by
+      visible spectroscopy</A>
+      
+      <LI><A HREF="Ch22/Ch2203.html">Extraction of
+      salicylic acid</A>
+      
+      <LI><A HREF="Ch22/Ch2204.html">One compartment
+      model - IV bolus</A>
+      
+      <LI><A HREF="Ch22/Ch2205.html">One compartment
+      model - IV infusion</A>
+      
+      <LI><A HREF="Ch22/Ch2206.html">One compartment
+      model - Oral</A>
+      
+      <LI><A HREF="Ch22/Ch2207.html">Computer simulation
+      - single dose</A>
+      
+      <LI><A HREF="Ch22/Ch2208.html">Student presentation
+      concerning Biopharmaceutics</A>
+      
+      <LI><A HREF="Ch22/Ch2209.html">One compartment
+      model-IV bolus- multiple dose</A>
+      
+      <LI><A HREF="Ch22/Ch2210.html">Computer simulation
+      - multiple dose</A>
+      
+      <LI><A HREF="Ch22/Ch2211.html">Computer simulation
+      - two compartment models</A>
+      
+      <LI><A HREF="Ch22/Ch2212.html">Student
+      presentations on Pharmacokinetics</A>
+      
+      <LI><A HREF="Ch22/Ch2213.html">Pharmacokinetic
+      simulations using MacDope</A>
+   </UL>
+</UL>
+
+
+<hr>
+
+<H2>Exams and Homework Sets (with answers)</H2>
+
+<H3>Exams (1995)</H3>
+
+<UL>
+   <LI><A HREF="Ch06/Exam950601.html">First Exam</A>
+   
+   <LI><A HREF="Ch17/Exam951701.html">Second Exam</A>
+   
+   <LI><A HREF="Ch21/Exam952101.html">Final Exam</A>
+</UL>
+
+<H3>Homework Sets (1995)</H3>
+
+<UL>
+   <LI><A HREF="Ch04/hw950401.html">Chapter 4</A>
+   
+   <LI><A HREF="Ch05/hw950501.html">Chapter 5</A>
+   
+   <LI><A HREF="Ch06/hw950601.html">Chapter 6</A>
+   
+   <LI><A HREF="Ch08/hw950801.html">Chapter 8</A>
+   
+   <LI><A HREF="Ch15/hw951501.html">Chapter 15</A>
+   
+   <LI><A HREF="Ch20/hw952001.html">Chapter 20</A>
+</UL>
+
+<H3>Homework Sets (1997)</H3>
+
+<UL>
+   <LI><A HREF="Ch04/hw970401.html">Chapter 4</A>
+   
+   <LI><A HREF="Ch05/hw970501.html">Chapter 5</A>
+</UL>
+
+<H3 ALIGN=LEFT><A HREF="pa_index.html">Java Applets - On line Graphs</A></H3>
+<H3 ALIGN=LEFT><A HREF="https://www.boomer.org/c/p1/jscalc_index.html">JavaScript Calculators  Online</A></H3>
+
+<HR>
+
+<H2>The Development Team</H2>
+
+<UL>
+   <LI>David Bourne - Principal Investigator, Content, Webmaster
+   
+   <LI>Geoffrey Bourne - some HTML formatting, Graphics conversions,
+   C-programmer
+   
+   <LI>Andy Nguyen - some Graphics
+   
+   <LI>Henry W. Kinnard, Jr. - some HTML formatting
+</UL>
+
+<hr>
+<!--#config timefmt="%A %d %b %Y at %I:%M %p" -->
+This page was last modified:
+<!--#flastmod virtual = "index.html" -->
+<p>
+<!--#include virtual = "/pkcredit.html" -->
+<HR>
+
+</BODY>
+</HTML>

@@ -1,0 +1,15 @@
+<head>
+<TITLE>The Basics of MRI</TITLE>
+<link rel="icon" type="image/gif" href="images/icon.gif">
+</head>
+
+<frameset cols="50%, 50%">
+<frameset rows="73%, 20%, 7%">
+<frame src="contents.htm"  name="ANIMATION" scrolling="auto">
+<frame src="refs/ref-start.htm"  name="REFS" scrolling="auto">
+<frame src="ribbon.htm">
+</frameset>
+<frame src="author.htm"  name="TEXT" scrolling="auto">
+</frameset>
+
+<NOFRAMES>This book requires a browser capable of viewing frames.</NOFRAMES>
