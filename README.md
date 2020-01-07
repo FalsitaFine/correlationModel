@@ -1,10 +1,13 @@
 # correlationModel
 
-It is a tool created for the word fixing model (https://github.com/FalsitaFine/wordfixing).
+It is a toolbox created for the word fixing model (https://github.com/FalsitaFine/wordfixing).
 
-Compute the relationship between different terms with the following idea: if two words are likely to appear together in a same text sentence, then they are related.
+The correlation tool computes the relationship between different terms with the following idea: if two words are likely to appear together in a same text sentence, then they are related.
 
-This tool has not been used in the fixing model, where Word2Vec approach is used instead.
+There are also tools for collecting medical articles and tools for generate training files in this repo.
+
+
+These tools has not been used in the fixing model, where Word2Vec approach is used instead.
 
 
 
